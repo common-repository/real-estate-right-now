@@ -1,0 +1,1680 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-02 12:36+0100\n"
+"PO-Revision-Date: 2024-10-02 13:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dashboard/dashboard.php:13
+msgid "Server Check"
+msgstr "Verificare server"
+
+#: dashboard/dashboard.php:18
+msgid "Memory Status"
+msgstr "Stare memorie"
+
+#: dashboard/dashboard.php:24 dashboard/memory.php:16
+msgid "Unable to get your Memory Info"
+msgstr "Nu se pot obține informațiile despre memorie"
+
+#: dashboard/dashboard.php:51
+#| msgid "Memory Status"
+msgid "Memory Usage"
+msgstr "Utilizarea memoriei"
+
+#: dashboard/dashboard.php:53
+msgid "of"
+msgstr "de"
+
+#: dashboard/dashboard.php:53
+msgid "Usage"
+msgstr "Utilizare"
+
+#: dashboard/dashboard.php:56
+msgid "For details, click the Memory Checkup Tab above."
+msgstr "Pentru detalii, faceți clic pe fila Verificare memorie de mai sus."
+
+#: dashboard/dashboard.php:61
+msgid "Permalink Settings"
+msgstr "Setări permalink"
+
+#: dashboard/dashboard.php:68
+msgid "Wrong Permalink settings!"
+msgstr "Setări greșite pentru permalink!"
+
+#: dashboard/dashboard.php:70
+msgid "Please, fix it to avoid 404 error page."
+msgstr "Vă rugăm să remediați pentru a evita pagina de eroare 404."
+
+#: dashboard/dashboard.php:72
+msgid "To correct, just follow these steps:"
+msgstr "Pentru a corecta, trebuie doar să urmați acești pași:"
+
+#: dashboard/dashboard.php:74
+msgid "Dashboard => Settings => Permalinks => Post Name (check)"
+msgstr ""
+"Tabloul de bord => Setări => Legături permanente => Nume postare (bifează)"
+
+#: dashboard/dashboard.php:76
+msgid "Click Save Changes"
+msgstr "Faceți clic pe Salvare modificări"
+
+#: dashboard/dashboard.php:85
+msgid "Premium Version Disabled."
+msgstr "Versiunea premium dezactivată."
+
+#: dashboard/dashboard.php:87
+msgid "Many Features are not included in the free version."
+msgstr "Multe caracteristici nu sunt incluse în versiunea gratuită."
+
+#: dashboard/dashboard.php:91
+msgid "Complete real time visual template design functionality."
+msgstr ""
+"Funcționalitate completă de proiectare a șablonului vizual în timp real."
+
+#: dashboard/dashboard.php:93
+msgid "- Last Properties"
+msgstr "- Ultimele proprietăți"
+
+#: dashboard/dashboard.php:95
+msgid "- Featured Properties"
+msgstr "- Proprietăți prezentate"
+
+#: dashboard/dashboard.php:97
+msgid "- Order by Price/Year Ascending/Descending"
+msgstr "- Ordonați după preț/an Crescător/Descrescător"
+
+#: dashboard/dashboard.php:99
+#| msgid "- Shortcode to list only properties for rent (or for sale)"
+msgid "- List only properties for rent / sale"
+msgstr "- Listați numai proprietăți pentru închiriere/vânzare"
+
+#: dashboard/dashboard.php:101
+msgid "- Create Blocks type Gallery or Page List"
+msgstr "- Creați blocuri de tip Galerie sau Lista de pagini"
+
+#: dashboard/dashboard.php:104
+msgid "- Number of Properties to show"
+msgstr "- Numărul de proprietăți de afișat"
+
+#: dashboard/dashboard.php:106
+#, fuzzy
+#| msgid "- Show or Hide Search Box"
+msgid "- Show or Hide Search Box / Pagination"
+msgstr "- Afișați sau ascundeți caseta de căutare / paginare"
+
+#: dashboard/dashboard.php:108
+msgid "- More..."
+msgstr "- Mai mult..."
+
+#: dashboard/dashboard.php:112 dashboard/memory.php:61
+#: includes/diagnose/class_bill_diagnose.php:754
+#: includes/diagnose/class_bill_diagnose.php:792
+#: includes/functions/functions.php:935
+msgid "Learn More"
+msgstr "Află mai multe"
+
+#: dashboard/dashboard.php:120
+msgid "Follow these 3 steps after installing the plugin:"
+msgstr "Urmați acești 3 pași după instalarea pluginului:"
+
+#: dashboard/dashboard.php:126
+msgid "Configure Settings"
+msgstr "Configurați setările"
+
+#: dashboard/dashboard.php:127
+msgid "Go to"
+msgstr "Du-te la"
+
+#: dashboard/dashboard.php:128
+msgid "Dashboard => Real Estate => Settings"
+msgstr "Tabloul de bord => Imobiliare => Setări"
+
+#: dashboard/dashboard.php:130
+msgid "Fill out the information"
+msgstr "Completați informațiile"
+
+#: dashboard/dashboard.php:132
+msgid "Your Currency"
+msgstr "Moneda dvs"
+
+#: dashboard/dashboard.php:134
+msgid "Meters - Feet"
+msgstr "Metri - Picioare"
+
+#: dashboard/dashboard.php:136
+msgid "Your Contact Email"
+msgstr "E-mailul dvs. de contact"
+
+#: dashboard/dashboard.php:138 dashboard/dashboard.php:163
+msgid "And so on..."
+msgstr "Și așa mai departe..."
+
+#: dashboard/dashboard.php:140
+msgid "Import Demo Data:"
+msgstr "Importați date demonstrative:"
+
+#: dashboard/dashboard.php:142
+msgid ""
+"If you want to import demo data, click the Help button at the top right "
+"corner"
+msgstr ""
+"Dacă doriți să importați date demonstrative, faceți clic pe butonul Ajutor "
+"din colțul din dreapta sus"
+
+#: dashboard/dashboard.php:144
+msgid "If you import demo data, you can skip step 2."
+msgstr "Dacă importați date demonstrative, puteți sări peste pasul 2."
+
+#: dashboard/dashboard.php:149
+msgid "Fill Out Fields and Properties Table"
+msgstr "Completați câmpurile și tabelul cu proprietăți"
+
+#: dashboard/dashboard.php:150
+msgid "Go to Fields Table:"
+msgstr "Accesați tabelul câmpurilor:"
+
+#: dashboard/dashboard.php:151
+msgid "Dashboard => Real Estate => Fields Table"
+msgstr "Tabloul de bord => Imobiliare => Tabel câmpuri"
+
+#: dashboard/dashboard.php:153
+msgid "These are the fields that will appear in your properties form:"
+msgstr "Acestea sunt câmpurile care vor apărea în formularul de proprietăți:"
+
+#: dashboard/dashboard.php:155
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: dashboard/dashboard.php:157
+msgid "Pool"
+msgstr "Piscină"
+
+#: dashboard/dashboard.php:159
+msgid "Balcony"
+msgstr "Balcon"
+
+#: dashboard/dashboard.php:161
+msgid "Garage"
+msgstr "Garaj"
+
+#: dashboard/dashboard.php:165
+msgid "You don't need to include these fields:"
+msgstr "Nu trebuie să includeți aceste câmpuri:"
+
+#: dashboard/dashboard.php:166
+msgid "Address, Purpose, Beds, Baths, Price, Year, Area."
+msgstr "Adresă, Scop, Paturi, Băi, Preț, An, Suprafață."
+
+#: dashboard/dashboard.php:168
+msgid "Go to Properties Table:"
+msgstr "Accesați tabelul de proprietăți:"
+
+#: dashboard/dashboard.php:169
+msgid "Dashboard => Real Estate => Properties Table"
+msgstr "Tabloul de bord => Imobiliare => Tabel Proprietăți"
+
+#: dashboard/dashboard.php:171
+msgid "Fill out this table with your properties, for example:"
+msgstr "Completați acest tabel cu proprietățile dvs., de exemplu:"
+
+#: dashboard/dashboard.php:173
+msgid "Apartments"
+msgstr "Apartamente"
+
+#: dashboard/dashboard.php:175
+msgid "Offices"
+msgstr "Birouri"
+
+#: dashboard/dashboard.php:177
+msgid "And so on."
+msgstr "Și așa mai departe."
+
+#: dashboard/dashboard.php:183
+msgid "Paste the Code in Your Page"
+msgstr "Lipiți codul în pagina dvs"
+
+#: dashboard/dashboard.php:184
+msgid "Go to your page and copy and paste this code:"
+msgstr "Accesați pagina dvs. și copiați și inserați acest cod:"
+
+#: dashboard/dashboard.php:187
+msgid "To show only the search bar, use the following shortcode:"
+msgstr "Pentru a afișa numai bara de căutare, utilizați următorul cod scurt:"
+
+#: dashboard/dashboard.php:190
+msgid "To create a Team page, use the following shortcode:"
+msgstr "Pentru a crea o pagină de echipă, utilizați următorul cod scurt:"
+
+#: dashboard/dashboard.php:193
+msgid "The premium version includes dozens of extra shortcodes..."
+msgstr "Versiunea premium include zeci de coduri scurte suplimentare..."
+
+#: dashboard/dashboard.php:200
+msgid "Help, Demo, Support, Troubleshooting:"
+msgstr "Ajutor, demonstrație, asistență, depanare:"
+
+#: dashboard/dashboard.php:206
+msgid "Help and More Tips"
+msgstr "Ajutor și mai multe sfaturi"
+
+#: dashboard/dashboard.php:207
+msgid ""
+"Just click the HELP button at the top right corner of this page for context "
+"help. Tooltips are also available in the fields form."
+msgstr ""
+"Doar faceți clic pe butonul AJUTOR din colțul din dreapta sus al acestei "
+"pagini pentru ajutor contextual. Sfaturi cu instrumente sunt disponibile și "
+"în formularul de câmpuri."
+
+#: dashboard/dashboard.php:213
+msgid "Online Guide, Support, Demo, Demo Video, FAQ..."
+msgstr "Ghid online, Asistență, Demo, Video Demo, Întrebări frecvente..."
+
+#: dashboard/dashboard.php:214
+msgid ""
+"You can find our complete and updated online guide, demo video, FAQ page, "
+"and link to the support page on our site."
+msgstr ""
+"Puteți găsi ghidul nostru online complet și actualizat, videoclipul "
+"demonstrativ, pagina de întrebări frecvente și linkul către pagina de "
+"asistență de pe site-ul nostru."
+
+#: dashboard/dashboard.php:217
+msgid "Go"
+msgstr "Merge"
+
+#: dashboard/dashboard.php:222
+msgid "Troubleshooting Guide"
+msgstr "Ghid de depanare"
+
+#: dashboard/dashboard.php:223
+msgid ""
+"Issues like using an old WordPress version, low memory, plugins with "
+"JavaScript errors, or wrong permalink settings can cause problems. Read the "
+"troubleshooting guide to fix them quickly!"
+msgstr ""
+"Probleme precum utilizarea unei versiuni vechi de WordPress, memorie "
+"scăzută, pluginuri cu erori JavaScript sau setări greșite de permalink pot "
+"cauza probleme. Citiți ghidul de depanare pentru a le remedia rapid!"
+
+#: dashboard/dashboard.php:225
+msgid "Troubleshooting Page"
+msgstr "Pagina de depanare"
+
+#: dashboard/main.php:163
+msgid "Help and Support Page"
+msgstr "Pagina de ajutor și asistență"
+
+#: dashboard/memory.php:19
+msgid "Memory Info"
+msgstr "Informații despre memorie"
+
+#: dashboard/memory.php:37
+msgid "Current memory WordPress Limit:"
+msgstr "Limită WordPress de memorie curentă:"
+
+#: dashboard/memory.php:45
+msgid "Your usage now:"
+msgstr "Utilizarea dvs. acum:"
+
+#: dashboard/memory.php:51
+msgid "Total Server Memory:"
+msgstr "Memoria totală a serverului:"
+
+#: dashboard/memory.php:58
+msgid ""
+"If you want adjust and control your WordPress Memory Limit and PHP Memory "
+"Limit quickly, try our free plugin WPmemory:"
+msgstr ""
+"Dacă doriți să ajustați și să controlați rapid limita de memorie WordPress "
+"și limita de memorie PHP, încercați pluginul nostru gratuit WPmemory:"
+
+#: dashboard/memory.php:66
+msgid "Follow these instructions to do it manually:"
+msgstr "Urmați aceste instrucțiuni pentru a face acest lucru manual:"
+
+#: dashboard/memory.php:72
+msgid ""
+"To increase the WordPress memory limit, add this info to your file wp-config."
+"php (located at the root folder of your server)"
+msgstr ""
+"Pentru a crește limita de memorie WordPress, adăugați aceste informații în "
+"fișierul dvs. wp-config.php (situat în folderul rădăcină al serverului dvs.)"
+
+#: dashboard/memory.php:75
+msgid "(just copy and paste)"
+msgstr "(doar copiați și lipiți)"
+
+#: dashboard/memory.php:83
+msgid "before this line:"
+msgstr "înainte de această linie:"
+
+#: dashboard/memory.php:89
+msgid "If you need more, just replace 128 with the new memory limit."
+msgstr ""
+"Dacă aveți nevoie de mai multe, înlocuiți 128 cu noua limită de memorie."
+
+#: dashboard/memory.php:93
+msgid "To increase your total server memory, talk with your hosting company."
+msgstr ""
+"Pentru a vă mări memoria totală a serverului, discutați cu compania dvs. de "
+"găzduire."
+
+#: dashboard/memory.php:100
+msgid "How to Tell if Your Site Needs More Memory:"
+msgstr "Cum să-ți dai seama dacă site-ul tău are nevoie de mai multă memorie:"
+
+#: dashboard/memory.php:104
+msgid ""
+"If your site is behaving slowly, pages fail to load, you get random white "
+"screens of death or 500 internal server errors, you may need more memory."
+msgstr ""
+"Dacă site-ul dvs. se comportă lent, paginile nu se încarcă, primiți ecrane "
+"albe aleatorii ale morții sau 500 de erori interne ale serverului, este "
+"posibil să aveți nevoie de mai multă memorie."
+
+#: dashboard/memory.php:107
+msgid ""
+"Several things consume memory, such as WordPress itself, installed plugins, "
+"the theme, and the content of your site."
+msgstr ""
+"Mai multe lucruri consumă memorie, cum ar fi WordPress însuși, pluginurile "
+"instalate, tema și conținutul site-ului tău."
+
+#: dashboard/memory.php:110
+msgid ""
+"Basically, the more content and features you add to your site, the larger "
+"your memory limit needs to be."
+msgstr ""
+"Practic, cu cât adăugați mai mult conținut și caracteristici site-ului dvs., "
+"cu atât limita de memorie trebuie să fie mai mare."
+
+#: dashboard/memory.php:113
+msgid ""
+"If you're running a small site with basic functions, you may not need to "
+"increase your memory limit. But once you start using premium themes or "
+"plugins, or encounter unexpected issues, it's time to adjust your memory "
+"limit."
+msgstr ""
+"Dacă rulați un site mic cu funcții de bază, este posibil să nu aveți nevoie "
+"să vă măriți limita de memorie. Dar odată ce începeți să utilizați teme sau "
+"pluginuri premium sau întâmpinați probleme neașteptate, este timpul să vă "
+"ajustați limita de memorie."
+
+#: dashboard/mybanners.php:191
+msgid "Did you like the Real Estate Right Now Plugin?"
+msgstr "Ți-a plăcut pluginul Real Estate Right Now?"
+
+#: dashboard/mybanners.php:193
+msgid ""
+"Please support us by rating our plugin on WordPress.org. Help us keep this "
+"plugin live and updated."
+msgstr ""
+"Vă rugăm să ne susțineți prin evaluarea pluginului nostru pe WordPress.org. "
+"Ajutați-ne să menținem acest plugin activ și actualizat."
+
+#: dashboard/mybanners.php:196 dashboard/mybanners.php:205
+msgid "Rate"
+msgstr "Rata"
+
+#: dashboard/mybanners.php:199
+msgid "Please help us keep the plugin live & up-to-date"
+msgstr "Vă rugăm să ne ajutați să menținem pluginul activ și actualizat"
+
+#: dashboard/mybanners.php:202
+msgid ""
+"If you use & enjoy Real Estate Right Now Plugin, please rate it on WordPress."
+"org. It only takes a second and helps us keep the plugin live and "
+"maintained. Thank you!"
+msgstr ""
+"Dacă utilizați și vă bucurați de Pluginul Real Estate Right Now, vă rugăm să "
+"îl evaluați pe WordPress.org. Durează doar o secundă și ne ajută să menținem "
+"pluginul activ și întreținut. Multumesc!"
+
+#: includes/contact-form/multi-contact-show-form.php:23
+#| msgid "Fill out the information"
+msgid "Request Information"
+msgstr "Solicitați informații"
+
+#: includes/contact-form/multi-contact-show-form.php:27
+msgid "Your Name"
+msgstr "Numele dumneavoastră"
+
+#: includes/contact-form/multi-contact-show-form.php:30
+msgid "Please type your name"
+msgstr "Vă rugăm să introduceți numele dvs"
+
+#: includes/contact-form/multi-contact-show-form.php:33
+#| msgid "Your Contact Email"
+msgid "Your Email"
+msgstr "E-mailul dvs"
+
+#: includes/contact-form/multi-contact-show-form.php:36
+msgid "Please type your email"
+msgstr "Vă rugăm să introduceți adresa de e-mail"
+
+#: includes/contact-form/multi-contact-show-form.php:40
+msgid "Your Message"
+msgstr "Mesajul dvs"
+
+#: includes/contact-form/multi-contact-show-form.php:42
+msgid "Please type your message"
+msgstr "Vă rugăm să introduceți mesajul dvs"
+
+#: includes/contact-form/multi-contact-show-form.php:48
+msgid "Send"
+msgstr "Trimite"
+
+#: includes/contact-form/multi-contact-show-form.php:49
+msgid "Cancel"
+msgstr "Anula"
+
+#: includes/contact-form/multi-contact-show-form.php:54
+msgid "Sending your message. Please wait..."
+msgstr "Trimitem mesajul. Te rugăm aşteaptă …"
+
+#: includes/contact-form/multi-contact-show-form.php:55
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr "Mulţumim pentru mesaj. Te vom contacta în curând."
+
+#: includes/contact-form/multi-contact-show-form.php:56
+msgid "There was a problem sending your message. Please try again."
+msgstr ""
+"A apărut o problemă la trimiterea mesajului dvs. Vă rugăm să încercați din "
+"nou."
+
+#: includes/contact-form/multi-contact-show-form.php:57
+msgid "Please enter one valid email address."
+msgstr "Vă rugăm să introduceți o adresă de e-mail validă."
+
+#: includes/contact-form/multi-contact-show-form.php:58
+msgid "Please complete all the fields in the form before sending."
+msgstr ""
+"Vă rugăm să completați toate câmpurile din formular înainte de a trimite."
+
+#: includes/contact-form/multi-contact-show-form.php:59
+msgid "Name Error. Use only alpha."
+msgstr "Eroare de nume. Folosiți numai alfa."
+
+#: includes/contact-form/multi-contact-show-form.php:60
+msgid "Message Error. Only Use only alpha and numbers."
+msgstr "Eroare de mesaj. Folosiți numai alfa și numere."
+
+#: includes/customizer/customizer.php:17
+msgid "Real Estate Custom Design"
+msgstr "Design personalizat imobiliar"
+
+#: includes/customizer/customizer.php:20
+msgid ""
+"Click the Templates icon at the top left of the preview window to change "
+"your template. To customize further, simply click on any element, or it's "
+"corresponding shortcut icon, to edit it's styling. "
+msgstr ""
+"Faceți clic pe pictograma Șabloane din partea stângă sus a ferestrei de "
+"previzualizare pentru a vă schimba șablonul. Pentru a personaliza mai mult, "
+"faceți clic pe orice element sau pe pictograma de comandă rapidă "
+"corespunzătoare, pentru a-i edita stilul. "
+
+#: includes/customizer/customizer.php:31
+msgid "Help"
+msgstr "Ajutor"
+
+#: includes/customizer/customizer.php:62
+msgid "Templates"
+msgstr "Șabloane"
+
+#: includes/customizer/customizer.php:65
+msgid "Choose the Real Estate Template to Use."
+msgstr "Alegeți șablonul imobiliar de utilizat."
+
+#: includes/customizer/customizer.php:76
+msgid "Single Property Templates"
+msgstr "Șabloane cu proprietăți unice"
+
+#: includes/customizer/customizer.php:79
+msgid "Choose the Single Property Template to Use."
+msgstr "Alegeți șablonul de proprietate unică de utilizat."
+
+#: includes/customizer/customizer.php:90
+msgid "Search Box LayOut"
+msgstr "Aspect caseta de căutare"
+
+#: includes/customizer/customizer.php:92
+msgid "Design the Search Box"
+msgstr "Proiectați caseta de căutare"
+
+#: includes/customizer/customizer.php:98
+msgid "Search Box Fields"
+msgstr "Câmpurile casetei de căutare"
+
+#: includes/customizer/customizer.php:100
+msgid "Manage the Design fields"
+msgstr "Gestionați câmpurile Design"
+
+#: includes/customizer/customizer.php:105
+msgid "Search Box Slider"
+msgstr "Slider Caseta de căutare"
+
+#: includes/customizer/customizer.php:107
+msgid "Customize the price Slider."
+msgstr "Personalizați glisorul de preț."
+
+#: includes/customizer/customizer.php:112
+msgid "Search Box Button"
+msgstr "Butonul Caseta de căutare"
+
+#: includes/customizer/customizer.php:114
+msgid "Customize the Search Box Button."
+msgstr "Personalizați butonul Caseta de căutare."
+
+#: includes/customizer/customizer.php:119
+msgid "Property Template and Widgets"
+msgstr "Șablon de proprietate și widget-uri"
+
+#: includes/customizer/customizer.php:122
+msgid "Customize the Property Template and Widgets."
+msgstr "Personalizați șablonul de proprietate și widget-urile."
+
+#: includes/customizer/customizer.php:129
+msgid "Single Property Template"
+msgstr "Șablon de proprietate unică"
+
+#: includes/customizer/customizer.php:131
+msgid "Customize the Single Property Template."
+msgstr "Personalizați șablonul de proprietate unică."
+
+#: includes/customizer/customizer.php:136
+msgid "Buttons Back and Contact Us"
+msgstr "Butoane Înapoi și Contactați-ne"
+
+#: includes/customizer/customizer.php:139
+msgid "Customize the Buttons Back and Contact Us."
+msgstr "Personalizați butoanele Înapoi și contactați-ne."
+
+#: includes/customizer/customizer.php:210
+msgid "Search Fields Label Color"
+msgstr "Culoare etichetă câmpuri de căutare"
+
+#: includes/customizer/customizer.php:223
+msgid "Search Fields Controls Color"
+msgstr "Câmpurile de căutare controlează culoarea"
+
+#: includes/customizer/customizer.php:236
+msgid "Search Fields Controls Background Color"
+msgstr "Câmpurile de căutare controlează culoarea de fundal"
+
+#: includes/customizer/customizer.php:254
+msgid "Search Fields Controls Border Radius"
+msgstr "Câmpurile de căutare controlează raza chenarului"
+
+#: includes/customizer/customizer.php:255
+#: includes/customizer/customizer.php:330
+#: includes/customizer/customizer.php:419
+#: includes/customizer/customizer.php:603
+#: includes/customizer/customizer.php:689
+#: includes/customizer/customizer.php:1031
+msgid "Border Radius: from 0 to 30."
+msgstr "Raza frontierei: de la 0 la 30."
+
+#: includes/customizer/customizer.php:272
+msgid "Search Slider Label Color"
+msgstr "Culoarea etichetei cursorului de căutare"
+
+#: includes/customizer/customizer.php:285
+msgid "Search Slider Color"
+msgstr "Căutare Slider Color"
+
+#: includes/customizer/customizer.php:298
+msgid "Search Slider Handle Color"
+msgstr "Căutare Culoare mâner glisor"
+
+#: includes/customizer/customizer.php:311
+msgid "Search Slider Background Color"
+msgstr "Culoarea de fundal a cursorului de căutare"
+
+#: includes/customizer/customizer.php:329
+msgid "Search Slider Border Radius"
+msgstr "Căutare Slider Border Radius"
+
+#: includes/customizer/customizer.php:347
+msgid "Search Slider Border Color"
+msgstr "Căutare Slider Border Color"
+
+#: includes/customizer/customizer.php:367
+msgid "Search Box Button Text Color"
+msgstr "Culoarea textului butonului casetei de căutare"
+
+#: includes/customizer/customizer.php:382
+msgid "Search Box Button Background Color"
+msgstr "Culoarea de fundal a butonului Caseta de căutare"
+
+#: includes/customizer/customizer.php:399
+msgid "Search Box Button Width"
+msgstr "Lățimea butonului casetei de căutare"
+
+#: includes/customizer/customizer.php:400
+#: includes/customizer/customizer.php:623
+msgid "Button width: from 100 to 300."
+msgstr "Lățimea butonului: de la 100 la 300."
+
+#: includes/customizer/customizer.php:418
+msgid "Search Box Button Border Radius"
+msgstr "Buton Caseta de căutare Raza marginii"
+
+#: includes/customizer/customizer.php:447
+msgid "Template Name"
+msgstr "Nume șablon"
+
+#: includes/customizer/customizer.php:485
+msgid "Single Property Template Name"
+msgstr "Nume șablon de proprietate unică"
+
+#: includes/customizer/customizer.php:505
+msgid "Single Property Template Pop Up Modal Width"
+msgstr "Lățimea modală a șablonului cu o singură proprietate"
+
+#: includes/customizer/customizer.php:525
+msgid "Template Text Color"
+msgstr "Culoare text șablon"
+
+#: includes/customizer/customizer.php:540
+msgid "Template Background Color (works with templates gallery and list view)"
+msgstr ""
+"Culoare de fundal a șablonului (funcționează cu galeria de șabloane și "
+"vizualizarea listă)"
+
+#: includes/customizer/customizer.php:555
+msgid "Template Title Color"
+msgstr "Culoarea titlului șablonului"
+
+#: includes/customizer/customizer.php:570
+msgid "Template Button View Color"
+msgstr "Culoare Vizualizare Buton șablon"
+
+#: includes/customizer/customizer.php:585
+msgid "Template Button View Background Color"
+msgstr "Culoare de fundal Vizualizare buton șablon"
+
+#: includes/customizer/customizer.php:602
+msgid "Template Button View Border Radius"
+msgstr "Butonul șablon Vizualizare Raza marginii"
+
+#: includes/customizer/customizer.php:622
+msgid "Template Button View Width"
+msgstr "Lățimea vederii butonului șablon"
+
+#: includes/customizer/customizer.php:640
+msgid "Template List View Separator Color"
+msgstr "Culoarea separatorului de vizualizare a listei de șabloane"
+
+#: includes/customizer/customizer.php:656
+msgid "Template Grid Border Color"
+msgstr "Culoare chenar grilă șablon"
+
+#: includes/customizer/customizer.php:671
+msgid "Template Gallery and Widgets Border Color"
+msgstr "Galeria de șabloane și culoarea chenarului widgeturilor"
+
+#: includes/customizer/customizer.php:688
+msgid "Template Gallery and Widgets Border Radius"
+msgstr "Galeria de șabloane și raza chenarului widgeturilor"
+
+#: includes/customizer/customizer.php:705
+msgid "Template Gallery and Widgets Title Color"
+msgstr "Galeria de șabloane și culoarea titlului widgeturilor"
+
+#: includes/customizer/customizer.php:720
+msgid "Template Gallery and Widgets Title Background Color"
+msgstr "Galeria de șabloane și widget-uri Titlul Culoare de fundal"
+
+#: includes/customizer/customizer.php:736
+msgid "Widget Search Background Color"
+msgstr "Culoarea de fundal pentru căutarea widgetului"
+
+#: includes/customizer/customizer.php:755
+msgid "Single Property Template Background Color"
+msgstr "Culoarea de fundal a șablonului cu o singură proprietate"
+
+#: includes/customizer/customizer.php:770
+msgid "Single Property Template Color"
+msgstr "Culoare șablon cu o singură proprietate"
+
+#: includes/customizer/customizer.php:786
+msgid "Single Property Template Features Title Background Color"
+msgstr "Șablon cu o singură proprietate Caracteristici Titlu Culoare de fundal"
+
+#: includes/customizer/customizer.php:803
+msgid "Single Property Template Features Title Color"
+msgstr "Șablon de proprietate unică Caracteristici Culoare titlu"
+
+#: includes/customizer/customizer.php:824
+msgid "Single Property Template Features Border Color"
+msgstr "Șablonul cu o singură proprietate prezintă culoarea marginii"
+
+#: includes/customizer/customizer.php:848
+msgid "Features Border Radius"
+msgstr "Caracteristici Border Radius"
+
+#: includes/customizer/customizer.php:849
+msgid "Features Border Radius: from 0 to 30."
+msgstr "Caracteristici Raza chenarului: de la 0 la 30."
+
+#: includes/customizer/customizer.php:872
+msgid "Background Color"
+msgstr "Culoare de fundal"
+
+#: includes/customizer/customizer.php:888
+msgid "Border Size"
+msgstr "Dimensiune chenar"
+
+#: includes/customizer/customizer.php:890
+msgid "Border Size: from 0 to 5. Mark 0 to hide the Boarder."
+msgstr "Dimensiune chenar: de la 0 la 5. Marcați 0 pentru a ascunde bordura."
+
+#: includes/customizer/customizer.php:908
+msgid "Border Radius"
+msgstr "Raza de frontieră"
+
+#: includes/customizer/customizer.php:909
+msgid "Border Radius: from 1 to 70px."
+msgstr "Raza chenarului: de la 1 la 70 px."
+
+#: includes/customizer/customizer.php:926
+msgid "Border Color"
+msgstr "Culoarea chenarului"
+
+#: includes/customizer/customizer.php:943
+msgid "Margin Bottom"
+msgstr "Marja de jos"
+
+#: includes/customizer/customizer.php:944
+msgid "Margin Bottom: from 0 to 30."
+msgstr "Marja inferioară: de la 0 la 30."
+
+#: includes/customizer/customizer.php:965
+msgid "Back and Contact Us Buttons Color"
+msgstr "Înapoi și Contactează-ne Butoane Culoare"
+
+#: includes/customizer/customizer.php:981
+msgid "Back and Contact Us Buttons Background Color"
+msgstr "Înapoi și Contactați-ne Butoane Culoare de fundal"
+
+#: includes/customizer/customizer.php:1002
+msgid "Back and Contact Us Buttons width"
+msgstr "Înapoi și Contactați-ne Lățimea butoanelor"
+
+#: includes/customizer/customizer.php:1003
+msgid "Border Radius: from 100 to 300."
+msgstr "Raza frontierei: de la 100 la 300."
+
+#: includes/customizer/customizer.php:1030
+msgid "Back and Contact Us Buttons Border Radius"
+msgstr "Înapoi și Contactați-ne Butoane Raza de frontieră"
+
+#: includes/diagnose/class_bill_diagnose.php:610
+#: includes/diagnose/class_bill_diagnose.php:631
+msgid "Our plugin"
+msgstr "Pluginul nostru"
+
+#: includes/diagnose/class_bill_diagnose.php:612
+msgid ""
+"cannot function properly because your WordPress Memory Limit is too low. "
+"Your site will experience serious issues, even if you deactivate our plugin."
+msgstr ""
+"nu poate funcționa corect deoarece limita de memorie WordPress este prea "
+"mică. Site-ul dvs. va avea probleme serioase, chiar dacă dezactivați "
+"pluginul nostru."
+
+#: includes/diagnose/class_bill_diagnose.php:618
+#: includes/diagnose/class_bill_diagnose.php:639
+#| msgid "Learn More"
+msgid "Learn more"
+msgstr "Află mai multe"
+
+#: includes/diagnose/class_bill_diagnose.php:630
+msgid "Your site has errors."
+msgstr "Site-ul dvs. are erori."
+
+#: includes/diagnose/class_bill_diagnose.php:633
+msgid ""
+"can't function as intended. Errors, including JavaScript errors, may lead to "
+"visual problems or disrupt functionality, from minor glitches to critical "
+"site failures. Promptly address these issues before continuing."
+msgstr ""
+"nu poate funcționa conform intenției. Erorile, inclusiv erorile JavaScript, "
+"pot duce la probleme vizuale sau pot perturba funcționalitatea, de la erori "
+"minore până la erori critice ale site-ului. Rezolvați prompt aceste probleme "
+"înainte de a continua."
+
+#: includes/diagnose/class_bill_diagnose.php:659
+msgctxt "Site Health"
+msgid "Critical Issues"
+msgstr "Probleme critice"
+
+#: includes/diagnose/class_bill_diagnose.php:700
+msgid ""
+"Displaying the latest recurring errors from your error log file and "
+"eventually alert about low WordPress memory limit is a courtesy of plugin"
+msgstr ""
+"Afișarea celor mai recente erori recurente din fișierul dvs. jurnal de erori "
+"și, eventual, avertizare despre limita scăzută de memorie WordPress este o "
+"curtoazie a pluginului"
+
+#: includes/diagnose/class_bill_diagnose.php:702
+msgid ""
+"Disabling our plugin does not stop the errors from occurring; \n"
+"                it simply means you will no longer be notified here that "
+"they are happening, but they can still harm your site."
+msgstr ""
+"Dezactivarea pluginului nostru nu împiedică apariția erorilor; \n"
+"                înseamnă pur și simplu că nu veți mai fi notificat aici că "
+"acestea se întâmplă, dar încă vă pot dăuna site-ului."
+
+#: includes/diagnose/class_bill_diagnose.php:710
+msgid "Potential Problems"
+msgstr "Probleme potențiale"
+
+#: includes/diagnose/class_bill_diagnose.php:718
+msgid "Low WordPress Memory Limit"
+msgstr "Limită scăzută de memorie WordPress"
+
+#: includes/diagnose/class_bill_diagnose.php:731
+msgid "Your usage now"
+msgstr "Utilizarea dvs. acum"
+
+#: includes/diagnose/class_bill_diagnose.php:739
+msgid "Total Php Server Memory"
+msgstr "Memoria totală a serverului PHP"
+
+#: includes/diagnose/class_bill_diagnose.php:748
+msgid ""
+"Your WordPress Memory Limit is too low, which can lead to critical issues on "
+"your site due to insufficient resources. Promptly address this issue before "
+"continuing."
+msgstr ""
+"Limita de memorie WordPress este prea mică, ceea ce poate duce la probleme "
+"critice pe site-ul dvs. din cauza resurselor insuficiente. Rezolvați imediat "
+"această problemă înainte de a continua."
+
+#: includes/diagnose/class_bill_diagnose.php:783
+msgid "Site Errors"
+msgstr "Erori de site"
+
+#: includes/diagnose/class_bill_diagnose.php:788
+msgid ""
+"Your site has experienced errors for the past 2 days. These errors, "
+"including JavaScript issues, can result in visual problems or disrupt "
+"functionality, ranging from minor glitches to critical site failures. "
+"JavaScript errors can terminate JavaScript execution, leaving all subsequent "
+"commands inoperable."
+msgstr ""
+"Site-ul dvs. a întâmpinat erori în ultimele 2 zile. Aceste erori, inclusiv "
+"probleme cu JavaScript, pot duce la probleme vizuale sau pot perturba "
+"funcționalitatea, variind de la erori minore până la erori critice ale site-"
+"ului. Erorile JavaScript pot opri execuția JavaScript, lăsând toate "
+"comenzile ulterioare inoperabile."
+
+#: includes/diagnose/class_bill_diagnose.php:846
+msgid "This is a partial list of the errors found."
+msgstr "Aceasta este o listă parțială a erorilor găsite."
+
+#: includes/diagnose/class_bill_diagnose.php:1324
+msgid ""
+"These are critical issues that can have a significant impact on your site's "
+"performance. They can cause many plugins and functionalities to malfunction "
+"and, in some cases, render your site completely inoperative, depending on "
+"their severity. Address them promptly."
+msgstr ""
+"Acestea sunt probleme critice care pot avea un impact semnificativ asupra "
+"performanței site-ului dvs. Acestea pot cauza funcționarea defectuoasă a "
+"multor plugin-uri și funcționalități și, în unele cazuri, vă pot face site-"
+"ul complet inoperant, în funcție de gravitatea acestora. Adresați-le prompt."
+
+#: includes/functions/functions.php:430
+msgid "United Arab Emirates Dirham (&#1583;.&#1573;)"
+msgstr "Dirham din Emiratele Arabe Unite (د.إ)"
+
+#: includes/functions/functions.php:431
+msgid "Afghan Afghani (&#1547;)"
+msgstr "afgan afgan (؋)"
+
+#: includes/functions/functions.php:432
+msgid "Angolan Kwanza"
+msgstr "Kwanza angolez"
+
+#: includes/functions/functions.php:433
+msgid "Argentine Pesos (&#36;)"
+msgstr "Pesos argentinieni ($)"
+
+#: includes/functions/functions.php:434
+msgid "Australian Dollars (&#36;)"
+msgstr "Dolari australieni ($)"
+
+#: includes/functions/functions.php:435
+msgid "Brazilian Real (R&#36;)"
+msgstr "Real brazilian (R$)"
+
+#: includes/functions/functions.php:436
+msgid "Bulgarian Lev"
+msgstr "Lev bulgar"
+
+#: includes/functions/functions.php:437
+msgid "Canadian Dollars (&#36;)"
+msgstr "dolari canadieni ($)"
+
+#: includes/functions/functions.php:438
+msgid "Swiss Franc"
+msgstr "Franc elvețian"
+
+#: includes/functions/functions.php:439
+msgid "Chinese Yuan (&yen;)"
+msgstr "Yuan chinezesc (¥)"
+
+#: includes/functions/functions.php:440
+msgid "Czech Koruna"
+msgstr "Coroana Cehă"
+
+#: includes/functions/functions.php:441
+msgid "Danish Krone"
+msgstr "Coroana daneză"
+
+#: includes/functions/functions.php:442
+msgid "Euros (&euro;)"
+msgstr "Euro (€)"
+
+#: includes/functions/functions.php:443
+msgid "Pound Sterling (&pound;)"
+msgstr "Liră sterlină (£)"
+
+#: includes/functions/functions.php:444
+msgid "Hong Kong Dollar (&#36;)"
+msgstr "Dolar Hong Kong ($)"
+
+#: includes/functions/functions.php:445
+msgid "Croatian Kuna"
+msgstr "Kuna croată"
+
+#: includes/functions/functions.php:446
+msgid "Hungarian Forint"
+msgstr "Forint maghiar"
+
+#: includes/functions/functions.php:447
+msgid "Indonesian Rupiah (Rp)"
+msgstr "Rupia indoneziană (Rp)"
+
+#: includes/functions/functions.php:448
+msgid "Israeli Shekel (&#8362;)"
+msgstr "Shekel israelian (₪)"
+
+#: includes/functions/functions.php:449
+msgid "Indian Rupee (&#8377;)"
+msgstr "Rupia indiană (₹)"
+
+#: includes/functions/functions.php:450
+msgid "Japanese Yen (&yen;)"
+msgstr "Yen japonez (¥)"
+
+#: includes/functions/functions.php:451
+msgid "South Korean Won (&#8361;)"
+msgstr "Won sud-coreean (₩)"
+
+#: includes/functions/functions.php:452
+msgid "Mexican Peso (&#36;)"
+msgstr "Peso mexican ($)"
+
+#: includes/functions/functions.php:453
+msgid "Malaysian Ringgits"
+msgstr "Ringgit malaezieni"
+
+#: includes/functions/functions.php:454
+msgid "Norwegian Krone"
+msgstr "Coroana norvegiană"
+
+#: includes/functions/functions.php:455
+msgid "New Zealand Dollar (&#36;)"
+msgstr "Dolar neozeelandez ($)"
+
+#: includes/functions/functions.php:456
+msgid "Philippine Pesos"
+msgstr "Peso filipinez"
+
+#: includes/functions/functions.php:457
+msgid "Polish Zloty"
+msgstr "Zloty polonez"
+
+#: includes/functions/functions.php:458
+msgid "Pakistani Rupee (₨)"
+msgstr "Rupia pakistaneză (₨)"
+
+#: includes/functions/functions.php:459
+msgid "Romanian Leu"
+msgstr "Leu românesc"
+
+#: includes/functions/functions.php:460
+msgid "Russian Rubles"
+msgstr "ruble rusești"
+
+#: includes/functions/functions.php:461
+msgid "Saudi Riyal (&#65020;)"
+msgstr "Rial saudit (﷼)"
+
+#: includes/functions/functions.php:462
+msgid "Swedish Krona"
+msgstr "coroana suedeză"
+
+#: includes/functions/functions.php:463
+msgid "Singapore Dollar (&#36;)"
+msgstr "Dolar din Singapore ($)"
+
+#: includes/functions/functions.php:464
+msgid "Thai Baht (&#3647;)"
+msgstr "Baht thailandez (฿)"
+
+#: includes/functions/functions.php:465
+msgid "Turkish Lira (&#8378;)"
+msgstr "Lira turcească (₺)"
+
+#: includes/functions/functions.php:466
+msgid "Taiwan New Dollars"
+msgstr "Noi dolari din Taiwan"
+
+#: includes/functions/functions.php:467
+msgid "US Dollars (&#36;)"
+msgstr "Dolari SUA ($)"
+
+#: includes/functions/functions.php:468
+msgid "Vietnamese Dong (&#8363;)"
+msgstr "Dong vietnamez (₫)"
+
+#: includes/functions/functions.php:469
+msgid "Yen (&yen;)"
+msgstr "Yen (¥)"
+
+#: includes/functions/functions.php:470
+msgid "South African Rand"
+msgstr "Rand sud-african"
+
+#: includes/functions/functions.php:783
+msgid "Extend standard plugin functionality with new great options."
+msgstr ""
+"Extindeți funcționalitatea pluginului standard cu noi opțiuni excelente."
+
+#: includes/functions/functions.php:789 includes/functions/functions.php:801
+#: includes/functions/functions.php:807
+msgid "Make Your Website Look More Professional."
+msgstr "Faceți site-ul dvs. să arate mai profesional."
+
+#: includes/functions/functions.php:795
+msgid ""
+"Add colors and extend standard plugin functionality with new great options."
+msgstr ""
+"Adăugați culori și extindeți funcționalitatea pluginului standard cu noi "
+"opțiuni excelente."
+
+#: includes/functions/functions.php:809
+msgid "It is time to upgrade your"
+msgstr "Este timpul să vă faceți upgrade"
+
+#: includes/functions/functions.php:912
+msgid "Close notice"
+msgstr "Închideți notificarea"
+
+#: includes/functions/functions.php:923
+msgid "to"
+msgstr "la"
+
+#: includes/functions/functions.php:927
+msgid "version!"
+msgstr "versiune!"
+
+#: includes/functions/functions.php:939
+msgid "Dismiss"
+msgstr "Respingeți"
+
+#: includes/help/help.php:82 includes/help/help.php:162
+#: includes/help/help.php:270 includes/help/help.php:307
+#: includes/help/help.php:326
+msgid "Overview"
+msgstr "Rezumat"
+
+#: includes/help/help.php:89
+msgid "Import Demo Data"
+msgstr "Importați date demonstrative"
+
+#: includes/help/help.php:167
+msgid "Field Types"
+msgstr "Tipuri de câmpuri"
+
+#: includes/help/help.php:172
+msgid "Add Fields Form"
+msgstr "Adaugă câmpuri"
+
+#: includes/help/help.php:177
+msgid "Edit and Trash Fields"
+msgstr "Modifică şi şterge câmpuri"
+
+#: includes/help/help.php:275
+msgid "Agents"
+msgstr "Agenţi"
+
+#: includes/help/help.php:280 includes/search/search-function.php:226
+msgid "Location"
+msgstr "Locaţie"
+
+#: includes/help/help.php:285
+msgid "Edit and Trash Properties"
+msgstr "Modifică şi şterge proprietăţi"
+
+#: includes/help/help.php:290
+msgid "Featured Images"
+msgstr "Imagini Recomandate"
+
+#: includes/help/help.php:295
+msgid "Images and Gallery"
+msgstr "Imagini și Galerie"
+
+#: includes/help/help.php:370
+msgid "Help Available for this Window!"
+msgstr "Ajutor disponibil pentru această fereastră!"
+
+#: includes/help/help.php:371
+msgid "Just Click Help Button to get content help for this window."
+msgstr ""
+"Doar faceți clic pe butonul Ajutor pentru a obține ajutor pentru conținut "
+"pentru această fereastră."
+
+#: includes/post-type/meta-box.php:9
+msgid "For Rent or For Sale."
+msgstr "Închiriere sau Vânzare"
+
+#: includes/post-type/meta-box.php:22
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr "Caracterele speciale nu sunt necesare, pluginul va pune automat."
+
+#: includes/post-type/meta-box.php:29
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "Anul construcţiei, doar numere, fără punct sau virgulă."
+
+#: includes/post-type/meta-box.php:36
+msgid "Mark to show up at Featured Widget."
+msgstr "Bifează pentru a apărea in Widgetul Recomandate"
+
+#: includes/post-type/meta-box.php:41
+msgid "How many Beds."
+msgstr "Câte camere."
+
+#: includes/post-type/meta-box.php:61
+msgid "How many Baths."
+msgstr "Câte băi."
+
+#: includes/post-type/meta-box.php:81
+msgid "Address of the property."
+msgstr "Adresa proprietăţii"
+
+#: includes/post-type/meta-box.php:88
+msgid "Area of the property."
+msgstr "Zona în care se află proprietatea"
+
+#: includes/post-type/meta-box.php:269
+#: includes/templates/template-functions.php:103
+msgid "Details"
+msgstr "Detalii"
+
+#: includes/post-type/post-functions.php:53
+msgid "Parent agents"
+msgstr "Agenţi principali"
+
+#: includes/post-type/post-functions.php:54
+msgid "Parent agents:"
+msgstr "Agenţi principali"
+
+#: includes/post-type/post-functions.php:55
+msgid "Edit agents"
+msgstr "Modifică agenţi"
+
+#: includes/post-type/post-functions.php:56
+msgid "Update agents"
+msgstr "Actualizează agenţi"
+
+#: includes/post-type/post-functions.php:57
+msgid "Add New agents"
+msgstr "Adaugă agenţi noi"
+
+#: includes/post-type/post-functions.php:58
+msgid "New agents"
+msgstr "Agenţi noi"
+
+#: includes/post-type/post-functions.php:59
+msgid "Separate agents with commas"
+msgstr "Separă agenţii prin virgulă"
+
+#: includes/post-type/post-functions.php:60
+msgid "Add or Remove agents"
+msgstr "Adaugă sau elimină agenţi"
+
+#: includes/post-type/post-functions.php:61
+msgid "Choose from the most used makers"
+msgstr "Alege dintre cele mai folosite"
+
+#: includes/post-type/post-functions.php:79
+msgid "Parent locations"
+msgstr "Locaţii principale"
+
+#: includes/post-type/post-functions.php:80
+msgid "Parent locations:"
+msgstr "Locaţii principale"
+
+#: includes/post-type/post-functions.php:81
+msgid "Edit locations"
+msgstr "Modifică locaţii"
+
+#: includes/post-type/post-functions.php:82
+msgid "Update locations"
+msgstr "Actualizează locaţii"
+
+#: includes/post-type/post-functions.php:83
+msgid "Add New locations"
+msgstr "Adaugă noi locaţii"
+
+#: includes/post-type/post-functions.php:84
+msgid "New locations"
+msgstr "Locaţii noi"
+
+#: includes/post-type/post-functions.php:85
+msgid "Separate locations with commas"
+msgstr "Separă locaţiile prin virgulă"
+
+#: includes/post-type/post-functions.php:86
+msgid "Add or Remove locations"
+msgstr "Adaugă sau elimină locaţii"
+
+#: includes/post-type/post-functions.php:87
+msgid "Choose from the most used locations"
+msgstr "Alege dintre cele mai folosite locaţii"
+
+#: includes/post-type/post-functions.php:102
+#: includes/post-type/post-functions.php:191
+msgid "Order:"
+msgstr "Comanda:"
+
+#: includes/post-type/post-functions.php:104
+#: includes/post-type/post-functions.php:194
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr ""
+"Comanda de afișat. De exemplu: 1 (primul), 2 (al doilea) și așa mai "
+"departe..."
+
+#: includes/post-type/post-functions.php:107
+#: includes/post-type/post-functions.php:199
+msgid "Profile Image:"
+msgstr "Imagine de profil:"
+
+#: includes/post-type/post-functions.php:112
+#: includes/post-type/post-functions.php:216
+msgid "Just click the Button to Select Upload Image"
+msgstr "Doar faceți clic pe butonul pentru a selecta Încărcați imaginea"
+
+#: includes/post-type/post-functions.php:118
+#: includes/post-type/post-functions.php:221
+msgid "Position:"
+msgstr "Poziţie:"
+
+#: includes/post-type/post-functions.php:120
+#: includes/post-type/post-functions.php:224
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr "De exemplu: manager de vânzări, agent și așa mai departe..."
+
+#: includes/post-type/post-functions.php:123
+#: includes/post-type/post-functions.php:229
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: includes/post-type/post-functions.php:127
+#: includes/post-type/post-functions.php:236
+msgid "Email address:"
+msgstr "Adresa de e-mail:"
+
+#: includes/post-type/post-functions.php:131
+#: includes/post-type/post-functions.php:243
+msgid "Skype:"
+msgstr "Skype:"
+
+#: includes/post-type/post-functions.php:135
+#: includes/post-type/post-functions.php:250
+msgid "Facebook URL:"
+msgstr "Adresa URL Facebook:"
+
+#: includes/post-type/post-functions.php:139
+#: includes/post-type/post-functions.php:257
+msgid "Twitter URL:"
+msgstr "Adresa URL Twitter:"
+
+#: includes/post-type/post-functions.php:143
+#: includes/post-type/post-functions.php:264
+msgid "Linkedin URL:"
+msgstr "URL Linkedin:"
+
+#: includes/post-type/post-functions.php:147
+#: includes/post-type/post-functions.php:271
+msgid "Youtube URL:"
+msgstr "URL YouTube:"
+
+#: includes/post-type/post-functions.php:151
+#: includes/post-type/post-functions.php:278
+msgid "Instagram URL:"
+msgstr "URL Instagram:"
+
+#: includes/post-type/post-functions.php:155
+#: includes/post-type/post-functions.php:285
+msgid "Vimeo URL:"
+msgstr "URL Vimeo:"
+
+#: includes/post-type/post-functions.php:379
+msgid "Featured Image"
+msgstr "Imagine recomandată"
+
+#: includes/post-type/post-functions.php:407
+#| msgid "Call for Price"
+msgid "Call For Price"
+msgstr "Sunați pentru preț"
+
+#: includes/search/search-function.php:20
+#: includes/search/search-function.php:471 includes/widgets/widgets.php:382
+msgid "Search"
+msgstr "Caută"
+
+#: includes/search/search-function.php:136
+msgid "Purpose"
+msgstr "Tipul ofertei"
+
+#: includes/search/search-function.php:152
+msgid "Rent"
+msgstr "Închiriere"
+
+#: includes/search/search-function.php:155
+msgid "Sale"
+msgstr "Vânzare"
+
+#: includes/search/search-function.php:169
+#: includes/templates/template-functions.php:108
+#: includes/templates/template-showroom.php:314
+#: includes/templates/template-showroom2.php:262
+msgid "Beds"
+msgstr "Camere"
+
+#: includes/search/search-function.php:175
+#: includes/search/search-function.php:198
+#: includes/search/search-function.php:234
+#: includes/search/search-function.php:287
+#: includes/search/search-function.php:312
+#: includes/search/search-function.php:334
+msgid "All"
+msgstr "Toate"
+
+#: includes/search/search-function.php:192
+#: includes/templates/template-functions.php:114
+#: includes/templates/template-showroom.php:315
+#: includes/templates/template-showroom2.php:263
+msgid "Baths"
+msgstr "Băi"
+
+#: includes/search/search-function.php:335
+#: includes/templates/template-functions.php:150
+msgid "Yes"
+msgstr "Da"
+
+#: includes/search/search-function.php:336
+#: includes/templates/template-functions.php:152
+msgid "No"
+msgstr "Nu"
+
+#: includes/search/search-function.php:355
+msgid "Order By"
+msgstr "comandă după"
+
+#: includes/search/search-function.php:362
+msgid "Any"
+msgstr "Toate"
+
+#: includes/search/search-function.php:364
+msgid "Year newest first"
+msgstr "Cel mai nou an primul"
+
+#: includes/search/search-function.php:367
+msgid "Year oldest first"
+msgstr "Anul cel mai vechi primul"
+
+#: includes/search/search-function.php:370
+msgid "Price higher first"
+msgstr "Preț mai mare în primul rând"
+
+#: includes/search/search-function.php:373
+msgid "Price lower first"
+msgstr "Prețul mai mic în primul rând"
+
+#: includes/search/search-function.php:403
+msgid "Price Range"
+msgstr "Categorie de preţuri"
+
+#: includes/search/search-function.php:444
+msgid "Price"
+msgstr "Preţ"
+
+#: includes/team/team.php:114
+msgid "No Team Member Added!"
+msgstr "Nu aţi adăugat niciun membru al echipei"
+
+#: includes/templates/template-functions.php:83
+msgid "Address"
+msgstr "Adresa"
+
+#: includes/templates/template-functions.php:175
+#: includes/templates/template-showroom.php:310
+#: includes/templates/template-showroom1.php:241
+#: includes/templates/template-showroom2.php:258
+#: includes/templates/template-showroom3.php:228
+#: includes/widgets/widgets.php:70 includes/widgets/widgets.php:240
+msgid "Call for Price"
+msgstr "Pentru mai multe detalii , contactaţi telefonic."
+
+#: includes/templates/template-functions.php:194
+#: includes/templates/template-functions.php:205
+#: includes/templates/template-showroom.php:313
+#: includes/templates/template-showroom2.php:261
+#: includes/widgets/widgets.php:82 includes/widgets/widgets.php:252
+msgid "Year"
+msgstr "Anul construcţiei"
+
+#: includes/templates/template-functions.php:210
+msgid "Cond"
+msgstr "Cond"
+
+#: includes/templates/template-functions.php:211
+msgid "HP"
+msgstr "HP"
+
+#: includes/templates/template-showroom.php:316
+#: includes/templates/template-showroom2.php:264
+msgid "Area"
+msgstr "Zonă"
+
+#: includes/templates/template-showroom.php:337
+#: includes/templates/template-showroom1.php:295
+#: includes/templates/template-showroom2.php:282
+#: includes/templates/template-showroom3.php:317
+#: includes/templates/template-single.php:43
+msgid "Back"
+msgstr "Înapoi"
+
+#: includes/templates/template-showroom.php:338
+#: includes/templates/template-showroom1.php:296
+#: includes/templates/template-showroom2.php:283
+#: includes/templates/template-showroom3.php:318
+msgid "Onward"
+msgstr "Înainte"
+
+#: includes/templates/template-showroom.php:348
+#: includes/templates/template-showroom1.php:306
+#: includes/templates/template-showroom2.php:292
+#: includes/templates/template-showroom3.php:327
+msgid "Not Found !"
+msgstr "Nu a fost găsit niciun rezultat."
+
+#: includes/templates/template-showroom1.php:283
+#: includes/templates/template-showroom3.php:308
+msgid "View"
+msgstr "Vezi oferta"
+
+#: includes/templates/template-single.php:69
+msgid "Contact Us"
+msgstr "Contactaţi-ne"
+
+#: includes/widgets/widgets.php:26
+msgid "A list of Recent properties"
+msgstr "Lista cu cele mai recente proprietăţi"
+
+#: includes/widgets/widgets.php:52
+msgid "New Arrivals"
+msgstr "Noi Sosiri"
+
+#: includes/widgets/widgets.php:188
+msgid "A list of Featured products"
+msgstr "Lista cu proprietăţile recomandate"
+
+#: includes/widgets/widgets.php:212
+#| msgid "- Featured Properties"
+msgid "Featured properties"
+msgstr "Proprietăți prezentate"
+
+#: includes/widgets/widgets.php:357
+msgid "Search properties"
+msgstr "Caută proprietăţi"
+
+#: includes/widgets/widgets.php:369
+msgid "Title"
+msgstr "Titlu"
+
+#: settings/options/plugin_options_tabbed.php:39
+msgid "Currency"
+msgstr "Monedă"
+
+#: settings/options/plugin_options_tabbed.php:88
+msgid "Meters - Feets"
+msgstr "Metri - Picioare"
+
+#: settings/options/plugin_options_tabbed.php:90
+msgid "Meters"
+msgstr "Metri"
+
+#: settings/options/plugin_options_tabbed.php:91
+msgid "Feets"
+msgstr "Picioare"
+
+#: settings/options/plugin_options_tabbed.php:117
+msgid "How many properties would you like to display per page?"
+msgstr "Câte proprietăţi ţi ar placea să afişezi pe pagină?"
+
+#: settings/options/plugin_options_tabbed.php:140
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Elimină bara laterală din pagina cu rezultatele căutării"
+
+#: settings/options/plugin_options_tabbed.php:149
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Înlocuieşte Galeria Wordpress cu Galeria Flexslider"
+
+#: settings/options/plugin_options_tabbed.php:158
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Activează formularul de contact pe pagina cu proprietatea"
+
+#: settings/options/plugin_options_tabbed.php:167
+msgid "Enable Location control in search bar?"
+msgstr "Activează controlul locaţiilor în bara de căutare"
+
+#: settings/options/plugin_options_tabbed.php:176
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual Product page."
+msgstr ""
+"Pentru a primi emailuri de la formularul de contact aflat la sfârşitul "
+"paginii cu proprietatea, completează cu emailul tău."
+
+#: settings/options/plugin_options_tabbed.php:181
+msgid "Optional. Fill out your Google API to use with yours maps (google maps)"
+msgstr "Opţional, completează cu Google API pentru a folosi google maps"
+
+#: settings/options/plugin_options_tabbed.php:186
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr "În Pagina Show Room, utilizați Galerie sau Șablon de vizualizare listă"
+
+#: settings/options/plugin_options_tabbed.php:196
+msgid "In Show Room Page, use Gallery, List View or Grid Template"
+msgstr ""
+"În Show Room Page, utilizați Galerie, Vizualizare listă sau Șablon grilă"
+
+#: settings/options/plugin_options_tabbed.php:207
+msgid ""
+"In Show Room Page, Template List View or Grid, Choose the thumbnail image "
+"size (width) - Premium Version"
+msgstr ""
+"În Pagina Show Room, Vizualizare listă de șabloane sau Grilă, alegeți "
+"dimensiunea imaginii în miniatură (lățimea) - Versiune Premium"
+
+#: settings/options/plugin_options_tabbed.php:219
+msgid "In Single Product Page, use Template"
+msgstr "În Pagina de produs unic, utilizați Șablon"
+
+#: settings/options/plugin_options_tabbed.php:254
+#: settings/options/plugin_options_tabbed.php:326
+msgid "Show the Purpose Control"
+msgstr "Afișați controlul scopului"
+
+#: settings/options/plugin_options_tabbed.php:263
+#: settings/options/plugin_options_tabbed.php:335
+msgid "Show the Beds Control"
+msgstr "Arată Controlul patului"
+
+#: settings/options/plugin_options_tabbed.php:272
+#: settings/options/plugin_options_tabbed.php:344
+msgid "Show the Baths Control"
+msgstr "Arată controlul băilor"
+
+#: settings/options/plugin_options_tabbed.php:282
+#: settings/options/plugin_options_tabbed.php:353
+msgid "Show the Location Control"
+msgstr "Afișați Controlul locației"
+
+#: settings/options/plugin_options_tabbed.php:293
+#: settings/options/plugin_options_tabbed.php:362
+msgid "Show the Order By Control"
+msgstr "Afișați comanda prin control"
+
+#: settings/options/plugin_options_tabbed.php:304
+#: settings/options/plugin_options_tabbed.php:371
+msgid "Show the Price Slider Control"
+msgstr "Afișați Controlul glisor al prețului"
+
+#: settings/options/plugin_options_tabbed.php:315
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+"Personalizați-vă opțiunile de căutare widget. Alegeți câmpurile de afișat în "
+"widgetul de căutare."

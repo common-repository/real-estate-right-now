@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Greek\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4\n"
+
+msgid "'Loco csv export: Comma separated values"
+msgstr ""
+
+msgid "'Project: Real Estate"
+msgstr ""
+
+msgid "'Release: Working copy"
+msgstr ""
+
+msgid "'Locale: en-PT"
+msgstr ""
+
+msgid "'Exported by: sergio minozzi"
+msgstr ""
+
+msgid "'Exported at: Sat"
+msgstr ""
+
+msgid "Asset ID"
+msgstr " "
+
+msgid "Update"
+msgstr "Αναβάθμιση"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+msgid "Request-Information"
+msgstr "Ζητήστε-Πληροφορίες"
+
+msgid "Your-Name"
+msgstr "Το-Όνομα-σας"
+
+msgid "Please-type-your-name"
+msgstr "Παρακαλώ-Πληκτρολογήστε-το-όνομα-σας"
+
+msgid "Your-Email"
+msgstr "Η-ηλεκτρονική-σας-διεύθυνση"
+
+msgid "Please-type-your-email"
+msgstr "Παρακαλώ-πληκτρολογήστε-την-ηλεκτρονική-σας-διεύθυνση"
+
+msgid "Your-Message"
+msgstr "Το-μήνυμα-σας"
+
+msgid "Please-type-your-message"
+msgstr "Παρακαλώ-πληκτρολογήστε-το-μήνυμα-σας"
+
+msgid "Send"
+msgstr "Αποστολή"
+
+msgid "Sending-your-message-Please-wait"
+msgstr "Το-μήνυμα-σας-αποστέλεται"
+
+msgid "Thanks-for-your-message-Well-get-back-to-you-short"
+msgstr "Ευχαριστούμε-για-το-μήνυμα-σας!-Θα-σας-απαντήσουμε-σύντομα."
+
+msgid "There-was-a-problem-sending-your-message-Please-tr"
+msgstr "Υπήρξε-κάποιο-πρόβλημα-με-την-αποστολή-του-μηνύματος-παρακαλώ-προσπαθήστε-ξανά."
+
+msgid "Please-enter-one-valid-email-address"
+msgstr "Παρακαλώ-συμπληρώστε-μια-έγκυρη-ηλεκτρονική-διεύθυνση"
+
+msgid "Please-complete-all-the-fields-in-the-form-before"
+msgstr "Παρακαλώ-συμπληρώστε-όλα-τα-πεδία."
+
+msgid "Name-Error-Use-only-alpha"
+msgstr "Σφάλμα-στο-όνομα-παρακαλώ-χρησιμοποιήστε-μόνο-γράμματα"
+
+msgid "Message-Error-Only-Use-only-alpha-and-numbers"
+msgstr "Μήνυμα-σφάλματος-παρακαλώ-χρησιμοποιήστε-μόνο-γράμματα-και-αριθμούς."
+
+msgid "Hi-my-name-is-Bill-Minozzi-and-I-am-developer-of"
+msgstr " my name is Bill Minozzi"
+
+msgid "Thank-You"
+msgstr "Ευχαριστώ"
+
+msgid "Yes-Submit"
+msgstr " Submit"
+
+msgid "Skip"
+msgstr "Παράλειψη"
+
+msgid "Extend-standard-plugin-functionality-with-new-grea"
+msgstr "Επεκτείνετε-τη-λειτουργικότητα-των-τυπικών-προσθηκών-της-επέκτασης-με-νέες-εξαιρετικές-επιλογές."
+
+msgid "Make-Your-Website-Look-More-Professional"
+msgstr "Κάντε-την-σελίδα-σας-να-φαίνεται-επαγγελματική."
+
+msgid "It-is-time-to-upgrade-your"
+msgstr "Είναι-ώρα-να-αναβαθμίσετε-την"
+
+msgid "Close-notice"
+msgstr "Ειδοποίηση"
+
+msgid "to"
+msgstr "στο"
+
+msgid "version"
+msgstr "έκδοση"
+
+msgid "Learn-More"
+msgstr "Μάθετε-Περισσότερα"
+
+msgid "Dismiss"
+msgstr "Ελευθέρωση"
+
+msgid "My-Memory-Test"
+msgstr "Το-τεστ-μνήμης-μου"
+
+msgid "Critical"
+msgstr "Κρήσιμο"
+
+msgid "Low-WordPress-Memory-Limit-in-wp-config-file"
+msgstr "Χαμηλό-όριο-μνήμης-WordPress-στο-αρχείο-wp-config"
+
+#. Εκτελείτε-τον-ιστότοπό-σας-με-χαμηλή-διαθέσιμη-μνήμη
+#: the bigger your memory limit has to be. Increase WP Memory Limit is a
+#: standard practice in WordPress. You can manually increase WordPress by
+#: editing wp-config.php file. find instructions official documentation
+#: (Increasing allocated PHP). Just click link below:
+msgctxt " features and plugins you add to your site"
+msgid "Run-your-site-with-low-memory-available-can-result"
+msgstr " can result in behaving slowly"
+
+msgid "WordPress-Help-Page"
+msgstr "Σελίδα-βοήθειας-WordPress"
+
+msgid "Wrong-Permalink"
+msgstr "Λάθος-Σύνδεσμος"
+
+msgid "Wrong-Permalink-Settings"
+msgstr "Λάθος-ρυθμίσεις-συνδέσμου"
+
+msgid "Please-fix-it-to-avoid-404-error-page-To-correct-j"
+msgstr " fix it to avoid 404 error page."
+
+msgid "                     To correct"
+msgstr ""
+
+msgid "                     Dashboard => Settings => Permalinks => Post Name (check)"
+msgstr ""
+
+#: click Save Changes. Name (check)-
+msgctxt " απλώς μεταβείτε στο-Dashboard => Settings => Permalinks => Post Then"
+msgid "                     Then"
+msgstr "Διορθώστε-το-για-να-αποφύγετε-τη-σελίδα-σφάλματος-404.-Για-να-διορθώσετε"
+
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+msgid "Import-Demo-Data"
+msgstr "Εισαγωγή-δεδομένων-επίδειξης"
+
+msgid "Field-Types"
+msgstr "Τύποι-πεδίων"
+
+msgid "Add-Fields-Form"
+msgstr "Φόρμα-προσθήκης-πεδίων"
+
+msgid "Edit-and-Trash-Fields"
+msgstr "Πεδία-επεξεργασίας-και-κάδου-απορριμμάτων"
+
+msgid "Agents"
+msgstr "Αντιπρόσωποι"
+
+msgid "Location"
+msgstr "Τοποθεσία"
+
+msgid "Edit-and-Trash-Properties"
+msgstr "Ιδιότητες-επεξεργασίας-και-απορριμμάτων"
+
+msgid "Featured-Images"
+msgstr "Επιλεγμένε-εικόνες"
+
+msgid "Images-and-Gallery"
+msgstr "Φωτογραφίες-και-γκαλερί"
+
+msgid "For-Rent-or-For-Sale"
+msgstr "Προς-ενοικίαση-ή-προς-πώληση"
+
+#. )
+#: Όχι ειδικούς χαρακτήρες εδώ ($
+msgctxt "-η-προσθήκη-θα-μορφοποιήσει-αυτόματα-τον-αριθμό."
+msgid "No-special-characters-here-$-the-plugin-will-auto"
+msgstr " .)"
+
+#. χωρίς τελεία
+#: Το έτος του προϊόντος. Μόνο αριθμοί
+msgctxt "-χωρίς-κόμμα."
+msgid "The-year-of-the-product-Only-numbers-no-point-no-c"
+msgstr " no point"
+
+msgid "Mark-to-show-up-at-Featured-Widget"
+msgstr "Επισημάνετε-για-εμφάνιση-στο-Επιλεγμένο-γραφικό-στοιχείο."
+
+msgid "How-many-Beds"
+msgstr "Πόσα-κρεβάτια"
+
+msgid "How-many-Baths"
+msgstr "Πόσα-μπάνια"
+
+msgid "Address-of-the-property"
+msgstr "Διεύθυνση-της-ιδιοκτησίας"
+
+msgid "Area-of-the-property"
+msgstr "Περιοχή-της-ιδιοκτησίας"
+
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+msgid "Parent-agents"
+msgstr "Επίσημοι-Αντιπρόσωποι"
+
+msgid "Parent-agents-2"
+msgstr "Επίσημοι-Αντιπρόσωποι-2"
+
+msgid "Edit-agents"
+msgstr "Επεργασία-Αντιπροσώπων"
+
+msgid "Update-agents"
+msgstr "Ενημέρωση-Αντιπροσώπων"
+
+msgid "Add-New-agents"
+msgstr "Προσθήκη-Αντιπροσώπων"
+
+msgid "New-agents"
+msgstr "Νέοι-Αντιπρόσωποι"
+
+msgid "Separate-agents-with-commas"
+msgstr "Διαχωρείστε-τους-εκπρόσωπους-με-κόμμα"
+
+msgid "Add-or-Remove-agents"
+msgstr "Προσθαφαιρέστε-Εκπροσώπους"
+
+msgid "Choose-from-the-most-used-makers"
+msgstr "Επιλέξτε-από-τους-πιο-χρησιμοποιούμενους-κατασκευαστές"
+
+msgid "Parent-locations"
+msgstr "Τοποθεσίες-Εκπροσώπων"
+
+msgid "Parent-locations-2"
+msgstr "Τοποθεσίες-Εκπροσώπων-2"
+
+msgid "Edit-locations"
+msgstr "Επεργασία-Τοποθεσιών"
+
+msgid "Update-locations"
+msgstr "Ενημέρωση-Τοποθεσιών"
+
+msgid "Add-New-locations"
+msgstr "Προσθέστε-νέες-τοποθεσίες"
+
+msgid "New-locations"
+msgstr "Νέες-τοποθεσίες"
+
+msgid "Separate-locations-with-commas"
+msgstr "Χωρίστε-τις-τοποθεσίες-με-κόμμα"
+
+msgid "Add-or-Remove-locations"
+msgstr "Προσθαφαιρέστε-Τοποθεσίες"
+
+msgid "Choose-from-the-most-used-locations"
+msgstr "Επιλέξτε-ανάμεσα-από-τις-πιο-χρησιμοποιούμενες-τοποθεσίες"
+
+msgid "Order"
+msgstr "Ταξινόμηση"
+
+msgctxt " 2 (Δεύτερο) κτλπ"
+msgid "Order-to-display-For-example-1-first-2-second-and"
+msgstr " 2 (second) and so on ..."
+
+msgid "Profile-Image"
+msgstr "Εικόνα-Προφίλ"
+
+msgid "Just-click-the-Button-to-Select-Upload-Image"
+msgstr "Απλώς-κάντε-κλικ-στο-κουμπί-για-να-επιλέξετε-εικόνα"
+
+msgid "Position"
+msgstr "Θέση"
+
+#: Πράκτορας και ούτω καθεξής ...
+msgctxt "Για παράδειγμα: Διευθυντής Πωλήσεων"
+msgid "For-example-Sales-Manager-Agent-and-so-on"
+msgstr " Agent"
+
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+msgid "Email-address"
+msgstr "Διεύθυνση-Ηλεκτρονικού-Ταχυδρομείου"
+
+msgid "Skype"
+msgstr "Skype"
+
+msgid "Facebook-URL"
+msgstr "Facebook-URL"
+
+msgid "Twitter-URL"
+msgstr "Twitter-URL"
+
+msgid "Linkedin-URL"
+msgstr "Linkedin-URL"
+
+msgid "Youtube-URL"
+msgstr "Youtube-URL"
+
+msgid "Instagram-URL"
+msgstr "Instagram-URL"
+
+msgid "Vimeo-URL"
+msgstr "Vimeo-URL"
+
+msgid "Featured-Image"
+msgstr "Επιλεγμένη-εικόνα"
+
+msgid "Call-For-Price"
+msgstr "Κόστος-ανά-κλήση"
+
+msgid "Search"
+msgstr "Εύρεση"
+
+msgid "Purpose"
+msgstr "Σκοπός"
+
+msgid "Rent"
+msgstr "Ενοικίαση"
+
+msgid "Sale"
+msgstr "Πώληση"
+
+msgid "Beds"
+msgstr "Υπνοδωμάτια"
+
+msgid "All"
+msgstr "Όλα"
+
+msgid "Baths"
+msgstr "Μπάνια"
+
+msgid "Yes"
+msgstr "Ναί"
+
+msgid "No"
+msgstr "Όχι"
+
+msgid "Order-By"
+msgstr "Ταξινόμηση-Κατά"
+
+msgid "Any"
+msgstr "Όλα"
+
+msgid "Year-newest-first"
+msgstr "Νεότερη-Καταχώρηση"
+
+msgid "Year-oldest-first"
+msgstr "Παλαιότερη-Καταχώρηση"
+
+msgid "Price-higher-first"
+msgstr "Ακριβότερο"
+
+msgid "Price-lower-first"
+msgstr "Φθηνότερο"
+
+msgid "Price-Range"
+msgstr "Εύρος-τιμών"
+
+msgid "Price"
+msgstr "Τιμή"
+
+msgid "No-Team-Member-Added"
+msgstr "Δεν-προστέθηκε-μέλος-ομάδας!"
+
+msgid "Address"
+msgstr "Διεύθυνση"
+
+msgid "Call-for-Price"
+msgstr "Καλέστε-για-Τιμή"
+
+msgid "Year"
+msgstr "Έτος"
+
+msgid "Cond"
+msgstr "Κατάσταση"
+
+msgid "HP"
+msgstr "Όλα-τα-ακίνητα"
+
+msgid "Area"
+msgstr "Περιοχή"
+
+msgid "Back"
+msgstr "Πίσω"
+
+msgid "Onward"
+msgstr "Μπροστά"
+
+msgid "Not-Found"
+msgstr "Δεν-βρέθηκε"
+
+msgid "View"
+msgstr "Όψη"
+
+msgid "Contact-Us"
+msgstr "Επικοινωνήστε-μαζί-μας"
+
+msgid "A-list-of-Recent-properties"
+msgstr "Λίστα-με-τα-πιο-πρόσφατα-ακίνητα"
+
+msgid "New-Arrivals"
+msgstr "Νέες-αφίξεις"
+
+msgid "A-list-of-Featured-products"
+msgstr "Μια-λίστα-με-επιλεγμένα-προϊόντα"
+
+msgid "Featured-properties"
+msgstr "Επιλεγμένα-ακίνητα"
+
+msgid "Search-properties"
+msgstr "Εύρεση-ακινήτου"
+
+msgid "Title"
+msgstr "Τίτλος"
+
+msgid "Currency"
+msgstr "Νόμισμα"
+
+msgid "Meters-Feets"
+msgstr "Μέτρα-Πόδια"
+
+msgid "Meters"
+msgstr "Μέτρα"
+
+msgid "Feets"
+msgstr "Πόδια"
+
+msgid "How-many-properties-would-you-like-to-display-per"
+msgstr "Πόσες-ιδιόκτησίες-θα-θέλατε-να-εμφανίζονται-ανά-σελίδα;"
+
+msgid "Remove-Sidebar-from-Search-Result-Page"
+msgstr "Κατάργηση-πλαϊνής-μπάρας-από-τη-σελίδα-αποτελεσμάτων-αναζήτησης"
+
+msgid "Replace-the-Wordpress-Gallery-with-Flexslider-Gall"
+msgstr "Αντικαταστήστε-την-Γκαλερί-του-Wordpress-με-αυτή-του-Flexslider"
+
+msgid "Enable-Contact-Form-in-Single-Product-Page"
+msgstr "Ενεργοποίηση-της-φόρμας-επικοινωνίας-σε-μεμονωμένη-σελίδα-προϊόντος;"
+
+msgid "Enable-Location-control-in-search-bar"
+msgstr "Ενεργοποίηση-ελέγχου-τοποθεσίας-στη-γραμμή-αναζήτησης;"
+
+msgid "Fill-out-your-contact-email-to-receive-email-from"
+msgstr "Συμπληρώστε-το-email-επικοινωνίας-σας-για-να-λάβετε-email-από-τη-Φόρμα-Επικοινωνίας-στο-κάτω-μέρος-της-μεμονωμένης-σελίδας-Προϊόντος."
+
+msgid "Optional-Fill-out-your-Google-API-to-use-with-your"
+msgstr "Προαιρετικά.-Συμπληρώστε-το-Google-API-για-να-το-χρησιμοποιήσετε-με-τους-δικούς-σας-χάρτες-(χάρτες Google)"
+
+msgctxt " χρησιμοποιήστε το πρότυπο Gallery ή την προβολή λίστας"
+msgid "In-Show-Room-Page-use-Gallery-or-List-View-Templat"
+msgstr " use Gallery or List View Template"
+
+msgid "Show-the-Order-By-Control"
+msgstr "Εμφάνιση-της-ταξινόμησης-κατά-έλεγχο"
+
+msgid "Customize-your-Search-Widget-Options-Choose-the-fi"
+msgstr "Προσαρμόστε τις επιλογές γραφικών στοιχείων αναζήτησης. Επιλέξτε τα πεδία για εμφάνιση στο Γραφικό στοιχείο αναζήτησης"

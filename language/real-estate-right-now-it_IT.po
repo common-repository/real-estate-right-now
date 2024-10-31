@@ -1,0 +1,1692 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: realestate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-02 12:36+0100\n"
+"PO-Revision-Date: 2024-10-02 13:19+0100\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: dashboard/dashboard.php:13
+msgid "Server Check"
+msgstr "Controllo del server"
+
+#: dashboard/dashboard.php:18
+msgid "Memory Status"
+msgstr "Stato della memoria"
+
+#: dashboard/dashboard.php:24 dashboard/memory.php:16
+msgid "Unable to get your Memory Info"
+msgstr "Impossibile ottenere le informazioni sulla memoria"
+
+#: dashboard/dashboard.php:51
+#| msgid "Memory Status"
+msgid "Memory Usage"
+msgstr " uso della memoria"
+
+#: dashboard/dashboard.php:53
+msgid "of"
+msgstr "Di"
+
+#: dashboard/dashboard.php:53
+msgid "Usage"
+msgstr "Utilizzo"
+
+#: dashboard/dashboard.php:56
+msgid "For details, click the Memory Checkup Tab above."
+msgstr ""
+"Per maggiori dettagli, fare clic sulla scheda Controllo memoria qui sopra."
+
+#: dashboard/dashboard.php:61
+msgid "Permalink Settings"
+msgstr "Impostazioni permalink"
+
+#: dashboard/dashboard.php:68
+msgid "Wrong Permalink settings!"
+msgstr "Impostazioni Permalink errate!"
+
+#: dashboard/dashboard.php:70
+msgid "Please, fix it to avoid 404 error page."
+msgstr "Per favore, correggilo per evitare la pagina di errore 404."
+
+#: dashboard/dashboard.php:72
+msgid "To correct, just follow these steps:"
+msgstr "Per correggere, basta seguire questi passaggi:"
+
+#: dashboard/dashboard.php:74
+msgid "Dashboard => Settings => Permalinks => Post Name (check)"
+msgstr "Dashboard => Impostazioni => Permalink => Nome post (seleziona)"
+
+#: dashboard/dashboard.php:76
+msgid "Click Save Changes"
+msgstr "Fare clic su Salva modifiche"
+
+#: dashboard/dashboard.php:85
+msgid "Premium Version Disabled."
+msgstr "Versione Premium disattivata."
+
+#: dashboard/dashboard.php:87
+msgid "Many Features are not included in the free version."
+msgstr "Molte funzionalità non sono incluse nella versione gratuita."
+
+#: dashboard/dashboard.php:91
+msgid "Complete real time visual template design functionality."
+msgstr ""
+"Funzionalità di progettazione di modelli visivi completi in tempo reale."
+
+#: dashboard/dashboard.php:93
+msgid "- Last Properties"
+msgstr "- Ultime Proprietà"
+
+#: dashboard/dashboard.php:95
+msgid "- Featured Properties"
+msgstr "- Proprietà in evidenza"
+
+#: dashboard/dashboard.php:97
+msgid "- Order by Price/Year Ascending/Descending"
+msgstr "- Ordina per Prezzo/Anno Crescente/Decrescente"
+
+#: dashboard/dashboard.php:99
+#| msgid "- Shortcode to list only properties for rent (or for sale)"
+msgid "- List only properties for rent / sale"
+msgstr " - Elenca solo proprietà in affitto / vendita"
+
+#: dashboard/dashboard.php:101
+msgid "- Create Blocks type Gallery or Page List"
+msgstr "- Crea blocchi di tipo Galleria o Elenco pagine"
+
+#: dashboard/dashboard.php:104
+msgid "- Number of Properties to show"
+msgstr "- Numero di proprietà da mostrare"
+
+#: dashboard/dashboard.php:106
+#| msgid "- Show or Hide Search Box"
+msgid "- Show or Hide Search Box / Pagination"
+msgstr " - Mostra o Nascondi Casella di Ricerca / Paginazione"
+
+#: dashboard/dashboard.php:108
+msgid "- More..."
+msgstr "- Di più..."
+
+#: dashboard/dashboard.php:112 dashboard/memory.php:61
+#: includes/diagnose/class_bill_diagnose.php:754
+#: includes/diagnose/class_bill_diagnose.php:792
+#: includes/functions/functions.php:935
+msgid "Learn More"
+msgstr "Saperne di più"
+
+#: dashboard/dashboard.php:120
+msgid "Follow these 3 steps after installing the plugin:"
+msgstr "Dopo aver installato il plugin, segui questi 3 passaggi:"
+
+#: dashboard/dashboard.php:126
+msgid "Configure Settings"
+msgstr "Configurare le impostazioni"
+
+#: dashboard/dashboard.php:127
+msgid "Go to"
+msgstr "Vai a"
+
+#: dashboard/dashboard.php:128
+msgid "Dashboard => Real Estate => Settings"
+msgstr "Dashboard => Immobiliare => Impostazioni"
+
+#: dashboard/dashboard.php:130
+msgid "Fill out the information"
+msgstr "Compila le informazioni"
+
+#: dashboard/dashboard.php:132
+msgid "Your Currency"
+msgstr "La tua valuta"
+
+#: dashboard/dashboard.php:134
+msgid "Meters - Feet"
+msgstr "Metri - Piedi"
+
+#: dashboard/dashboard.php:136
+msgid "Your Contact Email"
+msgstr "La tua email di contatto"
+
+#: dashboard/dashboard.php:138 dashboard/dashboard.php:163
+msgid "And so on..."
+msgstr "E così via..."
+
+#: dashboard/dashboard.php:140
+msgid "Import Demo Data:"
+msgstr "Importa dati demo:"
+
+#: dashboard/dashboard.php:142
+msgid ""
+"If you want to import demo data, click the Help button at the top right "
+"corner"
+msgstr ""
+"Se vuoi importare dati demo, clicca sul pulsante Aiuto nell'angolo in alto a "
+"destra"
+
+#: dashboard/dashboard.php:144
+msgid "If you import demo data, you can skip step 2."
+msgstr "Se importi dati demo, puoi saltare il passaggio 2."
+
+#: dashboard/dashboard.php:149
+msgid "Fill Out Fields and Properties Table"
+msgstr "Compila i campi e la tabella delle proprietà"
+
+#: dashboard/dashboard.php:150
+msgid "Go to Fields Table:"
+msgstr "Vai alla tabella Campi:"
+
+#: dashboard/dashboard.php:151
+msgid "Dashboard => Real Estate => Fields Table"
+msgstr "Dashboard => Immobiliare => Tabella Campi"
+
+#: dashboard/dashboard.php:153
+msgid "These are the fields that will appear in your properties form:"
+msgstr "Questi sono i campi che appariranno nel modulo delle tue proprietà:"
+
+#: dashboard/dashboard.php:155
+msgid "Google Maps"
+msgstr "Mappe di Google"
+
+#: dashboard/dashboard.php:157
+msgid "Pool"
+msgstr "Piscina"
+
+#: dashboard/dashboard.php:159
+msgid "Balcony"
+msgstr "Balcone"
+
+#: dashboard/dashboard.php:161
+msgid "Garage"
+msgstr "Garage"
+
+#: dashboard/dashboard.php:165
+msgid "You don't need to include these fields:"
+msgstr "Non è necessario includere questi campi:"
+
+#: dashboard/dashboard.php:166
+msgid "Address, Purpose, Beds, Baths, Price, Year, Area."
+msgstr "Indirizzo, Scopo, Letti, Bagni, Prezzo, Anno, Superficie."
+
+#: dashboard/dashboard.php:168
+msgid "Go to Properties Table:"
+msgstr "Vai alla tabella delle proprietà:"
+
+#: dashboard/dashboard.php:169
+msgid "Dashboard => Real Estate => Properties Table"
+msgstr "Dashboard => Immobiliare => Tabella Proprietà"
+
+#: dashboard/dashboard.php:171
+msgid "Fill out this table with your properties, for example:"
+msgstr "Compila questa tabella con le tue proprietà, ad esempio:"
+
+#: dashboard/dashboard.php:173
+msgid "Apartments"
+msgstr "Appartamenti"
+
+#: dashboard/dashboard.php:175
+msgid "Offices"
+msgstr "Uffici"
+
+#: dashboard/dashboard.php:177
+msgid "And so on."
+msgstr "E così via."
+
+#: dashboard/dashboard.php:183
+msgid "Paste the Code in Your Page"
+msgstr "Incolla il codice nella tua pagina"
+
+#: dashboard/dashboard.php:184
+msgid "Go to your page and copy and paste this code:"
+msgstr "Vai alla tua pagina e copia e incolla questo codice:"
+
+#: dashboard/dashboard.php:187
+msgid "To show only the search bar, use the following shortcode:"
+msgstr ""
+"Per visualizzare solo la barra di ricerca, utilizzare il seguente codice "
+"abbreviato:"
+
+#: dashboard/dashboard.php:190
+msgid "To create a Team page, use the following shortcode:"
+msgstr "Per creare una pagina Team, utilizzare il seguente codice abbreviato:"
+
+#: dashboard/dashboard.php:193
+msgid "The premium version includes dozens of extra shortcodes..."
+msgstr "La versione premium include decine di codici abbreviati extra..."
+
+#: dashboard/dashboard.php:200
+msgid "Help, Demo, Support, Troubleshooting:"
+msgstr "Aiuto, Demo, Supporto, Risoluzione dei problemi:"
+
+#: dashboard/dashboard.php:206
+msgid "Help and More Tips"
+msgstr "Aiuto e altri suggerimenti"
+
+#: dashboard/dashboard.php:207
+msgid ""
+"Just click the HELP button at the top right corner of this page for context "
+"help. Tooltips are also available in the fields form."
+msgstr ""
+"Basta cliccare sul pulsante HELP nell'angolo in alto a destra di questa "
+"pagina per un aiuto contestuale. I tooltip sono disponibili anche nel modulo "
+"dei campi."
+
+#: dashboard/dashboard.php:213
+msgid "Online Guide, Support, Demo, Demo Video, FAQ..."
+msgstr "Guida online, supporto, demo, video dimostrativo, FAQ..."
+
+#: dashboard/dashboard.php:214
+msgid ""
+"You can find our complete and updated online guide, demo video, FAQ page, "
+"and link to the support page on our site."
+msgstr ""
+"Sul nostro sito puoi trovare la nostra guida online completa e aggiornata, "
+"il video dimostrativo, la pagina delle FAQ e il link alla pagina di supporto."
+
+#: dashboard/dashboard.php:217
+msgid "Go"
+msgstr "Andare"
+
+#: dashboard/dashboard.php:222
+msgid "Troubleshooting Guide"
+msgstr "Guida alla risoluzione dei problemi"
+
+#: dashboard/dashboard.php:223
+msgid ""
+"Issues like using an old WordPress version, low memory, plugins with "
+"JavaScript errors, or wrong permalink settings can cause problems. Read the "
+"troubleshooting guide to fix them quickly!"
+msgstr ""
+"Problemi come l'utilizzo di una vecchia versione di WordPress, poca memoria, "
+"plugin con errori JavaScript o impostazioni permalink errate possono causare "
+"problemi. Leggi la guida alla risoluzione dei problemi per risolverli "
+"rapidamente!"
+
+#: dashboard/dashboard.php:225
+msgid "Troubleshooting Page"
+msgstr "Pagina di risoluzione dei problemi"
+
+#: dashboard/main.php:163
+msgid "Help and Support Page"
+msgstr "Pagina di aiuto e supporto"
+
+#: dashboard/memory.php:19
+msgid "Memory Info"
+msgstr "Informazioni sulla memoria"
+
+#: dashboard/memory.php:37
+msgid "Current memory WordPress Limit:"
+msgstr "Limite di memoria attuale di WordPress:"
+
+#: dashboard/memory.php:45
+msgid "Your usage now:"
+msgstr "Il tuo utilizzo attuale:"
+
+#: dashboard/memory.php:51
+msgid "Total Server Memory:"
+msgstr "Memoria totale del server:"
+
+#: dashboard/memory.php:58
+msgid ""
+"If you want adjust and control your WordPress Memory Limit and PHP Memory "
+"Limit quickly, try our free plugin WPmemory:"
+msgstr ""
+"Se vuoi regolare e controllare rapidamente il limite di memoria di WordPress "
+"e il limite di memoria PHP, prova il nostro plugin gratuito WPmemory:"
+
+#: dashboard/memory.php:66
+msgid "Follow these instructions to do it manually:"
+msgstr "Per farlo manualmente, seguire queste istruzioni:"
+
+#: dashboard/memory.php:72
+msgid ""
+"To increase the WordPress memory limit, add this info to your file wp-config."
+"php (located at the root folder of your server)"
+msgstr ""
+"Per aumentare il limite di memoria di WordPress, aggiungi queste "
+"informazioni al tuo file wp-config.php (che si trova nella cartella "
+"principale del tuo server)"
+
+#: dashboard/memory.php:75
+msgid "(just copy and paste)"
+msgstr "(basta copiare e incollare)"
+
+#: dashboard/memory.php:83
+msgid "before this line:"
+msgstr "prima di questa riga:"
+
+#: dashboard/memory.php:89
+msgid "If you need more, just replace 128 with the new memory limit."
+msgstr ""
+"Se ne serve di più, basta sostituire 128 con il nuovo limite di memoria."
+
+#: dashboard/memory.php:93
+msgid "To increase your total server memory, talk with your hosting company."
+msgstr ""
+"Per aumentare la memoria totale del tuo server, contatta la tua società di "
+"hosting."
+
+#: dashboard/memory.php:100
+msgid "How to Tell if Your Site Needs More Memory:"
+msgstr "Come capire se il tuo sito ha bisogno di più memoria:"
+
+#: dashboard/memory.php:104
+msgid ""
+"If your site is behaving slowly, pages fail to load, you get random white "
+"screens of death or 500 internal server errors, you may need more memory."
+msgstr ""
+"Se il tuo sito è lento, le pagine non si caricano, compaiono casualmente "
+"schermate bianche di errore o si verificano errori interni del server 500, "
+"potresti aver bisogno di più memoria."
+
+#: dashboard/memory.php:107
+msgid ""
+"Several things consume memory, such as WordPress itself, installed plugins, "
+"the theme, and the content of your site."
+msgstr ""
+"Diversi elementi consumano memoria, ad esempio WordPress stesso, i plugin "
+"installati, il tema e il contenuto del sito."
+
+#: dashboard/memory.php:110
+msgid ""
+"Basically, the more content and features you add to your site, the larger "
+"your memory limit needs to be."
+msgstr ""
+"In pratica, più contenuti e funzionalità aggiungi al tuo sito, più grande "
+"dovrà essere il limite di memoria."
+
+#: dashboard/memory.php:113
+msgid ""
+"If you're running a small site with basic functions, you may not need to "
+"increase your memory limit. But once you start using premium themes or "
+"plugins, or encounter unexpected issues, it's time to adjust your memory "
+"limit."
+msgstr ""
+"Se gestisci un piccolo sito con funzioni di base, potresti non aver bisogno "
+"di aumentare il limite di memoria. Ma una volta che inizi a usare temi o "
+"plugin premium, o riscontri problemi imprevisti, è il momento di regolare il "
+"limite di memoria."
+
+#: dashboard/mybanners.php:191
+msgid "Did you like the Real Estate Right Now Plugin?"
+msgstr "Ti è piaciuto il plugin Real Estate Right Now?"
+
+#: dashboard/mybanners.php:193
+msgid ""
+"Please support us by rating our plugin on WordPress.org. Help us keep this "
+"plugin live and updated."
+msgstr ""
+"Vi preghiamo di supportarci valutando il nostro plugin su WordPress.org. "
+"Aiutateci a mantenere questo plugin attivo e aggiornato."
+
+#: dashboard/mybanners.php:196 dashboard/mybanners.php:205
+msgid "Rate"
+msgstr "Valutare"
+
+#: dashboard/mybanners.php:199
+msgid "Please help us keep the plugin live & up-to-date"
+msgstr "Aiutaci a mantenere il plugin attivo e aggiornato"
+
+#: dashboard/mybanners.php:202
+msgid ""
+"If you use & enjoy Real Estate Right Now Plugin, please rate it on WordPress."
+"org. It only takes a second and helps us keep the plugin live and "
+"maintained. Thank you!"
+msgstr ""
+"Se utilizzi e apprezzi Real Estate Right Now Plugin, per favore votalo su "
+"WordPress.org. Ci vuole solo un secondo e ci aiuta a mantenere il plugin "
+"attivo e mantenuto. Grazie!"
+
+#: includes/contact-form/multi-contact-show-form.php:23
+#, fuzzy
+#| msgid "Fill out the information"
+msgid "Request Information"
+msgstr "Compila le informazioni"
+
+#: includes/contact-form/multi-contact-show-form.php:27
+msgid "Your Name"
+msgstr "Il tuo nome"
+
+#: includes/contact-form/multi-contact-show-form.php:30
+msgid "Please type your name"
+msgstr "Per favore digita il tuo nome"
+
+#: includes/contact-form/multi-contact-show-form.php:33
+#, fuzzy
+#| msgid "Your Contact Email"
+msgid "Your Email"
+msgstr "La tua email di contatto"
+
+#: includes/contact-form/multi-contact-show-form.php:36
+msgid "Please type your email"
+msgstr "Per favore digita la tua email"
+
+#: includes/contact-form/multi-contact-show-form.php:40
+msgid "Your Message"
+msgstr "Il tuo messaggio"
+
+#: includes/contact-form/multi-contact-show-form.php:42
+msgid "Please type your message"
+msgstr "Per favore digita il tuo messaggio"
+
+#: includes/contact-form/multi-contact-show-form.php:48
+msgid "Send"
+msgstr "Inviare"
+
+#: includes/contact-form/multi-contact-show-form.php:49
+msgid "Cancel"
+msgstr "Cancellare"
+
+#: includes/contact-form/multi-contact-show-form.php:54
+msgid "Sending your message. Please wait..."
+msgstr "Invio del messaggio. Attendi..."
+
+#: includes/contact-form/multi-contact-show-form.php:55
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr "Grazie per il tuo messaggio! Ti risponderemo al più presto."
+
+#: includes/contact-form/multi-contact-show-form.php:56
+msgid "There was a problem sending your message. Please try again."
+msgstr "Si è verificato un problema durante l'invio del messaggio. Riprova."
+
+#: includes/contact-form/multi-contact-show-form.php:57
+msgid "Please enter one valid email address."
+msgstr "Inserisci un indirizzo email valido."
+
+#: includes/contact-form/multi-contact-show-form.php:58
+msgid "Please complete all the fields in the form before sending."
+msgstr "Si prega di compilare tutti i campi del modulo prima di inviare."
+
+#: includes/contact-form/multi-contact-show-form.php:59
+msgid "Name Error. Use only alpha."
+msgstr "Errore nel nome. Utilizzare solo alfa."
+
+#: includes/contact-form/multi-contact-show-form.php:60
+msgid "Message Error. Only Use only alpha and numbers."
+msgstr "Messaggio di errore. Utilizza solo caratteri alfabetici e numerici."
+
+#: includes/customizer/customizer.php:17
+msgid "Real Estate Custom Design"
+msgstr "Progettazione immobiliare personalizzata"
+
+#: includes/customizer/customizer.php:20
+msgid ""
+"Click the Templates icon at the top left of the preview window to change "
+"your template. To customize further, simply click on any element, or it's "
+"corresponding shortcut icon, to edit it's styling. "
+msgstr ""
+"Fai clic sull'icona Templates in alto a sinistra della finestra di anteprima "
+"per modificare il tuo template. Per personalizzare ulteriormente, fai clic "
+"su qualsiasi elemento o sulla sua icona di collegamento corrispondente per "
+"modificarne lo stile."
+
+#: includes/customizer/customizer.php:31
+msgid "Help"
+msgstr "Aiuto"
+
+#: includes/customizer/customizer.php:62
+msgid "Templates"
+msgstr "Modelli"
+
+#: includes/customizer/customizer.php:65
+msgid "Choose the Real Estate Template to Use."
+msgstr "Scegli il modello immobiliare da utilizzare."
+
+#: includes/customizer/customizer.php:76
+msgid "Single Property Templates"
+msgstr "Modelli di proprietà singole"
+
+#: includes/customizer/customizer.php:79
+msgid "Choose the Single Property Template to Use."
+msgstr "Selezionare il modello di proprietà singola da utilizzare."
+
+#: includes/customizer/customizer.php:90
+msgid "Search Box LayOut"
+msgstr "Layout della casella di ricerca"
+
+#: includes/customizer/customizer.php:92
+msgid "Design the Search Box"
+msgstr "Progetta la casella di ricerca"
+
+#: includes/customizer/customizer.php:98
+msgid "Search Box Fields"
+msgstr "Campi della casella di ricerca"
+
+#: includes/customizer/customizer.php:100
+msgid "Manage the Design fields"
+msgstr "Gestire i campi di progettazione"
+
+#: includes/customizer/customizer.php:105
+msgid "Search Box Slider"
+msgstr "Cursore della casella di ricerca"
+
+#: includes/customizer/customizer.php:107
+msgid "Customize the price Slider."
+msgstr "Personalizza il cursore dei prezzi."
+
+#: includes/customizer/customizer.php:112
+msgid "Search Box Button"
+msgstr "Pulsante della casella di ricerca"
+
+#: includes/customizer/customizer.php:114
+msgid "Customize the Search Box Button."
+msgstr "Personalizza il pulsante della casella di ricerca."
+
+#: includes/customizer/customizer.php:119
+msgid "Property Template and Widgets"
+msgstr "Modello di proprietà e widget"
+
+#: includes/customizer/customizer.php:122
+msgid "Customize the Property Template and Widgets."
+msgstr "Personalizza il modello delle proprietà e i widget."
+
+#: includes/customizer/customizer.php:129
+msgid "Single Property Template"
+msgstr "Modello di proprietà singola"
+
+#: includes/customizer/customizer.php:131
+msgid "Customize the Single Property Template."
+msgstr "Personalizza il modello di proprietà singola."
+
+#: includes/customizer/customizer.php:136
+msgid "Buttons Back and Contact Us"
+msgstr "Pulsanti Indietro e Contattaci"
+
+#: includes/customizer/customizer.php:139
+msgid "Customize the Buttons Back and Contact Us."
+msgstr "Personalizza i pulsanti Indietro e Contattaci."
+
+#: includes/customizer/customizer.php:210
+msgid "Search Fields Label Color"
+msgstr "Colore etichetta campi di ricerca"
+
+#: includes/customizer/customizer.php:223
+msgid "Search Fields Controls Color"
+msgstr "Controlli dei campi di ricerca Colore"
+
+#: includes/customizer/customizer.php:236
+msgid "Search Fields Controls Background Color"
+msgstr "Controlli dei campi di ricerca Colore di sfondo"
+
+#: includes/customizer/customizer.php:254
+msgid "Search Fields Controls Border Radius"
+msgstr "I campi di ricerca controllano il raggio del bordo"
+
+#: includes/customizer/customizer.php:255
+#: includes/customizer/customizer.php:330
+#: includes/customizer/customizer.php:419
+#: includes/customizer/customizer.php:603
+#: includes/customizer/customizer.php:689
+#: includes/customizer/customizer.php:1031
+msgid "Border Radius: from 0 to 30."
+msgstr "Raggio del bordo: da 0 a 30."
+
+#: includes/customizer/customizer.php:272
+msgid "Search Slider Label Color"
+msgstr "Colore etichetta cursore di ricerca"
+
+#: includes/customizer/customizer.php:285
+msgid "Search Slider Color"
+msgstr "Cerca colore cursore"
+
+#: includes/customizer/customizer.php:298
+msgid "Search Slider Handle Color"
+msgstr "Colore della maniglia del cursore di ricerca"
+
+#: includes/customizer/customizer.php:311
+msgid "Search Slider Background Color"
+msgstr "Colore di sfondo del cursore di ricerca"
+
+#: includes/customizer/customizer.php:329
+msgid "Search Slider Border Radius"
+msgstr "Raggio del bordo del cursore di ricerca"
+
+#: includes/customizer/customizer.php:347
+msgid "Search Slider Border Color"
+msgstr "Colore del bordo del cursore di ricerca"
+
+#: includes/customizer/customizer.php:367
+msgid "Search Box Button Text Color"
+msgstr "Colore del testo del pulsante della casella di ricerca"
+
+#: includes/customizer/customizer.php:382
+msgid "Search Box Button Background Color"
+msgstr "Colore di sfondo del pulsante della casella di ricerca"
+
+#: includes/customizer/customizer.php:399
+msgid "Search Box Button Width"
+msgstr "Larghezza del pulsante della casella di ricerca"
+
+#: includes/customizer/customizer.php:400
+#: includes/customizer/customizer.php:623
+msgid "Button width: from 100 to 300."
+msgstr "Larghezza del pulsante: da 100 a 300."
+
+#: includes/customizer/customizer.php:418
+msgid "Search Box Button Border Radius"
+msgstr "Raggio del bordo del pulsante della casella di ricerca"
+
+#: includes/customizer/customizer.php:447
+msgid "Template Name"
+msgstr "Nome del modello"
+
+#: includes/customizer/customizer.php:485
+msgid "Single Property Template Name"
+msgstr "Nome modello proprietà singola"
+
+#: includes/customizer/customizer.php:505
+msgid "Single Property Template Pop Up Modal Width"
+msgstr "Larghezza modale del pop-up del modello di proprietà singola"
+
+#: includes/customizer/customizer.php:525
+msgid "Template Text Color"
+msgstr "Colore del testo del modello"
+
+#: includes/customizer/customizer.php:540
+msgid "Template Background Color (works with templates gallery and list view)"
+msgstr ""
+"Colore di sfondo del modello (funziona con la galleria dei modelli e la "
+"vista elenco)"
+
+#: includes/customizer/customizer.php:555
+msgid "Template Title Color"
+msgstr "Colore del titolo del modello"
+
+#: includes/customizer/customizer.php:570
+msgid "Template Button View Color"
+msgstr "Modello Pulsante Visualizza Colore"
+
+#: includes/customizer/customizer.php:585
+msgid "Template Button View Background Color"
+msgstr "Colore di sfondo della vista del pulsante del modello"
+
+#: includes/customizer/customizer.php:602
+msgid "Template Button View Border Radius"
+msgstr "Raggio del bordo della vista del pulsante del modello"
+
+#: includes/customizer/customizer.php:622
+msgid "Template Button View Width"
+msgstr "Larghezza visualizzazione pulsante modello"
+
+#: includes/customizer/customizer.php:640
+msgid "Template List View Separator Color"
+msgstr "Colore separatore visualizzazione elenco modelli"
+
+#: includes/customizer/customizer.php:656
+msgid "Template Grid Border Color"
+msgstr "Colore del bordo della griglia del modello"
+
+#: includes/customizer/customizer.php:671
+msgid "Template Gallery and Widgets Border Color"
+msgstr "Galleria modelli e colore bordo widget"
+
+#: includes/customizer/customizer.php:688
+msgid "Template Gallery and Widgets Border Radius"
+msgstr "Galleria modelli e raggio bordo widget"
+
+#: includes/customizer/customizer.php:705
+msgid "Template Gallery and Widgets Title Color"
+msgstr "Galleria modelli e widget Colore titolo"
+
+#: includes/customizer/customizer.php:720
+msgid "Template Gallery and Widgets Title Background Color"
+msgstr "Galleria modelli e widget Titolo Colore sfondo"
+
+#: includes/customizer/customizer.php:736
+msgid "Widget Search Background Color"
+msgstr "Colore di sfondo della ricerca widget"
+
+#: includes/customizer/customizer.php:755
+msgid "Single Property Template Background Color"
+msgstr "Colore di sfondo del modello di proprietà singola"
+
+#: includes/customizer/customizer.php:770
+msgid "Single Property Template Color"
+msgstr "Colore modello proprietà singola"
+
+#: includes/customizer/customizer.php:786
+msgid "Single Property Template Features Title Background Color"
+msgstr ""
+"Caratteristiche del modello di proprietà singola Colore di sfondo del titolo"
+
+#: includes/customizer/customizer.php:803
+msgid "Single Property Template Features Title Color"
+msgstr "Caratteristiche del modello di proprietà singola Colore del titolo"
+
+#: includes/customizer/customizer.php:824
+msgid "Single Property Template Features Border Color"
+msgstr "Caratteristiche del modello di proprietà singola Colore del bordo"
+
+#: includes/customizer/customizer.php:848
+msgid "Features Border Radius"
+msgstr "Caratteristiche Raggio del bordo"
+
+#: includes/customizer/customizer.php:849
+msgid "Features Border Radius: from 0 to 30."
+msgstr "Caratteristiche Raggio del bordo: da 0 a 30."
+
+#: includes/customizer/customizer.php:872
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: includes/customizer/customizer.php:888
+msgid "Border Size"
+msgstr "Dimensione del bordo"
+
+#: includes/customizer/customizer.php:890
+msgid "Border Size: from 0 to 5. Mark 0 to hide the Boarder."
+msgstr "Dimensione bordo: da 0 a 5. Seleziona 0 per nascondere il bordo."
+
+#: includes/customizer/customizer.php:908
+msgid "Border Radius"
+msgstr "Raggio del bordo"
+
+#: includes/customizer/customizer.php:909
+msgid "Border Radius: from 1 to 70px."
+msgstr "Raggio del bordo: da 1 a 70 px."
+
+#: includes/customizer/customizer.php:926
+msgid "Border Color"
+msgstr "Colore del bordo"
+
+#: includes/customizer/customizer.php:943
+msgid "Margin Bottom"
+msgstr "Margine inferiore"
+
+#: includes/customizer/customizer.php:944
+msgid "Margin Bottom: from 0 to 30."
+msgstr "Margine inferiore: da 0 a 30."
+
+#: includes/customizer/customizer.php:965
+msgid "Back and Contact Us Buttons Color"
+msgstr "Colore dei pulsanti Indietro e Contattaci"
+
+#: includes/customizer/customizer.php:981
+msgid "Back and Contact Us Buttons Background Color"
+msgstr "Colore di sfondo dei pulsanti Indietro e Contattaci"
+
+#: includes/customizer/customizer.php:1002
+msgid "Back and Contact Us Buttons width"
+msgstr "Larghezza dei pulsanti Indietro e Contattaci"
+
+#: includes/customizer/customizer.php:1003
+msgid "Border Radius: from 100 to 300."
+msgstr "Raggio del bordo: da 100 a 300."
+
+#: includes/customizer/customizer.php:1030
+msgid "Back and Contact Us Buttons Border Radius"
+msgstr "Pulsanti Indietro e Contattaci Raggio bordo"
+
+#: includes/diagnose/class_bill_diagnose.php:610
+#: includes/diagnose/class_bill_diagnose.php:631
+msgid "Our plugin"
+msgstr "Il nostro plugin"
+
+#: includes/diagnose/class_bill_diagnose.php:612
+msgid ""
+"cannot function properly because your WordPress Memory Limit is too low. "
+"Your site will experience serious issues, even if you deactivate our plugin."
+msgstr ""
+"non può funzionare correttamente perché il tuo WordPress Memory Limit è "
+"troppo basso. Il tuo sito avrà seri problemi, anche se disattivi il nostro "
+"plugin."
+
+#: includes/diagnose/class_bill_diagnose.php:618
+#: includes/diagnose/class_bill_diagnose.php:639
+#, fuzzy
+#| msgid "Learn More"
+msgid "Learn more"
+msgstr "Saperne di più"
+
+#: includes/diagnose/class_bill_diagnose.php:630
+msgid "Your site has errors."
+msgstr "Il tuo sito contiene degli errori."
+
+#: includes/diagnose/class_bill_diagnose.php:633
+msgid ""
+"can't function as intended. Errors, including JavaScript errors, may lead to "
+"visual problems or disrupt functionality, from minor glitches to critical "
+"site failures. Promptly address these issues before continuing."
+msgstr ""
+"non può funzionare come previsto. Gli errori, inclusi gli errori JavaScript, "
+"possono causare problemi visivi o interrompere la funzionalità, da piccoli "
+"problemi a guasti critici del sito. Risolvi prontamente questi problemi "
+"prima di continuare."
+
+#: includes/diagnose/class_bill_diagnose.php:659
+msgctxt "Site Health"
+msgid "Critical Issues"
+msgstr "Problemi critici"
+
+#: includes/diagnose/class_bill_diagnose.php:700
+msgid ""
+"Displaying the latest recurring errors from your error log file and "
+"eventually alert about low WordPress memory limit is a courtesy of plugin"
+msgstr ""
+"La visualizzazione degli ultimi errori ricorrenti dal file di registro degli "
+"errori e, infine, l'avviso sul limite di memoria basso di WordPress è una "
+"cortesia del plugin"
+
+#: includes/diagnose/class_bill_diagnose.php:702
+msgid ""
+"Disabling our plugin does not stop the errors from occurring; \n"
+"                it simply means you will no longer be notified here that "
+"they are happening, but they can still harm your site."
+msgstr ""
+"Disabilitare il nostro plugin non impedisce che si verifichino errori; "
+"significa semplicemente che non sarai più avvisato qui che si stanno "
+"verificando, ma potrebbero comunque danneggiare il tuo sito."
+
+#: includes/diagnose/class_bill_diagnose.php:710
+msgid "Potential Problems"
+msgstr "Potenziali problemi"
+
+#: includes/diagnose/class_bill_diagnose.php:718
+msgid "Low WordPress Memory Limit"
+msgstr "Limite di memoria basso di WordPress"
+
+#: includes/diagnose/class_bill_diagnose.php:731
+#, fuzzy
+#| msgid "Your usage now:"
+msgid "Your usage now"
+msgstr "Il tuo utilizzo attuale:"
+
+#: includes/diagnose/class_bill_diagnose.php:739
+#| msgid "Total Server Memory:"
+msgid "Total Php Server Memory"
+msgstr " Memoria Totale del Server PHP"
+
+#: includes/diagnose/class_bill_diagnose.php:748
+msgid ""
+"Your WordPress Memory Limit is too low, which can lead to critical issues on "
+"your site due to insufficient resources. Promptly address this issue before "
+"continuing."
+msgstr ""
+"Il tuo limite di memoria WordPress è troppo basso, il che può causare "
+"problemi critici sul tuo sito a causa di risorse insufficienti. Risolvi "
+"subito questo problema prima di continuare."
+
+#: includes/diagnose/class_bill_diagnose.php:783
+msgid "Site Errors"
+msgstr "Errori del sito"
+
+#: includes/diagnose/class_bill_diagnose.php:788
+msgid ""
+"Your site has experienced errors for the past 2 days. These errors, "
+"including JavaScript issues, can result in visual problems or disrupt "
+"functionality, ranging from minor glitches to critical site failures. "
+"JavaScript errors can terminate JavaScript execution, leaving all subsequent "
+"commands inoperable."
+msgstr ""
+"Il tuo sito ha riscontrato errori negli ultimi 2 giorni. Questi errori, "
+"inclusi i problemi di JavaScript, possono causare problemi visivi o "
+"interrompere la funzionalità, che vanno da piccoli problemi a guasti critici "
+"del sito. Gli errori di JavaScript possono terminare l'esecuzione di "
+"JavaScript, lasciando inutilizzabili tutti i comandi successivi."
+
+#: includes/diagnose/class_bill_diagnose.php:846
+msgid "This is a partial list of the errors found."
+msgstr "Questo è un elenco parziale degli errori riscontrati."
+
+#: includes/diagnose/class_bill_diagnose.php:1324
+msgid ""
+"These are critical issues that can have a significant impact on your site's "
+"performance. They can cause many plugins and functionalities to malfunction "
+"and, in some cases, render your site completely inoperative, depending on "
+"their severity. Address them promptly."
+msgstr ""
+"Si tratta di problemi critici che possono avere un impatto significativo "
+"sulle prestazioni del tuo sito. Possono causare il malfunzionamento di molti "
+"plugin e funzionalità e, in alcuni casi, rendere il tuo sito completamente "
+"inoperativo, a seconda della loro gravità. Risolvili tempestivamente."
+
+#: includes/functions/functions.php:430
+msgid "United Arab Emirates Dirham (&#1583;.&#1573;)"
+msgstr "Dirham degli Emirati Arabi Uniti (د.إ)"
+
+#: includes/functions/functions.php:431
+msgid "Afghan Afghani (&#1547;)"
+msgstr "Afgano afgano (؋)"
+
+#: includes/functions/functions.php:432
+msgid "Angolan Kwanza"
+msgstr "Kwanza angolano"
+
+#: includes/functions/functions.php:433
+msgid "Argentine Pesos (&#36;)"
+msgstr "Pesos argentini ($)"
+
+#: includes/functions/functions.php:434
+msgid "Australian Dollars (&#36;)"
+msgstr "Dollari australiani ($)"
+
+#: includes/functions/functions.php:435
+msgid "Brazilian Real (R&#36;)"
+msgstr "Real brasiliano (R$)"
+
+#: includes/functions/functions.php:436
+msgid "Bulgarian Lev"
+msgstr "Lev bulgaro"
+
+#: includes/functions/functions.php:437
+msgid "Canadian Dollars (&#36;)"
+msgstr "Dollari canadesi ($)"
+
+#: includes/functions/functions.php:438
+msgid "Swiss Franc"
+msgstr "Franco svizzero"
+
+#: includes/functions/functions.php:439
+msgid "Chinese Yuan (&yen;)"
+msgstr "Yuan cinese (¥)"
+
+#: includes/functions/functions.php:440
+msgid "Czech Koruna"
+msgstr "Corona ceca"
+
+#: includes/functions/functions.php:441
+msgid "Danish Krone"
+msgstr "Corona danese"
+
+#: includes/functions/functions.php:442
+msgid "Euros (&euro;)"
+msgstr "Euro (€)"
+
+#: includes/functions/functions.php:443
+msgid "Pound Sterling (&pound;)"
+msgstr "Sterlina inglese (£)"
+
+#: includes/functions/functions.php:444
+msgid "Hong Kong Dollar (&#36;)"
+msgstr "Dollaro di Hong Kong ($)"
+
+#: includes/functions/functions.php:445
+msgid "Croatian Kuna"
+msgstr "Kuna croata"
+
+#: includes/functions/functions.php:446
+msgid "Hungarian Forint"
+msgstr "Fiorino ungherese"
+
+#: includes/functions/functions.php:447
+msgid "Indonesian Rupiah (Rp)"
+msgstr "Rupia indonesiana (Rp)"
+
+#: includes/functions/functions.php:448
+msgid "Israeli Shekel (&#8362;)"
+msgstr "Shekel israeliano (₪)"
+
+#: includes/functions/functions.php:449
+msgid "Indian Rupee (&#8377;)"
+msgstr "Rupia indiana (₹)"
+
+#: includes/functions/functions.php:450
+msgid "Japanese Yen (&yen;)"
+msgstr "Yen giapponese (¥)"
+
+#: includes/functions/functions.php:451
+msgid "South Korean Won (&#8361;)"
+msgstr "Won sudcoreano (₩)"
+
+#: includes/functions/functions.php:452
+msgid "Mexican Peso (&#36;)"
+msgstr "Peso messicano ($)"
+
+#: includes/functions/functions.php:453
+msgid "Malaysian Ringgits"
+msgstr "Ringgit malesi"
+
+#: includes/functions/functions.php:454
+msgid "Norwegian Krone"
+msgstr "Corona norvegese"
+
+#: includes/functions/functions.php:455
+msgid "New Zealand Dollar (&#36;)"
+msgstr "Dollaro neozelandese ($)"
+
+#: includes/functions/functions.php:456
+msgid "Philippine Pesos"
+msgstr "Pesos filippini"
+
+#: includes/functions/functions.php:457
+msgid "Polish Zloty"
+msgstr "Zloty polacco"
+
+#: includes/functions/functions.php:458
+msgid "Pakistani Rupee (₨)"
+msgstr "Rupia pakistana (₨)"
+
+#: includes/functions/functions.php:459
+msgid "Romanian Leu"
+msgstr "Leu rumeno"
+
+#: includes/functions/functions.php:460
+msgid "Russian Rubles"
+msgstr "Rubli russi"
+
+#: includes/functions/functions.php:461
+msgid "Saudi Riyal (&#65020;)"
+msgstr "Riyal saudita (﷼)"
+
+#: includes/functions/functions.php:462
+msgid "Swedish Krona"
+msgstr "Corona svedese"
+
+#: includes/functions/functions.php:463
+msgid "Singapore Dollar (&#36;)"
+msgstr "Dollaro di Singapore ($)"
+
+#: includes/functions/functions.php:464
+msgid "Thai Baht (&#3647;)"
+msgstr "Baht thailandese (฿)"
+
+#: includes/functions/functions.php:465
+msgid "Turkish Lira (&#8378;)"
+msgstr "Lira turca (₺)"
+
+#: includes/functions/functions.php:466
+msgid "Taiwan New Dollars"
+msgstr "Nuovi dollari di Taiwan"
+
+#: includes/functions/functions.php:467
+msgid "US Dollars (&#36;)"
+msgstr "Dollari USA ($)"
+
+#: includes/functions/functions.php:468
+msgid "Vietnamese Dong (&#8363;)"
+msgstr "Dong vietnamita (₫)"
+
+#: includes/functions/functions.php:469
+msgid "Yen (&yen;)"
+msgstr "Yen (¥)"
+
+#: includes/functions/functions.php:470
+msgid "South African Rand"
+msgstr "Rand sudafricano"
+
+#: includes/functions/functions.php:783
+msgid "Extend standard plugin functionality with new great options."
+msgstr ""
+"Amplia le funzionalità standard dei plugin con nuove fantastiche opzioni."
+
+#: includes/functions/functions.php:789 includes/functions/functions.php:801
+#: includes/functions/functions.php:807
+msgid "Make Your Website Look More Professional."
+msgstr "Rendi il tuo sito web più professionale."
+
+#: includes/functions/functions.php:795
+msgid ""
+"Add colors and extend standard plugin functionality with new great options."
+msgstr ""
+"Aggiungi colori ed estendi le funzionalità standard dei plugin con nuove "
+"fantastiche opzioni."
+
+#: includes/functions/functions.php:809
+msgid "It is time to upgrade your"
+msgstr "È tempo di aggiornare il tuo"
+
+#: includes/functions/functions.php:912
+msgid "Close notice"
+msgstr "Chiudi avviso"
+
+#: includes/functions/functions.php:923
+msgid "to"
+msgstr "A"
+
+#: includes/functions/functions.php:927
+msgid "version!"
+msgstr "versione!"
+
+#: includes/functions/functions.php:939
+msgid "Dismiss"
+msgstr "Congedare"
+
+#: includes/help/help.php:82 includes/help/help.php:162
+#: includes/help/help.php:270 includes/help/help.php:307
+#: includes/help/help.php:326
+msgid "Overview"
+msgstr "Panoramica  "
+
+#: includes/help/help.php:89
+msgid "Import Demo Data"
+msgstr "Importa dati demo"
+
+#: includes/help/help.php:167
+msgid "Field Types"
+msgstr "Tipi di Campo"
+
+#: includes/help/help.php:172
+msgid "Add Fields Form"
+msgstr "Aggiungi Modulo di Campi"
+
+#: includes/help/help.php:177
+msgid "Edit and Trash Fields"
+msgstr "Modifica e Delete Campi"
+
+#: includes/help/help.php:275
+msgid "Agents"
+msgstr "Agenti Immobiliari"
+
+#: includes/help/help.php:280 includes/search/search-function.php:226
+msgid "Location"
+msgstr "Località"
+
+#: includes/help/help.php:285
+msgid "Edit and Trash Properties"
+msgstr "Modifica e Delete Immobili"
+
+#: includes/help/help.php:290
+msgid "Featured Images"
+msgstr "Immagini in primo piano"
+
+#: includes/help/help.php:295
+msgid "Images and Gallery"
+msgstr "Immagini e Galleria"
+
+#: includes/help/help.php:370
+msgid "Help Available for this Window!"
+msgstr "Aiuto disponibile per questa finestra!"
+
+#: includes/help/help.php:371
+msgid "Just Click Help Button to get content help for this window."
+msgstr ""
+"Basta fare clic sul pulsante Aiuto per ottenere assistenza sui contenuti di "
+"questa finestra."
+
+#: includes/post-type/meta-box.php:9
+msgid "For Rent or For Sale."
+msgstr "In Affitto o in Vendita."
+
+#: includes/post-type/meta-box.php:22
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Nessun carattere speciale qui, il plugin formatterà automaticamente i numeri."
+
+#: includes/post-type/meta-box.php:29
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "L'anno dello immobile. Solo numeri, nessun punto, nessuna virgola."
+
+#: includes/post-type/meta-box.php:36
+msgid "Mark to show up at Featured Widget."
+msgstr "Segna per aparire in evidenza"
+
+#: includes/post-type/meta-box.php:41
+msgid "How many Beds."
+msgstr "Quante camere ci sono."
+
+#: includes/post-type/meta-box.php:61
+msgid "How many Baths."
+msgstr "Quanti Bagni ci sono."
+
+#: includes/post-type/meta-box.php:81
+msgid "Address of the property."
+msgstr "Indirizzo del immobile."
+
+#: includes/post-type/meta-box.php:88
+msgid "Area of the property."
+msgstr "Area degli immobili."
+
+#: includes/post-type/meta-box.php:269
+#: includes/templates/template-functions.php:103
+msgid "Details"
+msgstr "Dettagli"
+
+#: includes/post-type/post-functions.php:53
+msgid "Parent agents"
+msgstr "Primario Agenti immobiliari"
+
+#: includes/post-type/post-functions.php:54
+msgid "Parent agents:"
+msgstr "Primario Agenti immobiliari:"
+
+#: includes/post-type/post-functions.php:55
+msgid "Edit agents"
+msgstr "Modifica agenti immobiliari"
+
+#: includes/post-type/post-functions.php:56
+msgid "Update agents"
+msgstr "Aggiorna agenti immobiliari"
+
+#: includes/post-type/post-functions.php:57
+msgid "Add New agents"
+msgstr "Aggiungi nuovi agenti immobiliari "
+
+#: includes/post-type/post-functions.php:58
+msgid "New agents"
+msgstr "Nuovi agenti immobiliari"
+
+#: includes/post-type/post-functions.php:59
+msgid "Separate agents with commas"
+msgstr "Separare gli agenti immobiliari con virgole"
+
+#: includes/post-type/post-functions.php:60
+msgid "Add or Remove agents"
+msgstr "Aggiungi o Rimuovi agenti immobiliari"
+
+#: includes/post-type/post-functions.php:61
+msgid "Choose from the most used makers"
+msgstr "Scegli tra i costruttori più utilizzati"
+
+#: includes/post-type/post-functions.php:79
+msgid "Parent locations"
+msgstr "Primaria Località "
+
+#: includes/post-type/post-functions.php:80
+msgid "Parent locations:"
+msgstr "Primaria Località:"
+
+#: includes/post-type/post-functions.php:81
+msgid "Edit locations"
+msgstr "Modifica località"
+
+#: includes/post-type/post-functions.php:82
+msgid "Update locations"
+msgstr "Aggiorna località"
+
+#: includes/post-type/post-functions.php:83
+msgid "Add New locations"
+msgstr "Aggiungi Nuove località"
+
+#: includes/post-type/post-functions.php:84
+msgid "New locations"
+msgstr "Nuove località"
+
+#: includes/post-type/post-functions.php:85
+msgid "Separate locations with commas"
+msgstr "Località separate con virgole"
+
+#: includes/post-type/post-functions.php:86
+msgid "Add or Remove locations"
+msgstr "Aggiungi o Rimuovi località"
+
+#: includes/post-type/post-functions.php:87
+msgid "Choose from the most used locations"
+msgstr "Scegli tra le località più utilizzate"
+
+#: includes/post-type/post-functions.php:102
+#: includes/post-type/post-functions.php:191
+msgid "Order:"
+msgstr "Ordine:"
+
+#: includes/post-type/post-functions.php:104
+#: includes/post-type/post-functions.php:194
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr ""
+"Ordine di visualizzazione. Ad esempio: 1 (primo), 2 (secondo) e così via..."
+
+#: includes/post-type/post-functions.php:107
+#: includes/post-type/post-functions.php:199
+msgid "Profile Image:"
+msgstr "Immagine del profilo:"
+
+#: includes/post-type/post-functions.php:112
+#: includes/post-type/post-functions.php:216
+msgid "Just click the Button to Select Upload Image"
+msgstr "Basta fare clic sul pulsante per selezionare Carica immagine"
+
+#: includes/post-type/post-functions.php:118
+#: includes/post-type/post-functions.php:221
+msgid "Position:"
+msgstr "Posizione:"
+
+#: includes/post-type/post-functions.php:120
+#: includes/post-type/post-functions.php:224
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr "Ad esempio: Responsabile delle vendite, Agente e così via..."
+
+#: includes/post-type/post-functions.php:123
+#: includes/post-type/post-functions.php:229
+msgid "Phone:"
+msgstr "Telefono:"
+
+#: includes/post-type/post-functions.php:127
+#: includes/post-type/post-functions.php:236
+msgid "Email address:"
+msgstr "Indirizzo e-mail:"
+
+#: includes/post-type/post-functions.php:131
+#: includes/post-type/post-functions.php:243
+msgid "Skype:"
+msgstr "Skype:"
+
+#: includes/post-type/post-functions.php:135
+#: includes/post-type/post-functions.php:250
+msgid "Facebook URL:"
+msgstr "URL di Facebook:"
+
+#: includes/post-type/post-functions.php:139
+#: includes/post-type/post-functions.php:257
+msgid "Twitter URL:"
+msgstr "URL di Twitter:"
+
+#: includes/post-type/post-functions.php:143
+#: includes/post-type/post-functions.php:264
+msgid "Linkedin URL:"
+msgstr "URL Linkedin:"
+
+#: includes/post-type/post-functions.php:147
+#: includes/post-type/post-functions.php:271
+msgid "Youtube URL:"
+msgstr "URL di Youtube:"
+
+#: includes/post-type/post-functions.php:151
+#: includes/post-type/post-functions.php:278
+msgid "Instagram URL:"
+msgstr "URL di Instagram:"
+
+#: includes/post-type/post-functions.php:155
+#: includes/post-type/post-functions.php:285
+msgid "Vimeo URL:"
+msgstr "URL di Vimeo:"
+
+#: includes/post-type/post-functions.php:379
+msgid "Featured Image"
+msgstr "Immagine in primo piano"
+
+#: includes/post-type/post-functions.php:407
+#, fuzzy
+#| msgid "Call for Price"
+msgid "Call For Price"
+msgstr "Chiama per il prezzo"
+
+#: includes/search/search-function.php:20
+#: includes/search/search-function.php:471 includes/widgets/widgets.php:382
+msgid "Search"
+msgstr "Ricerca"
+
+#: includes/search/search-function.php:136
+msgid "Purpose"
+msgstr "Scopo"
+
+#: includes/search/search-function.php:152
+msgid "Rent"
+msgstr "Affitto"
+
+#: includes/search/search-function.php:155
+msgid "Sale"
+msgstr "Vendita"
+
+#: includes/search/search-function.php:169
+#: includes/templates/template-functions.php:108
+#: includes/templates/template-showroom.php:314
+#: includes/templates/template-showroom2.php:262
+msgid "Beds"
+msgstr "Camere"
+
+#: includes/search/search-function.php:175
+#: includes/search/search-function.php:198
+#: includes/search/search-function.php:234
+#: includes/search/search-function.php:287
+#: includes/search/search-function.php:312
+#: includes/search/search-function.php:334
+msgid "All"
+msgstr "Tutte"
+
+#: includes/search/search-function.php:192
+#: includes/templates/template-functions.php:114
+#: includes/templates/template-showroom.php:315
+#: includes/templates/template-showroom2.php:263
+msgid "Baths"
+msgstr "Bagni"
+
+#: includes/search/search-function.php:335
+#: includes/templates/template-functions.php:150
+msgid "Yes"
+msgstr "Si"
+
+#: includes/search/search-function.php:336
+#: includes/templates/template-functions.php:152
+msgid "No"
+msgstr "No"
+
+#: includes/search/search-function.php:355
+msgid "Order By"
+msgstr "In Ordine di"
+
+#: includes/search/search-function.php:362
+msgid "Any"
+msgstr "Tutte"
+
+#: includes/search/search-function.php:364
+msgid "Year newest first"
+msgstr "Piu Nuovi Prima"
+
+#: includes/search/search-function.php:367
+msgid "Year oldest first"
+msgstr "Piu Vecchi Prima"
+
+#: includes/search/search-function.php:370
+msgid "Price higher first"
+msgstr "Prima Piu Costosi"
+
+#: includes/search/search-function.php:373
+msgid "Price lower first"
+msgstr "Prima Meno Costosi"
+
+#: includes/search/search-function.php:403
+msgid "Price Range"
+msgstr "Fascia di prezzo"
+
+#: includes/search/search-function.php:444
+msgid "Price"
+msgstr "Prezzo"
+
+#: includes/team/team.php:114
+msgid "No Team Member Added!"
+msgstr "Nessun membro del team aggiunto!"
+
+#: includes/templates/template-functions.php:83
+msgid "Address"
+msgstr "Indirizzo"
+
+#: includes/templates/template-functions.php:175
+#: includes/templates/template-showroom.php:310
+#: includes/templates/template-showroom1.php:241
+#: includes/templates/template-showroom2.php:258
+#: includes/templates/template-showroom3.php:228
+#: includes/widgets/widgets.php:70 includes/widgets/widgets.php:240
+msgid "Call for Price"
+msgstr "Chiama per il prezzo"
+
+#: includes/templates/template-functions.php:194
+#: includes/templates/template-functions.php:205
+#: includes/templates/template-showroom.php:313
+#: includes/templates/template-showroom2.php:261
+#: includes/widgets/widgets.php:82 includes/widgets/widgets.php:252
+msgid "Year"
+msgstr "Anno"
+
+#: includes/templates/template-functions.php:210
+msgid "Cond"
+msgstr "Condizione"
+
+#: includes/templates/template-functions.php:211
+msgid "HP"
+msgstr "CV"
+
+#: includes/templates/template-showroom.php:316
+#: includes/templates/template-showroom2.php:264
+msgid "Area"
+msgstr "Zona"
+
+#: includes/templates/template-showroom.php:337
+#: includes/templates/template-showroom1.php:295
+#: includes/templates/template-showroom2.php:282
+#: includes/templates/template-showroom3.php:317
+#: includes/templates/template-single.php:43
+msgid "Back"
+msgstr "Indietro"
+
+#: includes/templates/template-showroom.php:338
+#: includes/templates/template-showroom1.php:296
+#: includes/templates/template-showroom2.php:283
+#: includes/templates/template-showroom3.php:318
+msgid "Onward"
+msgstr "Avanti"
+
+#: includes/templates/template-showroom.php:348
+#: includes/templates/template-showroom1.php:306
+#: includes/templates/template-showroom2.php:292
+#: includes/templates/template-showroom3.php:327
+msgid "Not Found !"
+msgstr "Non trovato !"
+
+#: includes/templates/template-showroom1.php:283
+#: includes/templates/template-showroom3.php:308
+msgid "View"
+msgstr "Vedere"
+
+#: includes/templates/template-single.php:69
+msgid "Contact Us"
+msgstr "Contattaci"
+
+#: includes/widgets/widgets.php:26
+msgid "A list of Recent properties"
+msgstr "Una lista di proprietà recenti"
+
+#: includes/widgets/widgets.php:52
+msgid "New Arrivals"
+msgstr "Nuovi arrivi"
+
+#: includes/widgets/widgets.php:188
+msgid "A list of Featured products"
+msgstr "Una lista di immobili in evidenza"
+
+#: includes/widgets/widgets.php:212
+#, fuzzy
+#| msgid "- Featured Properties"
+msgid "Featured properties"
+msgstr "- Proprietà in evidenza"
+
+#: includes/widgets/widgets.php:357
+msgid "Search properties"
+msgstr "Cerca immobili"
+
+#: includes/widgets/widgets.php:369
+msgid "Title"
+msgstr "Titolo"
+
+#: settings/options/plugin_options_tabbed.php:39
+msgid "Currency"
+msgstr "Moneta"
+
+#: settings/options/plugin_options_tabbed.php:88
+msgid "Meters - Feets"
+msgstr "Metri - Piedi"
+
+#: settings/options/plugin_options_tabbed.php:90
+msgid "Meters"
+msgstr "Metri"
+
+#: settings/options/plugin_options_tabbed.php:91
+msgid "Feets"
+msgstr "Piedi"
+
+#: settings/options/plugin_options_tabbed.php:117
+msgid "How many properties would you like to display per page?"
+msgstr "Quanti immobili vorresti visualizzare per pagina?"
+
+#: settings/options/plugin_options_tabbed.php:140
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Rimuovi la barra laterale dalla pagina dei risultati della ricerca"
+
+#: settings/options/plugin_options_tabbed.php:149
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Sostituisci la galleria di Wordpress con Flexslider Gallery"
+
+#: settings/options/plugin_options_tabbed.php:158
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Abilitare il modulo di contatto nella pagina del singolo immobile?"
+
+#: settings/options/plugin_options_tabbed.php:167
+msgid "Enable Location control in search bar?"
+msgstr "Abilita Locale in ricerca"
+
+#: settings/options/plugin_options_tabbed.php:176
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual Product page."
+msgstr ""
+"Compila la tua email di contatto per ricevere e-mail dal modulo di contatto "
+"in fondo alla pagina del singolo immobile."
+
+#: settings/options/plugin_options_tabbed.php:181
+msgid "Optional. Fill out your Google API to use with yours maps (google maps)"
+msgstr ""
+"Opzionale. Compila la tua API di Google da utilizzare con la tua mappa "
+"(google maps)"
+
+#: settings/options/plugin_options_tabbed.php:186
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr ""
+"Nella pagina Show Room, usa il modello Galleria o Visualizzazione elenco"
+
+#: settings/options/plugin_options_tabbed.php:196
+msgid "In Show Room Page, use Gallery, List View or Grid Template"
+msgstr ""
+"Nella pagina Show Room, usa Galleria, Visualizzazione elenco o Modello "
+"griglia"
+
+#: settings/options/plugin_options_tabbed.php:207
+msgid ""
+"In Show Room Page, Template List View or Grid, Choose the thumbnail image "
+"size (width) - Premium Version"
+msgstr ""
+"Nella pagina Show Room, nella visualizzazione elenco modelli o nella "
+"griglia, scegli la dimensione dell'immagine in miniatura (larghezza) - "
+"Versione Premium"
+
+#: settings/options/plugin_options_tabbed.php:219
+msgid "In Single Product Page, use Template"
+msgstr "Nella pagina del singolo prodotto, usa il modello"
+
+#: settings/options/plugin_options_tabbed.php:254
+#: settings/options/plugin_options_tabbed.php:326
+msgid "Show the Purpose Control"
+msgstr "Mostra il controllo dello scopo"
+
+#: settings/options/plugin_options_tabbed.php:263
+#: settings/options/plugin_options_tabbed.php:335
+msgid "Show the Beds Control"
+msgstr "Mostra il controllo dei letti"
+
+#: settings/options/plugin_options_tabbed.php:272
+#: settings/options/plugin_options_tabbed.php:344
+msgid "Show the Baths Control"
+msgstr "Mostra il controllo dei bagni"
+
+#: settings/options/plugin_options_tabbed.php:282
+#: settings/options/plugin_options_tabbed.php:353
+msgid "Show the Location Control"
+msgstr "Mostra il controllo della posizione"
+
+#: settings/options/plugin_options_tabbed.php:293
+#: settings/options/plugin_options_tabbed.php:362
+msgid "Show the Order By Control"
+msgstr "Mostra il controllo Ordina per"
+
+#: settings/options/plugin_options_tabbed.php:304
+#: settings/options/plugin_options_tabbed.php:371
+msgid "Show the Price Slider Control"
+msgstr "Mostra il controllo del cursore dei prezzi"
+
+#: settings/options/plugin_options_tabbed.php:315
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+"Personalizza le opzioni del tuo widget di ricerca. Scegli i campi da "
+"mostrare nel widget di ricerca."

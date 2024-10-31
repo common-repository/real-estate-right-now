@@ -1,0 +1,1718 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Real Estate Right Now\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-02 12:35+0100\n"
+"PO-Revision-Date: 2024-10-02 13:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: Greek (EL)\n"
+"Language: el_EL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: realestate.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: dashboard/dashboard.php:13
+msgid "Server Check"
+msgstr "Έλεγχος διακομιστή"
+
+#: dashboard/dashboard.php:18
+msgid "Memory Status"
+msgstr "Κατάσταση Μνήμης"
+
+#: dashboard/dashboard.php:24 dashboard/memory.php:16
+msgid "Unable to get your Memory Info"
+msgstr "Δεν είναι δυνατή η λήψη των πληροφοριών μνήμης"
+
+#: dashboard/dashboard.php:51
+msgid "Memory Usage"
+msgstr "Χρήση Μνήμης"
+
+#: dashboard/dashboard.php:53
+msgid "of"
+msgstr "του"
+
+#: dashboard/dashboard.php:53
+msgid "Usage"
+msgstr "Χρήση"
+
+#: dashboard/dashboard.php:56
+msgid "For details, click the Memory Checkup Tab above."
+msgstr "Για λεπτομέρειες, κάντε κλικ στην καρτέλα Έλεγχος μνήμης παραπάνω."
+
+#: dashboard/dashboard.php:61
+msgid "Permalink Settings"
+msgstr "Ρυθμίσεις μόνιμου συνδέσμου"
+
+#: dashboard/dashboard.php:68
+msgid "Wrong Permalink settings!"
+msgstr "Λανθασμένες ρυθμίσεις μόνιμου συνδέσμου!"
+
+#: dashboard/dashboard.php:70
+msgid "Please, fix it to avoid 404 error page."
+msgstr "Διορθώστε το για να αποφύγετε τη σελίδα σφάλματος 404."
+
+#: dashboard/dashboard.php:72
+msgid "To correct, just follow these steps:"
+msgstr "Για να διορθώσετε, απλώς ακολουθήστε τα παρακάτω βήματα:"
+
+#: dashboard/dashboard.php:74
+msgid "Dashboard => Settings => Permalinks => Post Name (check)"
+msgstr ""
+"Πίνακας ελέγχου => Ρυθμίσεις => Μόνιμοι σύνδεσμοι => Όνομα ανάρτησης "
+"(έλεγχος)"
+
+#: dashboard/dashboard.php:76
+msgid "Click Save Changes"
+msgstr "Κάντε κλικ στην Αποθήκευση αλλαγών"
+
+#: dashboard/dashboard.php:85
+msgid "Premium Version Disabled."
+msgstr "Η έκδοση Premium είναι απενεργοποιημένη."
+
+#: dashboard/dashboard.php:87
+msgid "Many Features are not included in the free version."
+msgstr "Πολλές λειτουργίες δεν περιλαμβάνονται στη δωρεάν έκδοση."
+
+#: dashboard/dashboard.php:91
+msgid "Complete real time visual template design functionality."
+msgstr "Πλήρης λειτουργικότητα σχεδίασης οπτικού προτύπου σε πραγματικό χρόνο."
+
+#: dashboard/dashboard.php:93
+msgid "- Last Properties"
+msgstr "- Τελευταίες ιδιότητες"
+
+#: dashboard/dashboard.php:95
+msgid "- Featured Properties"
+msgstr "- Προτεινόμενες ιδιότητες"
+
+#: dashboard/dashboard.php:97
+msgid "- Order by Price/Year Ascending/Descending"
+msgstr "- Παραγγελία ανά Τιμή/Έτος Αύξουσα/Φθίνουσα"
+
+#: dashboard/dashboard.php:99
+#| msgid "- Shortcode to list only properties for rent (or for sale)"
+msgid "- List only properties for rent / sale"
+msgstr "- Καταχωρίστε μόνο ακίνητα προς ενοικίαση / πώληση"
+
+#: dashboard/dashboard.php:101
+msgid "- Create Blocks type Gallery or Page List"
+msgstr "- Δημιουργία Blocks τύπου Gallery ή Page List"
+
+#: dashboard/dashboard.php:104
+msgid "- Number of Properties to show"
+msgstr "- Αριθμός Ιδιοτήτων προς εμφάνιση"
+
+#: dashboard/dashboard.php:106
+#| msgid "- Show or Hide Search Box"
+msgid "- Show or Hide Search Box / Pagination"
+msgstr "- Εμφάνιση ή απόκρυψη πλαισίου αναζήτησης / σελιδοποίησης"
+
+#: dashboard/dashboard.php:108
+msgid "- More..."
+msgstr "- Περισσότερα..."
+
+#: dashboard/dashboard.php:112 dashboard/memory.php:61
+#: includes/diagnose/class_bill_diagnose.php:754
+#: includes/diagnose/class_bill_diagnose.php:792
+#: includes/functions/functions.php:935
+msgid "Learn More"
+msgstr "Μάθετε περισσότερα"
+
+#: dashboard/dashboard.php:120
+msgid "Follow these 3 steps after installing the plugin:"
+msgstr "Ακολουθήστε αυτά τα 3 βήματα μετά την εγκατάσταση του πρόσθετου:"
+
+#: dashboard/dashboard.php:126
+msgid "Configure Settings"
+msgstr "Διαμόρφωση ρυθμίσεων"
+
+#: dashboard/dashboard.php:127
+msgid "Go to"
+msgstr "Μεταβείτε στο"
+
+#: dashboard/dashboard.php:128
+msgid "Dashboard => Real Estate => Settings"
+msgstr "Ταμπλό => Ακίνητα => Ρυθμίσεις"
+
+#: dashboard/dashboard.php:130
+msgid "Fill out the information"
+msgstr "Συμπληρώστε τις πληροφορίες"
+
+#: dashboard/dashboard.php:132
+msgid "Your Currency"
+msgstr "Το νόμισμά σας"
+
+#: dashboard/dashboard.php:134
+msgid "Meters - Feet"
+msgstr "Μέτρα – Πόδια"
+
+#: dashboard/dashboard.php:136
+msgid "Your Contact Email"
+msgstr "Το email επικοινωνίας σας"
+
+#: dashboard/dashboard.php:138 dashboard/dashboard.php:163
+msgid "And so on..."
+msgstr "Και ούτω καθεξής..."
+
+#: dashboard/dashboard.php:140
+msgid "Import Demo Data:"
+msgstr "Εισαγωγή δεδομένων επίδειξης:"
+
+#: dashboard/dashboard.php:142
+msgid ""
+"If you want to import demo data, click the Help button at the top right "
+"corner"
+msgstr ""
+"Εάν θέλετε να εισαγάγετε δεδομένα επίδειξης, κάντε κλικ στο κουμπί Βοήθεια "
+"στην επάνω δεξιά γωνία"
+
+#: dashboard/dashboard.php:144
+msgid "If you import demo data, you can skip step 2."
+msgstr "Εάν εισάγετε δεδομένα επίδειξης, μπορείτε να παραλείψετε το βήμα 2."
+
+#: dashboard/dashboard.php:149
+msgid "Fill Out Fields and Properties Table"
+msgstr "Συμπληρώστε τον πίνακα πεδίων και ιδιοτήτων"
+
+#: dashboard/dashboard.php:150
+msgid "Go to Fields Table:"
+msgstr "Μεταβείτε στον πίνακα πεδίων:"
+
+#: dashboard/dashboard.php:151
+msgid "Dashboard => Real Estate => Fields Table"
+msgstr "Ταμπλό => Ακίνητα => Πίνακας πεδίων"
+
+#: dashboard/dashboard.php:153
+msgid "These are the fields that will appear in your properties form:"
+msgstr "Αυτά είναι τα πεδία που θα εμφανιστούν στη φόρμα των ιδιοτήτων σας:"
+
+#: dashboard/dashboard.php:155
+msgid "Google Maps"
+msgstr "Χάρτες Google"
+
+#: dashboard/dashboard.php:157
+msgid "Pool"
+msgstr "Πισίνα"
+
+#: dashboard/dashboard.php:159
+msgid "Balcony"
+msgstr "Μπαλκόνι"
+
+#: dashboard/dashboard.php:161
+msgid "Garage"
+msgstr "Γκαράζ"
+
+#: dashboard/dashboard.php:165
+msgid "You don't need to include these fields:"
+msgstr "Δεν χρειάζεται να συμπεριλάβετε αυτά τα πεδία:"
+
+#: dashboard/dashboard.php:166
+msgid "Address, Purpose, Beds, Baths, Price, Year, Area."
+msgstr "Διεύθυνση, Σκοπός, Κρεβάτια, Μπάνια, Τιμή, Έτος, Περιοχή."
+
+#: dashboard/dashboard.php:168
+msgid "Go to Properties Table:"
+msgstr "Μεταβείτε στον Πίνακα Ιδιοτήτων:"
+
+#: dashboard/dashboard.php:169
+msgid "Dashboard => Real Estate => Properties Table"
+msgstr "Ταμπλό => Ακίνητα => Πίνακας Ιδιοτήτων"
+
+#: dashboard/dashboard.php:171
+msgid "Fill out this table with your properties, for example:"
+msgstr "Συμπληρώστε αυτόν τον πίνακα με τις ιδιότητές σας, για παράδειγμα:"
+
+#: dashboard/dashboard.php:173
+msgid "Apartments"
+msgstr "Διαμερίσματα"
+
+#: dashboard/dashboard.php:175
+msgid "Offices"
+msgstr "Γραφεία"
+
+#: dashboard/dashboard.php:177
+msgid "And so on."
+msgstr "Και ούτω καθεξής."
+
+#: dashboard/dashboard.php:183
+msgid "Paste the Code in Your Page"
+msgstr "Επικολλήστε τον κωδικό στη σελίδα σας"
+
+#: dashboard/dashboard.php:184
+msgid "Go to your page and copy and paste this code:"
+msgstr ""
+"Μεταβείτε στη σελίδα σας και αντιγράψτε και επικολλήστε αυτόν τον κώδικα:"
+
+#: dashboard/dashboard.php:187
+msgid "To show only the search bar, use the following shortcode:"
+msgstr ""
+"Για να εμφανιστεί μόνο η γραμμή αναζήτησης, χρησιμοποιήστε τον ακόλουθο "
+"σύντομο κωδικό:"
+
+#: dashboard/dashboard.php:190
+msgid "To create a Team page, use the following shortcode:"
+msgstr ""
+"Για να δημιουργήσετε μια σελίδα ομάδας, χρησιμοποιήστε τον ακόλουθο σύντομο "
+"κωδικό:"
+
+#: dashboard/dashboard.php:193
+msgid "The premium version includes dozens of extra shortcodes..."
+msgstr "Η premium έκδοση περιλαμβάνει δεκάδες επιπλέον σύντομους κωδικούς..."
+
+#: dashboard/dashboard.php:200
+msgid "Help, Demo, Support, Troubleshooting:"
+msgstr "Βοήθεια, Επίδειξη, Υποστήριξη, Αντιμετώπιση προβλημάτων:"
+
+#: dashboard/dashboard.php:206
+msgid "Help and More Tips"
+msgstr "Βοήθεια και περισσότερες συμβουλές"
+
+#: dashboard/dashboard.php:207
+msgid ""
+"Just click the HELP button at the top right corner of this page for context "
+"help. Tooltips are also available in the fields form."
+msgstr ""
+"Απλώς κάντε κλικ στο κουμπί HELP στην επάνω δεξιά γωνία αυτής της σελίδας "
+"για βοήθεια σχετικά με το περιεχόμενο. Συμβουλές εργαλείων είναι επίσης "
+"διαθέσιμες στη φόρμα πεδίων."
+
+#: dashboard/dashboard.php:213
+msgid "Online Guide, Support, Demo, Demo Video, FAQ..."
+msgstr ""
+"Ηλεκτρονικός οδηγός, Υποστήριξη, Επίδειξη, Επίδειξη βίντεο, Συνήθεις "
+"Ερωτήσεις..."
+
+#: dashboard/dashboard.php:214
+msgid ""
+"You can find our complete and updated online guide, demo video, FAQ page, "
+"and link to the support page on our site."
+msgstr ""
+"Μπορείτε να βρείτε τον πλήρη και ενημερωμένο διαδικτυακό μας οδηγό, το "
+"βίντεο επίδειξης, τη σελίδα Συχνές ερωτήσεις και τον σύνδεσμο προς τη σελίδα "
+"υποστήριξης στον ιστότοπό μας."
+
+#: dashboard/dashboard.php:217
+msgid "Go"
+msgstr "Πάω"
+
+#: dashboard/dashboard.php:222
+msgid "Troubleshooting Guide"
+msgstr "Οδηγός αντιμετώπισης προβλημάτων"
+
+#: dashboard/dashboard.php:223
+msgid ""
+"Issues like using an old WordPress version, low memory, plugins with "
+"JavaScript errors, or wrong permalink settings can cause problems. Read the "
+"troubleshooting guide to fix them quickly!"
+msgstr ""
+"Ζητήματα όπως η χρήση μιας παλιάς έκδοσης του WordPress, η χαμηλή μνήμη, οι "
+"προσθήκες με σφάλματα JavaScript ή εσφαλμένες ρυθμίσεις μόνιμου συνδέσμου "
+"μπορεί να προκαλέσουν προβλήματα. Διαβάστε τον οδηγό αντιμετώπισης "
+"προβλημάτων για να τα διορθώσετε γρήγορα!"
+
+#: dashboard/dashboard.php:225
+msgid "Troubleshooting Page"
+msgstr "Σελίδα αντιμετώπισης προβλημάτων"
+
+#: dashboard/main.php:163
+msgid "Help and Support Page"
+msgstr "Σελίδα βοήθειας και υποστήριξης"
+
+#: dashboard/memory.php:19
+msgid "Memory Info"
+msgstr "Πληροφορίες Μνήμης"
+
+#: dashboard/memory.php:37
+msgid "Current memory WordPress Limit:"
+msgstr "Όριο τρέχουσας μνήμης WordPress:"
+
+#: dashboard/memory.php:45
+msgid "Your usage now:"
+msgstr "Η χρήση σας τώρα:"
+
+#: dashboard/memory.php:51
+msgid "Total Server Memory:"
+msgstr "Συνολική μνήμη διακομιστή:"
+
+#: dashboard/memory.php:58
+msgid ""
+"If you want adjust and control your WordPress Memory Limit and PHP Memory "
+"Limit quickly, try our free plugin WPmemory:"
+msgstr ""
+"Εάν θέλετε να προσαρμόσετε και να ελέγξετε γρήγορα το όριο μνήμης WordPress "
+"και το όριο μνήμης PHP, δοκιμάστε τη δωρεάν προσθήκη WPmemory:"
+
+#: dashboard/memory.php:66
+msgid "Follow these instructions to do it manually:"
+msgstr "Ακολουθήστε αυτές τις οδηγίες για να το κάνετε χειροκίνητα:"
+
+#: dashboard/memory.php:72
+msgid ""
+"To increase the WordPress memory limit, add this info to your file wp-config."
+"php (located at the root folder of your server)"
+msgstr ""
+"Για να αυξήσετε το όριο μνήμης WordPress, προσθέστε αυτές τις πληροφορίες "
+"στο αρχείο σας wp-config.php (βρίσκεται στον ριζικό φάκελο του διακομιστή "
+"σας)"
+
+#: dashboard/memory.php:75
+msgid "(just copy and paste)"
+msgstr "(απλώς αντιγράψτε και επικολλήστε)"
+
+#: dashboard/memory.php:83
+msgid "before this line:"
+msgstr "πριν από αυτή τη γραμμή:"
+
+#: dashboard/memory.php:89
+msgid "If you need more, just replace 128 with the new memory limit."
+msgstr ""
+"Εάν χρειάζεστε περισσότερα, απλώς αντικαταστήστε το 128 με το νέο όριο "
+"μνήμης."
+
+#: dashboard/memory.php:93
+msgid "To increase your total server memory, talk with your hosting company."
+msgstr ""
+"Για να αυξήσετε τη συνολική μνήμη του διακομιστή σας, μιλήστε με την "
+"εταιρεία φιλοξενίας σας."
+
+#: dashboard/memory.php:100
+msgid "How to Tell if Your Site Needs More Memory:"
+msgstr "Πώς να καταλάβετε εάν ο ιστότοπός σας χρειάζεται περισσότερη μνήμη:"
+
+#: dashboard/memory.php:104
+msgid ""
+"If your site is behaving slowly, pages fail to load, you get random white "
+"screens of death or 500 internal server errors, you may need more memory."
+msgstr ""
+"Εάν ο ιστότοπός σας συμπεριφέρεται αργά, οι σελίδες αποτυγχάνουν να "
+"φορτώσουν, λαμβάνετε τυχαίες λευκές οθόνες θανάτου ή 500 εσωτερικά σφάλματα "
+"διακομιστή, μπορεί να χρειάζεστε περισσότερη μνήμη."
+
+#: dashboard/memory.php:107
+msgid ""
+"Several things consume memory, such as WordPress itself, installed plugins, "
+"the theme, and the content of your site."
+msgstr ""
+"Πολλά πράγματα καταναλώνουν τη μνήμη, όπως το ίδιο το WordPress, τα "
+"εγκατεστημένα πρόσθετα, το θέμα και το περιεχόμενο του ιστότοπού σας."
+
+#: dashboard/memory.php:110
+msgid ""
+"Basically, the more content and features you add to your site, the larger "
+"your memory limit needs to be."
+msgstr ""
+"Βασικά, όσο περισσότερο περιεχόμενο και δυνατότητες προσθέτετε στον ιστότοπό "
+"σας, τόσο μεγαλύτερο πρέπει να είναι το όριο μνήμης σας."
+
+#: dashboard/memory.php:113
+msgid ""
+"If you're running a small site with basic functions, you may not need to "
+"increase your memory limit. But once you start using premium themes or "
+"plugins, or encounter unexpected issues, it's time to adjust your memory "
+"limit."
+msgstr ""
+"Εάν εκτελείτε έναν μικρό ιστότοπο με βασικές λειτουργίες, ενδέχεται να μην "
+"χρειαστεί να αυξήσετε το όριο μνήμης. Αλλά μόλις αρχίσετε να χρησιμοποιείτε "
+"θέματα ή πρόσθετα premium ή αντιμετωπίζετε απροσδόκητα προβλήματα, ήρθε η "
+"ώρα να προσαρμόσετε το όριο της μνήμης σας."
+
+#: dashboard/mybanners.php:191
+#| msgid "Real Estate Right Now"
+msgid "Did you like the Real Estate Right Now Plugin?"
+msgstr "Σας άρεσε το πρόσθετο Real Estate Right Now;"
+
+#: dashboard/mybanners.php:193
+msgid ""
+"Please support us by rating our plugin on WordPress.org. Help us keep this "
+"plugin live and updated."
+msgstr ""
+"Υποστηρίξτε μας αξιολογώντας την προσθήκη μας στο WordPress.org. Βοηθήστε "
+"μας να διατηρήσουμε αυτό το πρόσθετο ζωντανό και ενημερωμένο."
+
+#: dashboard/mybanners.php:196 dashboard/mybanners.php:205
+msgid "Rate"
+msgstr "Τιμή"
+
+#: dashboard/mybanners.php:199
+msgid "Please help us keep the plugin live & up-to-date"
+msgstr "Βοηθήστε μας να διατηρήσουμε την προσθήκη ζωντανή και ενημερωμένη"
+
+#: dashboard/mybanners.php:202
+msgid ""
+"If you use & enjoy Real Estate Right Now Plugin, please rate it on WordPress."
+"org. It only takes a second and helps us keep the plugin live and "
+"maintained. Thank you!"
+msgstr ""
+"Εάν χρησιμοποιείτε και απολαμβάνετε το πρόσθετο Real Estate Right Now, "
+"αξιολογήστε το στο WordPress.org. Χρειάζεται μόνο ένα δευτερόλεπτο και μας "
+"βοηθά να διατηρήσουμε την προσθήκη ζωντανή και συντήρηση. Σας ευχαριστώ!"
+
+#: includes/contact-form/multi-contact-show-form.php:23
+msgid "Request Information"
+msgstr "Ζητήστε Πληροφορίες"
+
+#: includes/contact-form/multi-contact-show-form.php:27
+msgid "Your Name"
+msgstr "Το όνομά σας"
+
+#: includes/contact-form/multi-contact-show-form.php:30
+msgid "Please type your name"
+msgstr "Παρακαλώ πληκτρολογήστε το όνομά σας"
+
+#: includes/contact-form/multi-contact-show-form.php:33
+msgid "Your Email"
+msgstr "Το email σας"
+
+#: includes/contact-form/multi-contact-show-form.php:36
+msgid "Please type your email"
+msgstr "Παρακαλώ πληκτρολογήστε το email σας"
+
+#: includes/contact-form/multi-contact-show-form.php:40
+msgid "Your Message"
+msgstr "Το μήνυμά σας"
+
+#: includes/contact-form/multi-contact-show-form.php:42
+msgid "Please type your message"
+msgstr "Παρακαλώ πληκτρολογήστε το μήνυμά σας"
+
+#: includes/contact-form/multi-contact-show-form.php:48
+msgid "Send"
+msgstr "Στέλνω"
+
+#: includes/contact-form/multi-contact-show-form.php:49
+msgid "Cancel"
+msgstr "Ματαίωση"
+
+#: includes/contact-form/multi-contact-show-form.php:54
+msgid "Sending your message. Please wait..."
+msgstr "Αποστολή του μηνύματός σας. Παρακαλώ περιμένετε..."
+
+#: includes/contact-form/multi-contact-show-form.php:55
+msgid "Thanks for your message! We'll get back to you shortly."
+msgstr "Ευχαριστώ για το μήνυμά σας! Θα επικοινωνήσουμε μαζί σας σύντομα."
+
+#: includes/contact-form/multi-contact-show-form.php:56
+msgid "There was a problem sending your message. Please try again."
+msgstr ""
+"Παρουσιάστηκε πρόβλημα κατά την αποστολή του μηνύματός σας. Δοκιμάστε ξανά."
+
+#: includes/contact-form/multi-contact-show-form.php:57
+msgid "Please enter one valid email address."
+msgstr "Εισαγάγετε μία έγκυρη διεύθυνση email."
+
+#: includes/contact-form/multi-contact-show-form.php:58
+msgid "Please complete all the fields in the form before sending."
+msgstr "Συμπληρώστε όλα τα πεδία της φόρμας πριν την αποστολή."
+
+#: includes/contact-form/multi-contact-show-form.php:59
+msgid "Name Error. Use only alpha."
+msgstr "Σφάλμα ονόματος. Χρησιμοποιήστε μόνο άλφα."
+
+#: includes/contact-form/multi-contact-show-form.php:60
+msgid "Message Error. Only Use only alpha and numbers."
+msgstr "Σφάλμα μηνύματος. Χρησιμοποιήστε μόνο άλφα και αριθμούς."
+
+#: includes/customizer/customizer.php:17
+msgid "Real Estate Custom Design"
+msgstr "Προσαρμοσμένο σχέδιο ακίνητης περιουσίας"
+
+#: includes/customizer/customizer.php:20
+msgid ""
+"Click the Templates icon at the top left of the preview window to change "
+"your template. To customize further, simply click on any element, or it's "
+"corresponding shortcut icon, to edit it's styling. "
+msgstr ""
+"Κάντε κλικ στο εικονίδιο Πρότυπα στην επάνω αριστερή γωνία του παραθύρου "
+"προεπισκόπησης για να αλλάξετε το πρότυπό σας. Για περαιτέρω προσαρμογή, "
+"απλώς κάντε κλικ σε οποιοδήποτε στοιχείο ή στο αντίστοιχο εικονίδιο "
+"συντόμευσης, για να επεξεργαστείτε το στυλ του. "
+
+#: includes/customizer/customizer.php:31
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: includes/customizer/customizer.php:62
+msgid "Templates"
+msgstr "Πρότυπα"
+
+#: includes/customizer/customizer.php:65
+msgid "Choose the Real Estate Template to Use."
+msgstr "Επιλέξτε το πρότυπο ακίνητης περιουσίας που θα χρησιμοποιήσετε."
+
+#: includes/customizer/customizer.php:76
+msgid "Single Property Templates"
+msgstr "Πρότυπα μεμονωμένης ιδιοκτησίας"
+
+#: includes/customizer/customizer.php:79
+msgid "Choose the Single Property Template to Use."
+msgstr "Επιλέξτε το πρότυπο μεμονωμένης ιδιότητας προς χρήση."
+
+#: includes/customizer/customizer.php:90
+msgid "Search Box LayOut"
+msgstr "Διάταξη πλαισίου αναζήτησης"
+
+#: includes/customizer/customizer.php:92
+msgid "Design the Search Box"
+msgstr "Σχεδιάστε το πλαίσιο αναζήτησης"
+
+#: includes/customizer/customizer.php:98
+msgid "Search Box Fields"
+msgstr "Πεδία πλαισίου αναζήτησης"
+
+#: includes/customizer/customizer.php:100
+msgid "Manage the Design fields"
+msgstr "Διαχειριστείτε τα πεδία Σχεδίαση"
+
+#: includes/customizer/customizer.php:105
+msgid "Search Box Slider"
+msgstr "Ρυθμιστικό πλαισίου αναζήτησης"
+
+#: includes/customizer/customizer.php:107
+msgid "Customize the price Slider."
+msgstr "Προσαρμόστε το ρυθμιστικό τιμής."
+
+#: includes/customizer/customizer.php:112
+msgid "Search Box Button"
+msgstr "Κουμπί πλαισίου αναζήτησης"
+
+#: includes/customizer/customizer.php:114
+msgid "Customize the Search Box Button."
+msgstr "Προσαρμόστε το κουμπί του πλαισίου αναζήτησης."
+
+#: includes/customizer/customizer.php:119
+msgid "Property Template and Widgets"
+msgstr "Πρότυπο ιδιοκτησίας και γραφικά στοιχεία"
+
+#: includes/customizer/customizer.php:122
+msgid "Customize the Property Template and Widgets."
+msgstr "Προσαρμόστε το πρότυπο ιδιοκτησίας και τα γραφικά στοιχεία."
+
+#: includes/customizer/customizer.php:129
+msgid "Single Property Template"
+msgstr "Πρότυπο ενιαίας ιδιοκτησίας"
+
+#: includes/customizer/customizer.php:131
+msgid "Customize the Single Property Template."
+msgstr "Προσαρμόστε το πρότυπο ενιαίας ιδιοκτησίας."
+
+#: includes/customizer/customizer.php:136
+msgid "Buttons Back and Contact Us"
+msgstr "Κουμπιά Πίσω και Επικοινωνήστε μαζί μας"
+
+#: includes/customizer/customizer.php:139
+msgid "Customize the Buttons Back and Contact Us."
+msgstr "Προσαρμόστε τα κουμπιά Πίσω και Επικοινωνήστε μαζί μας."
+
+#: includes/customizer/customizer.php:210
+msgid "Search Fields Label Color"
+msgstr "Χρώμα ετικέτας πεδίων αναζήτησης"
+
+#: includes/customizer/customizer.php:223
+msgid "Search Fields Controls Color"
+msgstr "Πεδία αναζήτησης Έλεγχοι χρώματος"
+
+#: includes/customizer/customizer.php:236
+msgid "Search Fields Controls Background Color"
+msgstr "Πεδία αναζήτησης Ελέγχει το χρώμα φόντου"
+
+#: includes/customizer/customizer.php:254
+msgid "Search Fields Controls Border Radius"
+msgstr "Πεδία αναζήτησης Ελέγχει την ακτίνα περιγράμματος"
+
+#: includes/customizer/customizer.php:255
+#: includes/customizer/customizer.php:330
+#: includes/customizer/customizer.php:419
+#: includes/customizer/customizer.php:603
+#: includes/customizer/customizer.php:689
+#: includes/customizer/customizer.php:1031
+msgid "Border Radius: from 0 to 30."
+msgstr "Ακτίνα συνόρων: από 0 έως 30."
+
+#: includes/customizer/customizer.php:272
+msgid "Search Slider Label Color"
+msgstr "Αναζήτηση χρώματος ετικέτας ρυθμιστικού"
+
+#: includes/customizer/customizer.php:285
+msgid "Search Slider Color"
+msgstr "Χρώμα ρυθμιστικού αναζήτησης"
+
+#: includes/customizer/customizer.php:298
+msgid "Search Slider Handle Color"
+msgstr "Χρώμα λαβής ρυθμιστικού αναζήτησης"
+
+#: includes/customizer/customizer.php:311
+msgid "Search Slider Background Color"
+msgstr "Χρώμα φόντου αναζήτησης ρυθμιστικού"
+
+#: includes/customizer/customizer.php:329
+msgid "Search Slider Border Radius"
+msgstr "Ακτίνα περιγράμματος αναζήτησης ρυθμιστικού"
+
+#: includes/customizer/customizer.php:347
+msgid "Search Slider Border Color"
+msgstr "Χρώμα περιγράμματος αναζήτησης ρυθμιστικού"
+
+#: includes/customizer/customizer.php:367
+msgid "Search Box Button Text Color"
+msgstr "Χρώμα κειμένου κουμπιού πλαισίου αναζήτησης"
+
+#: includes/customizer/customizer.php:382
+msgid "Search Box Button Background Color"
+msgstr "Χρώμα φόντου κουμπιού πλαισίου αναζήτησης"
+
+#: includes/customizer/customizer.php:399
+msgid "Search Box Button Width"
+msgstr "Πλάτος κουμπιού πλαισίου αναζήτησης"
+
+#: includes/customizer/customizer.php:400
+#: includes/customizer/customizer.php:623
+msgid "Button width: from 100 to 300."
+msgstr "Πλάτος κουμπιού: από 100 έως 300."
+
+#: includes/customizer/customizer.php:418
+msgid "Search Box Button Border Radius"
+msgstr "Ακτίνα περιγράμματος κουμπιού πλαισίου αναζήτησης"
+
+#: includes/customizer/customizer.php:447
+msgid "Template Name"
+msgstr "Όνομα προτύπου"
+
+#: includes/customizer/customizer.php:485
+msgid "Single Property Template Name"
+msgstr "Όνομα προτύπου ενιαίας ιδιοκτησίας"
+
+#: includes/customizer/customizer.php:505
+msgid "Single Property Template Pop Up Modal Width"
+msgstr "Πρότυπο μεμονωμένης ιδιοκτησίας Αναδυόμενο πλάτος τρόπου λειτουργίας"
+
+#: includes/customizer/customizer.php:525
+msgid "Template Text Color"
+msgstr "Χρώμα κειμένου προτύπου"
+
+#: includes/customizer/customizer.php:540
+msgid "Template Background Color (works with templates gallery and list view)"
+msgstr ""
+"Χρώμα φόντου προτύπου (λειτουργεί με τη συλλογή προτύπων και την προβολή "
+"λίστας)"
+
+#: includes/customizer/customizer.php:555
+msgid "Template Title Color"
+msgstr "Χρώμα τίτλου προτύπου"
+
+#: includes/customizer/customizer.php:570
+msgid "Template Button View Color"
+msgstr "Χρώμα προβολής κουμπιού προτύπου"
+
+#: includes/customizer/customizer.php:585
+msgid "Template Button View Background Color"
+msgstr "Χρώμα φόντου προβολής κουμπιού προτύπου"
+
+#: includes/customizer/customizer.php:602
+msgid "Template Button View Border Radius"
+msgstr "Ακτίνα περιγράμματος προβολής κουμπιού προτύπου"
+
+#: includes/customizer/customizer.php:622
+msgid "Template Button View Width"
+msgstr "Πλάτος προβολής κουμπιού προτύπου"
+
+#: includes/customizer/customizer.php:640
+msgid "Template List View Separator Color"
+msgstr "Χρώμα διαχωριστικού προβολής λίστας προτύπων"
+
+#: includes/customizer/customizer.php:656
+msgid "Template Grid Border Color"
+msgstr "Χρώμα περιγράμματος πλέγματος προτύπων"
+
+#: includes/customizer/customizer.php:671
+msgid "Template Gallery and Widgets Border Color"
+msgstr "Χρώμα περιγράμματος συλλογής προτύπων και γραφικών στοιχείων"
+
+#: includes/customizer/customizer.php:688
+msgid "Template Gallery and Widgets Border Radius"
+msgstr "Συλλογή προτύπων και ακτίνα περιγράμματος γραφικών στοιχείων"
+
+#: includes/customizer/customizer.php:705
+msgid "Template Gallery and Widgets Title Color"
+msgstr "Χρώμα τίτλου συλλογής προτύπων και γραφικών στοιχείων"
+
+#: includes/customizer/customizer.php:720
+msgid "Template Gallery and Widgets Title Background Color"
+msgstr "Συλλογή προτύπων και γραφικά στοιχεία Χρώμα φόντου τίτλου"
+
+#: includes/customizer/customizer.php:736
+msgid "Widget Search Background Color"
+msgstr "Χρώμα φόντου αναζήτησης widget"
+
+#: includes/customizer/customizer.php:755
+msgid "Single Property Template Background Color"
+msgstr "Χρώμα φόντου προτύπου ενιαίας ιδιοκτησίας"
+
+#: includes/customizer/customizer.php:770
+msgid "Single Property Template Color"
+msgstr "Χρώμα προτύπου ενιαίας ιδιοκτησίας"
+
+#: includes/customizer/customizer.php:786
+msgid "Single Property Template Features Title Background Color"
+msgstr "Το πρότυπο μεμονωμένης ιδιοκτησίας διαθέτει Χρώμα φόντου τίτλου"
+
+#: includes/customizer/customizer.php:803
+msgid "Single Property Template Features Title Color"
+msgstr "Το πρότυπο μεμονωμένης ιδιοκτησίας διαθέτει Χρώμα τίτλου"
+
+#: includes/customizer/customizer.php:824
+msgid "Single Property Template Features Border Color"
+msgstr "Το πρότυπο μεμονωμένης ιδιοκτησίας διαθέτει χρώμα περιγράμματος"
+
+#: includes/customizer/customizer.php:848
+msgid "Features Border Radius"
+msgstr "Διαθέτει Border Radius"
+
+#: includes/customizer/customizer.php:849
+msgid "Features Border Radius: from 0 to 30."
+msgstr "Διαθέτει Border Radius: από 0 έως 30."
+
+#: includes/customizer/customizer.php:872
+msgid "Background Color"
+msgstr "Χρώμα φόντου"
+
+#: includes/customizer/customizer.php:888
+msgid "Border Size"
+msgstr "Μέγεθος περιγράμματος"
+
+#: includes/customizer/customizer.php:890
+msgid "Border Size: from 0 to 5. Mark 0 to hide the Boarder."
+msgstr ""
+"Μέγεθος περιγράμματος: από 0 έως 5. Σημειώστε 0 για να αποκρύψετε το Border."
+
+#: includes/customizer/customizer.php:908
+msgid "Border Radius"
+msgstr "Ακτίνα συνόρων"
+
+#: includes/customizer/customizer.php:909
+msgid "Border Radius: from 1 to 70px."
+msgstr "Ακτίνα περιγράμματος: από 1 έως 70 εικονοστοιχεία."
+
+#: includes/customizer/customizer.php:926
+msgid "Border Color"
+msgstr "Χρώμα περιγράμματος"
+
+#: includes/customizer/customizer.php:943
+msgid "Margin Bottom"
+msgstr "Κάτω περιθωρίου"
+
+#: includes/customizer/customizer.php:944
+msgid "Margin Bottom: from 0 to 30."
+msgstr "Κάτω περιθώριο: από 0 έως 30."
+
+#: includes/customizer/customizer.php:965
+msgid "Back and Contact Us Buttons Color"
+msgstr "Κουμπιά Πίσω και Επικοινωνία Χρώμα"
+
+#: includes/customizer/customizer.php:981
+msgid "Back and Contact Us Buttons Background Color"
+msgstr "Κουμπιά Πίσω και Επικοινωνία Χρώμα φόντου"
+
+#: includes/customizer/customizer.php:1002
+msgid "Back and Contact Us Buttons width"
+msgstr "Πλάτος κουμπιών Πίσω και Επικοινωνία"
+
+#: includes/customizer/customizer.php:1003
+msgid "Border Radius: from 100 to 300."
+msgstr "Ακτίνα συνόρων: από 100 έως 300."
+
+#: includes/customizer/customizer.php:1030
+msgid "Back and Contact Us Buttons Border Radius"
+msgstr "Πίσω και Επικοινωνήστε μαζί μας Κουμπιά Ακτίνα περιγράμματος"
+
+#: includes/diagnose/class_bill_diagnose.php:610
+#: includes/diagnose/class_bill_diagnose.php:631
+msgid "Our plugin"
+msgstr "Το πρόσθετο μας"
+
+#: includes/diagnose/class_bill_diagnose.php:612
+msgid ""
+"cannot function properly because your WordPress Memory Limit is too low. "
+"Your site will experience serious issues, even if you deactivate our plugin."
+msgstr ""
+"δεν μπορεί να λειτουργήσει σωστά επειδή το όριο μνήμης του WordPress είναι "
+"πολύ χαμηλό. Ο ιστότοπός σας θα αντιμετωπίσει σοβαρά προβλήματα, ακόμα κι αν "
+"απενεργοποιήσετε την προσθήκη μας."
+
+#: includes/diagnose/class_bill_diagnose.php:618
+#: includes/diagnose/class_bill_diagnose.php:639
+#| msgid "Learn More"
+msgid "Learn more"
+msgstr "Μάθετε περισσότερα"
+
+#: includes/diagnose/class_bill_diagnose.php:630
+msgid "Your site has errors."
+msgstr "Ο ιστότοπός σας έχει σφάλματα."
+
+#: includes/diagnose/class_bill_diagnose.php:633
+msgid ""
+"can't function as intended. Errors, including JavaScript errors, may lead to "
+"visual problems or disrupt functionality, from minor glitches to critical "
+"site failures. Promptly address these issues before continuing."
+msgstr ""
+"δεν μπορεί να λειτουργήσει όπως προβλέπεται. Τα σφάλματα, "
+"συμπεριλαμβανομένων των σφαλμάτων JavaScript, ενδέχεται να οδηγήσουν σε "
+"οπτικά προβλήματα ή να διαταράξουν τη λειτουργικότητα, από μικρές "
+"δυσλειτουργίες έως κρίσιμες αποτυχίες ιστότοπου. Αντιμετωπίστε αμέσως αυτά "
+"τα ζητήματα πριν συνεχίσετε."
+
+#: includes/diagnose/class_bill_diagnose.php:659
+msgctxt "Site Health"
+msgid "Critical Issues"
+msgstr "Κρίσιμα Θέματα"
+
+#: includes/diagnose/class_bill_diagnose.php:700
+msgid ""
+"Displaying the latest recurring errors from your error log file and "
+"eventually alert about low WordPress memory limit is a courtesy of plugin"
+msgstr ""
+"Η εμφάνιση των πιο πρόσφατων επαναλαμβανόμενων σφαλμάτων από το αρχείο "
+"καταγραφής σφαλμάτων και τελικά η ειδοποίηση σχετικά με το χαμηλό όριο "
+"μνήμης WordPress είναι μια ευγενική προσφορά της προσθήκης"
+
+#: includes/diagnose/class_bill_diagnose.php:702
+msgid ""
+"Disabling our plugin does not stop the errors from occurring; \n"
+"                it simply means you will no longer be notified here that "
+"they are happening, but they can still harm your site."
+msgstr ""
+"Η απενεργοποίηση της προσθήκης μας δεν εμποδίζει την εμφάνιση σφαλμάτων. \n"
+"                σημαίνει απλώς ότι δεν θα ειδοποιείστε πλέον εδώ ότι "
+"συμβαίνουν, αλλά μπορούν να βλάψουν τον ιστότοπό σας."
+
+#: includes/diagnose/class_bill_diagnose.php:710
+msgid "Potential Problems"
+msgstr "Πιθανά προβλήματα"
+
+#: includes/diagnose/class_bill_diagnose.php:718
+msgid "Low WordPress Memory Limit"
+msgstr "Χαμηλό όριο μνήμης WordPress"
+
+#: includes/diagnose/class_bill_diagnose.php:731
+#| msgid "Your usage now:"
+msgid "Your usage now"
+msgstr "Η χρήση σας τώρα"
+
+#: includes/diagnose/class_bill_diagnose.php:739
+#| msgid "Total Server Memory:"
+msgid "Total Php Server Memory"
+msgstr "Συνολική μνήμη διακομιστή Php"
+
+#: includes/diagnose/class_bill_diagnose.php:748
+msgid ""
+"Your WordPress Memory Limit is too low, which can lead to critical issues on "
+"your site due to insufficient resources. Promptly address this issue before "
+"continuing."
+msgstr ""
+"Το όριο μνήμης του WordPress είναι πολύ χαμηλό, γεγονός που μπορεί να "
+"οδηγήσει σε κρίσιμα ζητήματα στον ιστότοπό σας λόγω ανεπαρκών πόρων. "
+"Αντιμετωπίστε αμέσως αυτό το ζήτημα πριν συνεχίσετε."
+
+#: includes/diagnose/class_bill_diagnose.php:783
+msgid "Site Errors"
+msgstr "Σφάλματα τοποθεσίας"
+
+#: includes/diagnose/class_bill_diagnose.php:788
+msgid ""
+"Your site has experienced errors for the past 2 days. These errors, "
+"including JavaScript issues, can result in visual problems or disrupt "
+"functionality, ranging from minor glitches to critical site failures. "
+"JavaScript errors can terminate JavaScript execution, leaving all subsequent "
+"commands inoperable."
+msgstr ""
+"Ο ιστότοπός σας παρουσίασε σφάλματα τις τελευταίες 2 ημέρες. Αυτά τα "
+"σφάλματα, συμπεριλαμβανομένων των προβλημάτων JavaScript, μπορεί να "
+"οδηγήσουν σε οπτικά προβλήματα ή να διαταράξουν τη λειτουργικότητα, που "
+"κυμαίνονται από μικρές δυσλειτουργίες έως κρίσιμες αποτυχίες ιστότοπου. Τα "
+"σφάλματα JavaScript μπορούν να τερματίσουν την εκτέλεση JavaScript, "
+"αφήνοντας όλες τις επόμενες εντολές ανενεργές."
+
+#: includes/diagnose/class_bill_diagnose.php:846
+msgid "This is a partial list of the errors found."
+msgstr "Αυτή είναι μια μερική λίστα των σφαλμάτων που βρέθηκαν."
+
+#: includes/diagnose/class_bill_diagnose.php:1324
+msgid ""
+"These are critical issues that can have a significant impact on your site's "
+"performance. They can cause many plugins and functionalities to malfunction "
+"and, in some cases, render your site completely inoperative, depending on "
+"their severity. Address them promptly."
+msgstr ""
+"Αυτά είναι κρίσιμα ζητήματα που μπορούν να έχουν σημαντικό αντίκτυπο στην "
+"απόδοση του ιστότοπού σας. Μπορούν να προκαλέσουν δυσλειτουργία πολλών "
+"προσθηκών και λειτουργιών και, σε ορισμένες περιπτώσεις, να καταστήσουν τον "
+"ιστότοπό σας εντελώς ανενεργό, ανάλογα με τη σοβαρότητά τους. Απευθυνθείτε "
+"σε αυτούς αμέσως."
+
+#: includes/functions/functions.php:430
+msgid "United Arab Emirates Dirham (&#1583;.&#1573;)"
+msgstr "Ντιράμ Ηνωμένων Αραβικών Εμιράτων (د.إ)"
+
+#: includes/functions/functions.php:431
+msgid "Afghan Afghani (&#1547;)"
+msgstr "Αφγανιστάν Αφγανιστάν (؋)"
+
+#: includes/functions/functions.php:432
+msgid "Angolan Kwanza"
+msgstr "Κουάντζα της Αγκόλα"
+
+#: includes/functions/functions.php:433
+msgid "Argentine Pesos (&#36;)"
+msgstr "Πέσο Αργεντινής ($)"
+
+#: includes/functions/functions.php:434
+msgid "Australian Dollars (&#36;)"
+msgstr "Δολάρια Αυστραλίας ($)"
+
+#: includes/functions/functions.php:435
+msgid "Brazilian Real (R&#36;)"
+msgstr "Ρεάλ Βραζιλίας (R$)"
+
+#: includes/functions/functions.php:436
+msgid "Bulgarian Lev"
+msgstr "βουλγαρικό λεβ"
+
+#: includes/functions/functions.php:437
+msgid "Canadian Dollars (&#36;)"
+msgstr "Δολάρια Καναδά ($)"
+
+#: includes/functions/functions.php:438
+msgid "Swiss Franc"
+msgstr "Ελβετικό Φράγκο"
+
+#: includes/functions/functions.php:439
+msgid "Chinese Yuan (&yen;)"
+msgstr "Γιουάν Κίνας (¥)"
+
+#: includes/functions/functions.php:440
+msgid "Czech Koruna"
+msgstr "Κορόνα Τσεχίας"
+
+#: includes/functions/functions.php:441
+msgid "Danish Krone"
+msgstr "Κορώνα Δανίας"
+
+#: includes/functions/functions.php:442
+msgid "Euros (&euro;)"
+msgstr "ευρώ (€)"
+
+#: includes/functions/functions.php:443
+msgid "Pound Sterling (&pound;)"
+msgstr "Λίρα στερλίνα (£)"
+
+#: includes/functions/functions.php:444
+msgid "Hong Kong Dollar (&#36;)"
+msgstr "Δολάριο Χονγκ Κονγκ ($)"
+
+#: includes/functions/functions.php:445
+msgid "Croatian Kuna"
+msgstr "Κούνα Κροατίας"
+
+#: includes/functions/functions.php:446
+msgid "Hungarian Forint"
+msgstr "ουγγρικό φιορίνι"
+
+#: includes/functions/functions.php:447
+msgid "Indonesian Rupiah (Rp)"
+msgstr "Ρουπία Ινδονησίας (Rp)"
+
+#: includes/functions/functions.php:448
+msgid "Israeli Shekel (&#8362;)"
+msgstr "Σέκελ Ισραήλ (₪)"
+
+#: includes/functions/functions.php:449
+msgid "Indian Rupee (&#8377;)"
+msgstr "Ρουπία Ινδίας (₹)"
+
+#: includes/functions/functions.php:450
+msgid "Japanese Yen (&yen;)"
+msgstr "Γιεν Ιαπωνίας (¥)"
+
+#: includes/functions/functions.php:451
+msgid "South Korean Won (&#8361;)"
+msgstr "Γουόν Νότιας Κορέας (₩)"
+
+#: includes/functions/functions.php:452
+msgid "Mexican Peso (&#36;)"
+msgstr "Πέσο Μεξικού ($)"
+
+#: includes/functions/functions.php:453
+msgid "Malaysian Ringgits"
+msgstr "Μαλαισιανοί Ρίνγκιτς"
+
+#: includes/functions/functions.php:454
+msgid "Norwegian Krone"
+msgstr "Κορώνα Νορβηγίας"
+
+#: includes/functions/functions.php:455
+msgid "New Zealand Dollar (&#36;)"
+msgstr "Δολάριο Νέας Ζηλανδίας ($)"
+
+#: includes/functions/functions.php:456
+msgid "Philippine Pesos"
+msgstr "Πέσο Φιλιππίνων"
+
+#: includes/functions/functions.php:457
+msgid "Polish Zloty"
+msgstr "Πολωνικό ζλότι"
+
+#: includes/functions/functions.php:458
+msgid "Pakistani Rupee (₨)"
+msgstr "Ρουπία Πακιστάν (₨)"
+
+#: includes/functions/functions.php:459
+msgid "Romanian Leu"
+msgstr "ρουμανικό Leu"
+
+#: includes/functions/functions.php:460
+msgid "Russian Rubles"
+msgstr "Ρωσικά ρούβλια"
+
+#: includes/functions/functions.php:461
+msgid "Saudi Riyal (&#65020;)"
+msgstr "Ριάλ Σαουδικής Αραβίας (﷼)"
+
+#: includes/functions/functions.php:462
+msgid "Swedish Krona"
+msgstr "Κορόνα Σουηδίας"
+
+#: includes/functions/functions.php:463
+msgid "Singapore Dollar (&#36;)"
+msgstr "Δολάριο Σιγκαπούρης ($)"
+
+#: includes/functions/functions.php:464
+msgid "Thai Baht (&#3647;)"
+msgstr "Μπατ Ταϊλάνδης (฿)"
+
+#: includes/functions/functions.php:465
+msgid "Turkish Lira (&#8378;)"
+msgstr "Τουρκική Λίρα (₺)"
+
+#: includes/functions/functions.php:466
+msgid "Taiwan New Dollars"
+msgstr "Νέα δολάρια Ταϊβάν"
+
+#: includes/functions/functions.php:467
+msgid "US Dollars (&#36;)"
+msgstr "Δολάρια ΗΠΑ ($)"
+
+#: includes/functions/functions.php:468
+msgid "Vietnamese Dong (&#8363;)"
+msgstr "Βιετναμέζικο Ντονγκ (₫)"
+
+#: includes/functions/functions.php:469
+msgid "Yen (&yen;)"
+msgstr "Γιεν (¥)"
+
+#: includes/functions/functions.php:470
+msgid "South African Rand"
+msgstr "Ραντ Νότιας Αφρικής"
+
+#: includes/functions/functions.php:783
+msgid "Extend standard plugin functionality with new great options."
+msgstr ""
+"Επεκτείνετε τη λειτουργικότητα των τυπικών προσθηκών με νέες εξαιρετικές "
+"επιλογές."
+
+#: includes/functions/functions.php:789 includes/functions/functions.php:801
+#: includes/functions/functions.php:807
+msgid "Make Your Website Look More Professional."
+msgstr "Κάντε τον ιστότοπό σας να φαίνεται πιο επαγγελματικός."
+
+#: includes/functions/functions.php:795
+msgid ""
+"Add colors and extend standard plugin functionality with new great options."
+msgstr ""
+"Προσθέστε χρώματα και επεκτείνετε την τυπική λειτουργικότητα των προσθηκών "
+"με νέες εξαιρετικές επιλογές."
+
+#: includes/functions/functions.php:809
+msgid "It is time to upgrade your"
+msgstr "Είναι καιρός να αναβαθμίσετε"
+
+#: includes/functions/functions.php:912
+msgid "Close notice"
+msgstr "Κλείσιμο ειδοποίησης"
+
+#: includes/functions/functions.php:923
+msgid "to"
+msgstr "να"
+
+#: includes/functions/functions.php:927
+msgid "version!"
+msgstr "εκδοχή!"
+
+#: includes/functions/functions.php:939
+msgid "Dismiss"
+msgstr "Απολύω"
+
+#: includes/help/help.php:82 includes/help/help.php:162
+#: includes/help/help.php:270 includes/help/help.php:307
+#: includes/help/help.php:326
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+#: includes/help/help.php:89
+msgid "Import Demo Data"
+msgstr "Εισαγωγή δεδομένων επίδειξης"
+
+#: includes/help/help.php:167
+msgid "Field Types"
+msgstr "Τύποι πεδίων"
+
+#: includes/help/help.php:172
+msgid "Add Fields Form"
+msgstr "Φόρμα προσθήκης πεδίων"
+
+#: includes/help/help.php:177
+msgid "Edit and Trash Fields"
+msgstr "Πεδία επεξεργασίας και κάδου απορριμμάτων"
+
+#: includes/help/help.php:275
+msgid "Agents"
+msgstr "Πράκτορες"
+
+#: includes/help/help.php:280 includes/search/search-function.php:226
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: includes/help/help.php:285
+msgid "Edit and Trash Properties"
+msgstr "Ιδιότητες επεξεργασίας και απορριμμάτων"
+
+#: includes/help/help.php:290
+msgid "Featured Images"
+msgstr "Επιλεγμένες εικόνες"
+
+#: includes/help/help.php:295
+msgid "Images and Gallery"
+msgstr "Εικόνες και Gallery"
+
+#: includes/help/help.php:370
+msgid "Help Available for this Window!"
+msgstr "Διατίθεται βοήθεια για αυτό το παράθυρο!"
+
+#: includes/help/help.php:371
+msgid "Just Click Help Button to get content help for this window."
+msgstr ""
+"Απλώς κάντε κλικ στο κουμπί Βοήθεια για να λάβετε βοήθεια περιεχομένου για "
+"αυτό το παράθυρο."
+
+#: includes/post-type/meta-box.php:9
+msgid "For Rent or For Sale."
+msgstr "Προς ενοικίαση ή προς πώληση."
+
+#: includes/post-type/meta-box.php:22
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Δεν υπάρχουν ειδικοί χαρακτήρες εδώ (\"$\" \",\" \".\"), η προσθήκη θα "
+"μορφοποιήσει αυτόματα τον αριθμό."
+
+#: includes/post-type/meta-box.php:29
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "Το έτος του προϊόντος. Μόνο αριθμοί, χωρίς σημείο, χωρίς κόμμα."
+
+#: includes/post-type/meta-box.php:36
+msgid "Mark to show up at Featured Widget."
+msgstr "Επισημάνετε για εμφάνιση στο Επιλεγμένο γραφικό στοιχείο."
+
+#: includes/post-type/meta-box.php:41
+msgid "How many Beds."
+msgstr "Πόσα κρεβάτια."
+
+#: includes/post-type/meta-box.php:61
+msgid "How many Baths."
+msgstr "Πόσα Μπάνια."
+
+#: includes/post-type/meta-box.php:81
+msgid "Address of the property."
+msgstr "Διεύθυνση του ακινήτου."
+
+#: includes/post-type/meta-box.php:88
+msgid "Area of the property."
+msgstr "Έκταση του ακινήτου."
+
+#: includes/post-type/meta-box.php:269
+#: includes/templates/template-functions.php:103
+msgid "Details"
+msgstr "Καθέκαστα"
+
+#: includes/post-type/post-functions.php:53
+msgid "Parent agents"
+msgstr "Γονικοί πράκτορες"
+
+#: includes/post-type/post-functions.php:54
+msgid "Parent agents:"
+msgstr "Γονικοί πράκτορες:"
+
+#: includes/post-type/post-functions.php:55
+msgid "Edit agents"
+msgstr "Επεξεργασία πράκτορες"
+
+#: includes/post-type/post-functions.php:56
+msgid "Update agents"
+msgstr "Ενημέρωση πράκτορες"
+
+#: includes/post-type/post-functions.php:57
+msgid "Add New agents"
+msgstr "Προσθήκη νέων πρακτόρων"
+
+#: includes/post-type/post-functions.php:58
+msgid "New agents"
+msgstr "Νέοι πράκτορες"
+
+#: includes/post-type/post-functions.php:59
+msgid "Separate agents with commas"
+msgstr "Διαχωρίστε τους πράκτορες με κόμματα"
+
+#: includes/post-type/post-functions.php:60
+msgid "Add or Remove agents"
+msgstr "Προσθήκη ή Αφαίρεση πρακτόρων"
+
+#: includes/post-type/post-functions.php:61
+msgid "Choose from the most used makers"
+msgstr "Επιλέξτε από τους πιο χρησιμοποιούμενους κατασκευαστές"
+
+#: includes/post-type/post-functions.php:79
+msgid "Parent locations"
+msgstr "Τοποθεσίες γονέων"
+
+#: includes/post-type/post-functions.php:80
+msgid "Parent locations:"
+msgstr "Τοποθεσίες γονέων:"
+
+#: includes/post-type/post-functions.php:81
+msgid "Edit locations"
+msgstr "Επεξεργασία τοποθεσιών"
+
+#: includes/post-type/post-functions.php:82
+msgid "Update locations"
+msgstr "Ενημέρωση τοποθεσιών"
+
+#: includes/post-type/post-functions.php:83
+msgid "Add New locations"
+msgstr "Προσθήκη νέων τοποθεσιών"
+
+#: includes/post-type/post-functions.php:84
+msgid "New locations"
+msgstr "Νέες τοποθεσίες"
+
+#: includes/post-type/post-functions.php:85
+msgid "Separate locations with commas"
+msgstr "Διαχωρίστε τις τοποθεσίες με κόμματα"
+
+#: includes/post-type/post-functions.php:86
+msgid "Add or Remove locations"
+msgstr "Προσθήκη ή Αφαίρεση τοποθεσιών"
+
+#: includes/post-type/post-functions.php:87
+msgid "Choose from the most used locations"
+msgstr "Επιλέξτε από τις πιο χρησιμοποιούμενες τοποθεσίες"
+
+#: includes/post-type/post-functions.php:102
+#: includes/post-type/post-functions.php:191
+msgid "Order:"
+msgstr "Παραγγελία:"
+
+#: includes/post-type/post-functions.php:104
+#: includes/post-type/post-functions.php:194
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr ""
+"Παραγγελία εμφάνισης. Για παράδειγμα: 1 (πρώτο), 2 (δεύτερο) και ούτω "
+"καθεξής ..."
+
+#: includes/post-type/post-functions.php:107
+#: includes/post-type/post-functions.php:199
+msgid "Profile Image:"
+msgstr "Εικόνα προφίλ:"
+
+#: includes/post-type/post-functions.php:112
+#: includes/post-type/post-functions.php:216
+msgid "Just click the Button to Select Upload Image"
+msgstr "Απλώς κάντε κλικ στο κουμπί για να επιλέξετε Μεταφόρτωση εικόνας"
+
+#: includes/post-type/post-functions.php:118
+#: includes/post-type/post-functions.php:221
+msgid "Position:"
+msgstr "Θέση:"
+
+#: includes/post-type/post-functions.php:120
+#: includes/post-type/post-functions.php:224
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr "Για παράδειγμα: Διευθυντής Πωλήσεων, Πράκτορας και ούτω καθεξής ..."
+
+#: includes/post-type/post-functions.php:123
+#: includes/post-type/post-functions.php:229
+msgid "Phone:"
+msgstr "Τηλέφωνο:"
+
+#: includes/post-type/post-functions.php:127
+#: includes/post-type/post-functions.php:236
+msgid "Email address:"
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου:"
+
+#: includes/post-type/post-functions.php:131
+#: includes/post-type/post-functions.php:243
+msgid "Skype:"
+msgstr "Skype:"
+
+#: includes/post-type/post-functions.php:135
+#: includes/post-type/post-functions.php:250
+msgid "Facebook URL:"
+msgstr "Διεύθυνση URL στο Facebook:"
+
+#: includes/post-type/post-functions.php:139
+#: includes/post-type/post-functions.php:257
+msgid "Twitter URL:"
+msgstr "Διεύθυνση URL Twitter:"
+
+#: includes/post-type/post-functions.php:143
+#: includes/post-type/post-functions.php:264
+msgid "Linkedin URL:"
+msgstr "URL Linkedin:"
+
+#: includes/post-type/post-functions.php:147
+#: includes/post-type/post-functions.php:271
+msgid "Youtube URL:"
+msgstr "Διεύθυνση URL στο Youtube:"
+
+#: includes/post-type/post-functions.php:151
+#: includes/post-type/post-functions.php:278
+msgid "Instagram URL:"
+msgstr "URL Instagram:"
+
+#: includes/post-type/post-functions.php:155
+#: includes/post-type/post-functions.php:285
+msgid "Vimeo URL:"
+msgstr "URL του Vimeo:"
+
+#: includes/post-type/post-functions.php:379
+msgid "Featured Image"
+msgstr "Επιλεγμένη εικόνα"
+
+#: includes/post-type/post-functions.php:407
+msgid "Call For Price"
+msgstr "Καλέστε για τιμή"
+
+#: includes/search/search-function.php:20
+#: includes/search/search-function.php:471 includes/widgets/widgets.php:382
+msgid "Search"
+msgstr "Ερευνα"
+
+#: includes/search/search-function.php:136
+msgid "Purpose"
+msgstr "Σκοπός"
+
+#: includes/search/search-function.php:152
+msgid "Rent"
+msgstr "Ενοίκιο"
+
+#: includes/search/search-function.php:155
+msgid "Sale"
+msgstr "Πώληση"
+
+#: includes/search/search-function.php:169
+#: includes/templates/template-functions.php:108
+#: includes/templates/template-showroom.php:314
+#: includes/templates/template-showroom2.php:262
+msgid "Beds"
+msgstr "Κρεβάτια"
+
+#: includes/search/search-function.php:175
+#: includes/search/search-function.php:198
+#: includes/search/search-function.php:234
+#: includes/search/search-function.php:287
+#: includes/search/search-function.php:312
+#: includes/search/search-function.php:334
+msgid "All"
+msgstr "Ολοι"
+
+#: includes/search/search-function.php:192
+#: includes/templates/template-functions.php:114
+#: includes/templates/template-showroom.php:315
+#: includes/templates/template-showroom2.php:263
+msgid "Baths"
+msgstr "Λουτρά"
+
+#: includes/search/search-function.php:335
+#: includes/templates/template-functions.php:150
+msgid "Yes"
+msgstr "Ναί"
+
+#: includes/search/search-function.php:336
+#: includes/templates/template-functions.php:152
+msgid "No"
+msgstr "Οχι"
+
+#: includes/search/search-function.php:355
+msgid "Order By"
+msgstr "Παραγγελία από"
+
+#: includes/search/search-function.php:362
+msgid "Any"
+msgstr "Κάθε"
+
+#: includes/search/search-function.php:364
+msgid "Year newest first"
+msgstr "Πρώτα το νεότερο έτος"
+
+#: includes/search/search-function.php:367
+msgid "Year oldest first"
+msgstr "Πρώτα το μεγαλύτερο έτος"
+
+#: includes/search/search-function.php:370
+msgid "Price higher first"
+msgstr "Τιμή υψηλότερη πρώτα"
+
+#: includes/search/search-function.php:373
+msgid "Price lower first"
+msgstr "Πρώτα χαμηλότερη τιμή"
+
+#: includes/search/search-function.php:403
+msgid "Price Range"
+msgstr "Εύρος τιμών"
+
+#: includes/search/search-function.php:444
+msgid "Price"
+msgstr "Τιμή"
+
+#: includes/team/team.php:114
+msgid "No Team Member Added!"
+msgstr "Δεν προστέθηκε μέλος ομάδας!"
+
+#: includes/templates/template-functions.php:83
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: includes/templates/template-functions.php:175
+#: includes/templates/template-showroom.php:310
+#: includes/templates/template-showroom1.php:241
+#: includes/templates/template-showroom2.php:258
+#: includes/templates/template-showroom3.php:228
+#: includes/widgets/widgets.php:70 includes/widgets/widgets.php:240
+msgid "Call for Price"
+msgstr "Καλέστε για Τιμή"
+
+#: includes/templates/template-functions.php:194
+#: includes/templates/template-functions.php:205
+#: includes/templates/template-showroom.php:313
+#: includes/templates/template-showroom2.php:261
+#: includes/widgets/widgets.php:82 includes/widgets/widgets.php:252
+msgid "Year"
+msgstr "Ετος"
+
+#: includes/templates/template-functions.php:210
+msgid "Cond"
+msgstr "Cond"
+
+#: includes/templates/template-functions.php:211
+msgid "HP"
+msgstr "ιπποδύναμη"
+
+#: includes/templates/template-showroom.php:316
+#: includes/templates/template-showroom2.php:264
+msgid "Area"
+msgstr "Εκταση"
+
+#: includes/templates/template-showroom.php:337
+#: includes/templates/template-showroom1.php:295
+#: includes/templates/template-showroom2.php:282
+#: includes/templates/template-showroom3.php:317
+#: includes/templates/template-single.php:43
+msgid "Back"
+msgstr "Πίσω"
+
+#: includes/templates/template-showroom.php:338
+#: includes/templates/template-showroom1.php:296
+#: includes/templates/template-showroom2.php:283
+#: includes/templates/template-showroom3.php:318
+msgid "Onward"
+msgstr "Προς τα εμπρός"
+
+#: includes/templates/template-showroom.php:348
+#: includes/templates/template-showroom1.php:306
+#: includes/templates/template-showroom2.php:292
+#: includes/templates/template-showroom3.php:327
+msgid "Not Found !"
+msgstr "Δεν βρέθηκε!"
+
+#: includes/templates/template-showroom1.php:283
+#: includes/templates/template-showroom3.php:308
+msgid "View"
+msgstr "Θέα"
+
+#: includes/templates/template-single.php:69
+msgid "Contact Us"
+msgstr "Επικοινωνήστε μαζί μας"
+
+#: includes/widgets/widgets.php:26
+msgid "A list of Recent properties"
+msgstr "Μια λίστα με πρόσφατες ιδιότητες"
+
+#: includes/widgets/widgets.php:52
+msgid "New Arrivals"
+msgstr "Νέες Αφίξεις"
+
+#: includes/widgets/widgets.php:188
+msgid "A list of Featured products"
+msgstr "Μια λίστα με τα επιλεγμένα προϊόντα"
+
+#: includes/widgets/widgets.php:212
+msgid "Featured properties"
+msgstr "Επιλεγμένες ιδιότητες"
+
+#: includes/widgets/widgets.php:357
+msgid "Search properties"
+msgstr "Αναζήτηση ιδιοτήτων"
+
+#: includes/widgets/widgets.php:369
+msgid "Title"
+msgstr "Τίτλος"
+
+#: settings/options/plugin_options_tabbed.php:39
+msgid "Currency"
+msgstr "Νόμισμα"
+
+#: settings/options/plugin_options_tabbed.php:88
+msgid "Meters - Feets"
+msgstr "Μέτρα – Πόδια"
+
+#: settings/options/plugin_options_tabbed.php:90
+msgid "Meters"
+msgstr "Μετρητές"
+
+#: settings/options/plugin_options_tabbed.php:91
+msgid "Feets"
+msgstr "Πόδια"
+
+#: settings/options/plugin_options_tabbed.php:117
+msgid "How many properties would you like to display per page?"
+msgstr "Πόσες ιδιότητες θα θέλατε να εμφανίζονται ανά σελίδα;"
+
+#: settings/options/plugin_options_tabbed.php:140
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Κατάργηση Sidebar από τη σελίδα αποτελεσμάτων αναζήτησης"
+
+#: settings/options/plugin_options_tabbed.php:149
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Αντικαταστήστε το Wordpress Gallery με το Flexslider Gallery"
+
+#: settings/options/plugin_options_tabbed.php:158
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Ενεργοποίηση φόρμας επικοινωνίας σε μεμονωμένη σελίδα προϊόντος;"
+
+#: settings/options/plugin_options_tabbed.php:167
+msgid "Enable Location control in search bar?"
+msgstr "Ενεργοποίηση ελέγχου τοποθεσίας στη γραμμή αναζήτησης;"
+
+#: settings/options/plugin_options_tabbed.php:176
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual Product page."
+msgstr ""
+"Συμπληρώστε το email επικοινωνίας σας για να λάβετε email από τη Φόρμα "
+"Επικοινωνίας στο κάτω μέρος της μεμονωμένης σελίδας Προϊόντος."
+
+#: settings/options/plugin_options_tabbed.php:181
+msgid "Optional. Fill out your Google API to use with yours maps (google maps)"
+msgstr ""
+"Προαιρετικός. Συμπληρώστε το Google API για να το χρησιμοποιήσετε με τους "
+"δικούς σας χάρτες (χάρτες Google)"
+
+#: settings/options/plugin_options_tabbed.php:186
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr ""
+"Στην Εμφάνιση σελίδας δωματίου, χρησιμοποιήστε το Πρότυπο Γκαλερί ή Προβολή "
+"λίστας"
+
+#: settings/options/plugin_options_tabbed.php:196
+msgid "In Show Room Page, use Gallery, List View or Grid Template"
+msgstr "Στο Show Room Page, χρησιμοποιήστε Gallery, List View ή Grid Template"
+
+#: settings/options/plugin_options_tabbed.php:207
+msgid ""
+"In Show Room Page, Template List View or Grid, Choose the thumbnail image "
+"size (width) - Premium Version"
+msgstr ""
+"Στην Εμφάνιση σελίδας δωματίου, προβολή λίστας προτύπων ή πλέγμα, επιλέξτε "
+"το μέγεθος της μικρογραφίας της εικόνας (πλάτος) - Έκδοση Premium"
+
+#: settings/options/plugin_options_tabbed.php:219
+msgid "In Single Product Page, use Template"
+msgstr "Στη σελίδα μεμονωμένου προϊόντος, χρησιμοποιήστε το πρότυπο"
+
+#: settings/options/plugin_options_tabbed.php:254
+#: settings/options/plugin_options_tabbed.php:326
+msgid "Show the Purpose Control"
+msgstr "Εμφάνιση του Έλεγχου Σκοπού"
+
+#: settings/options/plugin_options_tabbed.php:263
+#: settings/options/plugin_options_tabbed.php:335
+msgid "Show the Beds Control"
+msgstr "Εμφάνιση του ελέγχου κρεβατιών"
+
+#: settings/options/plugin_options_tabbed.php:272
+#: settings/options/plugin_options_tabbed.php:344
+msgid "Show the Baths Control"
+msgstr "Εμφάνιση του ελέγχου λουτρών"
+
+#: settings/options/plugin_options_tabbed.php:282
+#: settings/options/plugin_options_tabbed.php:353
+msgid "Show the Location Control"
+msgstr "Εμφάνιση του Έλεγχου τοποθεσίας"
+
+#: settings/options/plugin_options_tabbed.php:293
+#: settings/options/plugin_options_tabbed.php:362
+msgid "Show the Order By Control"
+msgstr "Εμφάνιση της παραγγελίας με έλεγχο"
+
+#: settings/options/plugin_options_tabbed.php:304
+#: settings/options/plugin_options_tabbed.php:371
+msgid "Show the Price Slider Control"
+msgstr "Εμφάνιση του ρυθμιστή τιμής"
+
+#: settings/options/plugin_options_tabbed.php:315
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+"Προσαρμόστε τις επιλογές γραφικών στοιχείων αναζήτησης. Επιλέξτε τα πεδία "
+"που θα εμφανίζονται στο Γραφικό στοιχείο αναζήτησης."
+
+#. Plugin Name of the plugin/theme
+msgid "Real Estate Right Now"
+msgstr "Real Estate Αυτή τη στιγμή"
+
+#. Plugin URI of the plugin/theme
+msgid "http://realestateplugin.eu"
+msgstr "http://realestateplugin.eu"
+
+#. Description of the plugin/theme
+msgid "Real Estate Plugin for Real Estate agency."
+msgstr "Πρόσθετο Real Estate για μεσιτικό γραφείο."
+
+#. Author of the plugin/theme
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#. Author URI of the plugin/theme
+msgid "http://billminozzi.com"
+msgstr "http://billminozzi.com"
